@@ -1,5 +1,4 @@
-import random
-import os
+import random, os
 class Ahorcado:
     def __init__(self) -> None:
         self.pokedex = {

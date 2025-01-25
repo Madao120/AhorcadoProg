@@ -88,11 +88,11 @@ class Ahorcado:
 
             if all(letra in self.letras_usuario for letra in pokemon):
                 self.clear_window()
-                print(f"¡Felicidades! Adivinaste la palabra: {pokemon}")
+                print(f"¡Felicidades! Has capturado un {pokemon}")
                 break
         else:
             self.clear_window()
-            print(f"Perdiste. La palabra era: {pokemon}")
+            print(f"Vaya, perece que se ta ha escapado. El pokemon era: {pokemon}")
 
 game = Ahorcado("data.json")
 game.play()

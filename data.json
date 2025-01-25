@@ -1,5 +1,562 @@
 [
     {
+        "name": "rowlet",
+        "tipo": ["planta","volador"],
+        "generacion": "alola",
+        "numero": 722
+    },
+    {
+        "name": "dartrix",
+        "tipo": ["planta","volador"],
+        "generacion": "alola",
+        "numero": 723
+    },
+    {
+        "name": "decidueye",
+        "tipo": ["planta","fantasma"],
+        "generacion": "alola",
+        "numero": 724
+    },
+    {
+        "name": "litten",
+        "tipo": ["fuego"],
+        "generacion": "alola",
+        "numero": 725
+    },
+    {
+        "name": "torracat",
+        "tipo": ["fuego"],
+        "generacion": "alola",
+        "numero": 726
+    },
+    {
+        "name": "incineroar",
+        "tipo": ["fuego","siniestro"],
+        "generacion": "alola",
+        "numero": 727
+    },
+    {
+        "name": "popplio",
+        "tipo": ["agua"],
+        "generacion": "alola",
+        "numero": 728
+    },
+    {
+        "name": "brionne",
+        "tipo": ["agua"],
+        "generacion": "alola",
+        "numero": 729
+    },
+    {
+        "name": "primarina",
+        "tipo": ["agua","hada"],
+        "generacion": "alola",
+        "numero": 730
+    },
+    {
+        "name": "pikipek",
+        "tipo": ["normal","volador"],
+        "generacion": "alola",
+        "numero": 731
+    },
+    {
+        "name": "trumbeak",
+        "tipo": ["normal","volador"],
+        "generacion": "alola",
+        "numero": 732
+    },
+    {
+        "name": "toucannon",
+        "tipo": ["normal","volador"],
+        "generacion": "alola",
+        "numero": 733
+    },
+    {
+        "name": "yungos",
+        "tipo": ["normal"],
+        "generacion": "alola",
+        "numero": 734
+    },
+    {
+        "name": "gumshoos",
+        "tipo": ["normal"],
+        "generacion": "alola",
+        "numero": 735
+    },
+    {
+        "name": "grubbin",
+        "tipo": ["bicho"],
+        "generacion": "alola",
+        "numero": 736
+    },
+    {
+        "name": "charjabug",
+        "tipo": ["bicho","electrico"],
+        "generacion": "alola",
+        "numero": 737
+    },
+    {
+        "name": "vikavolt",
+        "tipo": ["bicho","electrico"],
+        "generacion": "alola",
+        "numero": 738
+    },
+    {
+        "name": "crabrawler",
+        "tipo": ["lucha"],
+        "generacion": "alola",
+        "numero": 739
+    },
+    {
+        "name": "crabominable",
+        "tipo": ["lucha"],
+        "generacion": "alola",
+        "numero": 740
+    },
+    {
+        "name": "oricorio",
+        "tipo": ["fuego","volador"],
+        "generacion": "alola",
+        "numero": 741
+    },
+    {
+        "name": "oricorio",
+        "tipo": ["electrico","volador"],
+        "generacion": "alola",
+        "numero": 741
+    },
+    {
+        "name": "oricorio",
+        "tipo": ["psiquico","volador"],
+        "generacion": "alola",
+        "numero": 741
+    },
+    {
+        "name": "oricorio",
+        "tipo": ["fantasma","volador"],
+        "generacion": "alola",
+        "numero": 741
+    },
+    {
+        "name": "cutiefly",
+        "tipo": ["bicho","hada"],
+        "generacion": "alola",
+        "numero": 742
+    },
+    {
+        "name": "ribombee",
+        "tipo": ["bicho","hada"],
+        "generacion": "alola",
+        "numero": 743
+    },
+    {
+        "name": "rockruff",
+        "tipo": ["roca"],
+        "generacion": "alola",
+        "numero": 744
+    },
+    {
+        "name": "lycanroc",
+        "tipo": ["roca"],
+        "generacion": "alola",
+        "numero": 745
+    },
+    {
+        "name": "wishiwashi",
+        "tipo": ["agua"],
+        "generacion": "alola",
+        "numero": 746
+    },
+    {
+        "name": "mareanie",
+        "tipo": ["veneno","agua"],
+        "generacion": "alola",
+        "numero": 747
+    },
+    {
+        "name": "toxapex",
+        "tipo": ["veneno","agua"],
+        "generacion": "alola",
+        "numero": 748
+    },
+    {
+        "name": "mudbray",
+        "tipo": ["",""],
+        "generacion": "alola",
+        "numero": 749
+    },
+    {
+        "name": "mudsdale",
+        "tipo": ["",""],
+        "generacion": "alola",
+        "numero": 750
+    },
+    {
+        "name": "dewpider",
+        "tipo": ["agua","bicho"],
+        "generacion": "alola",
+        "numero": 751
+    },
+    {
+        "name": "araquanid",
+        "tipo": ["agua","bicho"],
+        "generacion": "alola",
+        "numero": 752
+    },
+    {
+        "name": "fomantis",
+        "tipo": ["planta"],
+        "generacion": "alola",
+        "numero": 753
+    },
+    {
+        "name": "lurantis",
+        "tipo": ["planta"],
+        "generacion": "alola",
+        "numero": 754
+    },
+    {
+        "name": "morelull",
+        "tipo": ["planta","hada"],
+        "generacion": "alola",
+        "numero": 755
+    },
+    {
+        "name": "shiinotic",
+        "tipo": ["planta","hada"],
+        "generacion": "alola",
+        "numero": 756
+    },
+    {
+        "name": "salandit",
+        "tipo": ["veneno","fuego"],
+        "generacion": "alola",
+        "numero": 757
+    },
+    {
+        "name": "salazzle",
+        "tipo": ["veneno","fuego"],
+        "generacion": "alola",
+        "numero": 758
+    },
+    {
+        "name": "stufful",
+        "tipo": ["normal","lucha"],
+        "generacion": "alola",
+        "numero": 759
+    },
+    {
+        "name": "bewear",
+        "tipo": ["normal","lucha"],
+        "generacion": "alola",
+        "numero": 760
+    },
+    {
+        "name": "bounsweet",
+        "tipo": ["planta"],
+        "generacion": "alola",
+        "numero": 761
+    },
+    {
+        "name": "steene",
+        "tipo": ["planta"],
+        "generacion": "alola",
+        "numero": 762
+    },
+    {
+        "name": "tsareena",
+        "tipo": ["planta"],
+        "generacion": "alola",
+        "numero": 763
+    },
+    {
+        "name": "comfey",
+        "tipo": ["hada"],
+        "generacion": "alola",
+        "numero": 764
+    },
+    {
+        "name": "oranguru",
+        "tipo": ["normal","psíquico"],
+        "generacion": "alola",
+        "numero": 765
+    },
+    {
+        "name": "passimian",
+        "tipo": ["lucha"],
+        "generacion": "alola",
+        "numero": 766
+    },
+    {
+        "name": "wimpod",
+        "tipo": ["bicho","agua"],
+        "generacion": "alola",
+        "numero": 767
+    },
+    {
+        "name": "golisopod",
+        "tipo": ["bicho","agua"],
+        "generacion": "alola",
+        "numero": 768
+    },
+    {
+        "name": "sandygast",
+        "tipo": ["fantasma","tierra"],
+        "generacion": "alola",
+        "numero": 769
+    },
+    {
+        "name": "palossand",
+        "tipo": ["fantasma","tierra"],
+        "generacion": "alola",
+        "numero": 770
+    },
+    {
+        "name": "pyukumuku",
+        "tipo": ["agua"],
+        "generacion": "alola",
+        "numero": 771
+    },
+    {
+        "name": "código cero",
+        "tipo": ["normal"],
+        "generacion": "alola",
+        "numero": 772
+    },
+    {
+        "name": "silvally",
+        "tipo": ["normal"],
+        "generacion": "alola",
+        "numero": 773
+    },
+    {
+        "name": "minior",
+        "tipo": ["roca","volador"],
+        "generacion": "alola",
+        "numero": 774
+    },
+    {
+        "name": "komala",
+        "tipo": ["normal"],
+        "generacion": "alola",
+        "numero": 775
+    },
+    {
+        "name": "turtonator",
+        "tipo": ["fuego","dragón"],
+        "generacion": "alola",
+        "numero": 776
+    },
+    {
+        "name": "togedemaru",
+        "tipo": ["acero","electrico"],
+        "generacion": "alola",
+        "numero": 777
+    },
+    {
+        "name": "mimikyu",
+        "tipo": ["fantasma","hada"],
+        "generacion": "alola",
+        "numero": 778
+    },
+    {
+        "name": "bruxish",
+        "tipo": ["agua","psiquico"],
+        "generacion": "alola",
+        "numero": 779
+    },
+    {
+        "name": "drampa",
+        "tipo": ["normal","dragon"],
+        "generacion": "alola",
+        "numero": 780
+    },
+    {
+        "name": "dhelmise",
+        "tipo": ["fantasma","planta"],
+        "generacion": "alola",
+        "numero": 781
+    },
+    {
+        "name": "jangmo-o",
+        "tipo": ["dragon"],
+        "generacion": "alola",
+        "numero": 782
+    },
+    {
+        "name": "hakamo-o",
+        "tipo": ["dragon","lucha"],
+        "generacion": "alola",
+        "numero": 783
+    },
+    {
+        "name": "kommo-o",
+        "tipo": ["dragon","lucha"],
+        "generacion": "alola",
+        "numero": 784
+    },
+    {
+        "name": "tapu Koko",
+        "tipo": ["electrico","hada"],
+        "generacion": "alola",
+        "numero": 785
+    },
+    {
+        "name": "tapu Lele",
+        "tipo": ["psiquico","hada"],
+        "generacion": "alola",
+        "numero": 786
+    },
+    {
+        "name": "tapu Bulu",
+        "tipo": ["planta","hada"],
+        "generacion": "alola",
+        "numero": 787
+    },
+    {
+        "name": "tapu Fini",
+        "tipo": ["agua","hada"],
+        "generacion": "alola",
+        "numero": 788
+    },
+    {
+        "name": "cosmog",
+        "tipo": ["psiquico"],
+        "generacion": "alola",
+        "numero": 789
+    },
+    {
+        "name": "cosmoem",
+        "tipo": ["psiquico"],
+        "generacion": "alola",
+        "numero": 790
+    },
+    {
+        "name": "solgaleo",
+        "tipo": ["psiquico","acero"],
+        "generacion": "alola",
+        "numero": 791
+    },
+    {
+        "name": "lunala",
+        "tipo": ["psiquico","fantasma"],
+        "generacion": "alola",
+        "numero": 792
+    },
+    {
+        "name": "nihilego",
+        "tipo": ["roca","veneno"],
+        "generacion": "alola",
+        "numero": 793
+    },
+    {
+        "name": "buzzwole",
+        "tipo": ["bicho","lucha"],
+        "generacion": "alola",
+        "numero": 794
+    },
+    {
+        "name": "pheromosa",
+        "tipo": ["bicho","lucha"],
+        "generacion": "alola",
+        "numero": 795
+    },
+    {
+        "name": "xurkitree",
+        "tipo": ["electrico"],
+        "generacion": "alola",
+        "numero": 796
+    },
+    {
+        "name": "celesteela",
+        "tipo": ["acero","volador"],
+        "generacion": "alola",
+        "numero": 797
+    },
+    {
+        "name": "kartana",
+        "tipo": ["planta","acero"],
+        "generacion": "alola",
+        "numero": 798
+    },
+    {
+        "name": "guzzlord",
+        "tipo": ["siniestro","dragon"],
+        "generacion": "alola",
+        "numero": 799
+    },
+    {
+        "name": "necrozma",
+        "tipo": ["psiquico"],
+        "generacion": "alola",
+        "numero": 800
+    },
+    {
+        "name": "magearna",
+        "tipo": ["acero","hada"],
+        "generacion": "alola",
+        "numero": 801
+    },
+    {
+        "name": "marshadow",
+        "tipo": ["lucha","fantasma"],
+        "generacion": "alola",
+        "numero": 802
+    },
+    {
+        "name": "poipole",
+        "tipo": ["veneno"],
+        "generacion": "alola",
+        "numero": 803
+    },
+    {
+        "name": "naganadel",
+        "tipo": ["veneno","dragon"],
+        "generacion": "alola",
+        "numero": 804
+    },
+    {
+        "name": "stakataka",
+        "tipo": ["roca","acero"],
+        "generacion": "alola",
+        "numero": 805
+    },
+    {
+        "name": "blacephalon",
+        "tipo": ["fuego","fantasma"],
+        "generacion": "alola",
+        "numero": 806
+    },
+    {
+        "name": "zeraora",
+        "tipo": ["electrico"],
+        "generacion": "alola",
+        "numero": 807
+    },
+    {
+        "name": "meltan",
+        "tipo": ["acero"],
+        "generacion": "alola",
+        "numero": 808
+    },
+    {
+        "name": "melmetal",
+        "tipo": ["acero"],
+        "generacion": "alola",
+        "numero": 809
+    },
+
+
+
+
+
+
+
+
+
+
+    
+    {
         "name": "grookey",
         "tipo": ["planta"],
         "generacion": "galar",
@@ -1300,7 +1857,7 @@
     },
     {
         "name": "terapagos",
-        "tipo": ["nomral"],
+        "tipo": ["normal"],
         "generacion": "paldea",
         "numero": 1024
     },

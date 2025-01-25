@@ -1,33 +1,32 @@
-import random, os
+import random, os, json
 class Ahorcado:
-    def __init__(self) -> None:
-        self.pokedex = {
-            "bulbasaur": {
-                "name": "bulbasaur",
-                "tipo": ["planta", "veneno"],
-                "generacion": "kanto"
-            }
-        }
+    def __init__(self, json_file):
+        with open(json_file, "r", encoding="utf-8") as file:
+            self.pokedex = json.load(file)
         self.usuario = str
         self.contraseña = str
         self.letras_usuario = []
+        self.letras_incorrectas = []
         self.letras_pokemon = []
 
-    def clear_window(self):
+    def clear_window(self): #Función para limpiar la ventana y que solo haya unas líneas limpias
         os.system('cls' if os.name == "nt" else "clear")
 
     def respuesta(self):
         res = ""
         while len(res) != 1:
-            res = input("Introduce una letra\n")
+            res = str(input("Introduce una letra\n"))
         return res
 
-    def correct_word (self, pokemon):
+    def correct_word (self, pokemon): #Lista donde se guardarán las letras correctas, para que el programa sepa cuales son
         for i in pokemon:
             if i not in self.letras_pokemon:
                 self.letras_pokemon.append(i)
+
+    def print_letras_incorrectas(self): #Lista donde irán las letras incorrectas
+        print("Letras incorrectas: ", ", ".join(self.letras_incorrectas))
             
-    def print_word(self, pokemon):
+    def print_word(self, pokemon): #Generador de palabra aleatoria, donde pondrá _ por cada letra de la palabra y sustituirá los mismos por las letras correctas en caso de que el usuario las responda
         for i in range(len(pokemon)):
             if pokemon[i] in self.letras_usuario:
                 print(pokemon[i], " ", end="")
@@ -35,20 +34,67 @@ class Ahorcado:
                 print("_ ", end="")
 
     def play(self):
-        self.correct_word(self.pokedex["bulbasaur"]["name"])
-        while True:
+        pokemon_data = random.choice(self.pokedex)
+        pokemon = pokemon_data["name"]
+        self.correct_word(pokemon)
+        intentos = 6
+
+        while intentos >= 0:
             self.clear_window()
-            self.print_word(self.pokedex["bulbasaur"]["name"])
+            if intentos == 6 or intentos == 5:
+                print(f"Te quedan {intentos} intentos restantes.")
+            if intentos == 4 or intentos == 3:
+                print(f"Te quedan {intentos} intentos restantes.")
+                print(f"Pista: Tipo principal del pokemon -> {pokemon_data["tipo"][0]}")
+            elif intentos == 2:
+                if len(pokemon_data["tipo"]) == 1:
+                    print(f"Te quedan {intentos} intentos restantes.")
+                    print(f"Pistas: \nTipo principal del pokemon -> {pokemon_data["tipo"][0]} \nSin tipo secundario")
+                elif len(pokemon_data["tipo"]) > 1:
+                    print(f"Te quedan {intentos} intentos restantes.")
+                    print(f"Pistas: \nTipo principal del pokemon -> {pokemon_data["tipo"][0]} \nTipo secundario del pokemon -> {pokemon_data["tipo"][1]}")
+            elif intentos == 1:
+                if len(pokemon_data["tipo"]) == 1:
+                    print(f"Te quedan {intentos} intento restante.")
+                    print(f"Pistas: \nTipo principal del pokemon -> {pokemon_data["tipo"][0]} \nSin tipo secundario \nGeneración del Pokemon -> {pokemon_data["generacion"]}")
+                elif len(pokemon_data["tipo"]) > 1:
+                    print(f"Te quedan {intentos} intento restante.")
+                    print(f"Pistas: \nTipo principal del pokemon -> {pokemon_data["tipo"][0]} \nTipo secundario del pokemon -> {pokemon_data["tipo"][1]} \nGeneración del Pokemon -> {pokemon_data["generacion"]}")
+            elif intentos == 0:
+                if len(pokemon_data["tipo"]) == 1:
+                    print(f"Te quedan {intentos} intentos restantes.")
+                    print(f"Pistas: \nTipo principal del pokemon -> {pokemon_data["tipo"][0]} \nSin tipo secundario \nGeneración del Pokemon -> {pokemon_data["generacion"]}")
+                elif len(pokemon_data["tipo"]) > 1:
+                    print(f"Te quedan {intentos} intentos restantes.")
+                    print(f"Pistas: \nTipo principal del pokemon -> {pokemon_data["tipo"][0]} \nTipo secundario del pokemon -> {pokemon_data["tipo"][1]} \nGeneración del Pokemon -> {pokemon_data["generacion"]}")
+            self.print_word(pokemon)
+            self.print_letras_incorrectas()
+
             respuesta = self.respuesta()
+
+            if respuesta in self.letras_usuario: #si la letra introducida ya está dentro de las respuestas previas no se contará el intento y permitirá otro intento
+                print("Ya has ingresado esta letra.")
+                input("Presiona Enter para continuar...")
+                continue
+
             self.letras_usuario.append(respuesta)
-            for i in self.letras_usuario:
-                if i not in self.letras_pokemon:
-                    print(i, end="")
 
-game = Ahorcado()
-Ahorcado.play(game)
+            if respuesta in self.letras_pokemon:
+                print("¡Correcto!")
+            else:
+                print("Incorrecto.")
+                self.letras_incorrectas.append(respuesta)
+                intentos -= 1
 
+            if all(letra in self.letras_usuario for letra in pokemon):
+                self.clear_window()
+                print(f"¡Felicidades! Adivinaste la palabra: {pokemon}")
+                break
+        else:
+            self.clear_window()
+            print(f"Perdiste. La palabra era: {pokemon}")
 
-
+game = Ahorcado("data.json")
+game.play()
 # pokemon = random.choice(self.pokedex))
 

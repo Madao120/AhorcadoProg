@@ -1,8 +1,488 @@
-{
-    "bulvasuar" {
-        "indice": 1,
-        "tipo": ["planta", "veneno"],
-        "generacion": "kanto"
+[
+    {
+        "name": "grookey",
+        "tipo": ["planta"],
+        "generacion": "galar",
+        "numero": 810
     },
-    {}
-}
+    {
+        "name": "thwackey",
+        "tipo": ["planta"],
+        "generacion": "galar",
+        "numero": 811
+    },
+    {
+        "name": "rillaboom",
+        "tipo": ["planta"],
+        "generacion": "galar",
+        "numero": 812
+    },
+    {
+        "name": "scorbunny",
+        "tipo": ["fuego"],
+        "generacion": "galar",
+        "numero": 813
+    },
+    {
+        "name": "raboot",
+        "tipo": ["fuego"],
+        "generacion": "galar",
+        "numero": 814
+    },
+    {
+        "name": "cinderace",
+        "tipo": ["fuego"],
+        "generacion": "galar",
+        "numero": 815
+    },
+    {
+        "name": "sobble",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 816
+    },
+    {
+        "name": "drizzile",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 817
+    },
+    {
+        "name": "inteleon",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 818
+    },
+    {
+        "name": "skwovet",
+        "tipo": ["normal"],
+        "generacion": "galar",
+        "numero": 819
+    },
+    {
+        "name": "greedent",
+        "tipo": ["normal"],
+        "generacion": "galar",
+        "numero": 820
+    },
+    {
+        "name": "rookidee",
+        "tipo": ["volador"],
+        "generacion": "galar",
+        "numero": 821
+    },
+    {
+        "name": "corvisquire",
+        "tipo": ["volador"],
+        "generacion": "galar",
+        "numero": 822
+    },
+    {
+        "name": "corviknight",
+        "tipo": ["volador", "acero"],
+        "generacion": "galar",
+        "numero": 823
+    },
+    {
+        "name": "blipbug",
+        "tipo": ["bicho"],
+        "generacion": "galar",
+        "numero": 824
+    },
+    {
+        "name": "dottler",
+        "tipo": ["bicho", "psiquico"],
+        "generacion": "galar",
+        "numero": 825
+    },
+    {
+        "name": "orbeetle",
+        "tipo": ["bicho", "psiquico"],
+        "generacion": "galar",
+        "numero": 826
+    },
+    {
+        "name": "nickit",
+        "tipo": ["siniestro"],
+        "generacion": "galar",
+        "numero": 827
+    },
+    {
+        "name": "thievul",
+        "tipo": ["siniestro"],
+        "generacion": "galar",
+        "numero": 828
+    },
+    {
+        "name": "gossifleur",
+        "tipo": ["planta"],
+        "generacion": "galar",
+        "numero": 829
+    },
+    {
+        "name": "eldegoss",
+        "tipo": ["planta"],
+        "generacion": "galar",
+        "numero": 830
+    },
+    {
+        "name": "wooloo",
+        "tipo": ["normal"],
+        "generacion": "galar",
+        "numero": 831
+    },
+    {
+        "name": "dubwool",
+        "tipo": ["normal"],
+        "generacion": "galar",
+        "numero": 832
+    },
+    {
+        "name": "chewtle",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 833
+    },
+    {
+        "name": "drednaw",
+        "tipo": ["agua", "roca"],
+        "generacion": "galar",
+        "numero": 834
+    },
+    {
+        "name": "yamper",
+        "tipo": ["electrico"],
+        "generacion": "galar",
+        "numero": 835
+    },
+    {
+        "name": "boltund",
+        "tipo": ["electrico"],
+        "generacion": "galar",
+        "numero": 836
+    },
+    {
+        "name": "rolycoly",
+        "tipo": ["roca"],
+        "generacion": "galar",
+        "numero": 837
+    },
+    {
+        "name": "carkol",
+        "tipo": ["roca", "fuego"],
+        "generacion": "galar",
+        "numero": 838
+    },
+    {
+        "name": "coalossal",
+        "tipo": ["roca", "fuego"],
+        "generacion": "galar",
+        "numero": 839
+    },
+    {
+        "name": "applin",
+        "tipo": ["planta", "dragon"],
+        "generacion": "galar",
+        "numero": 840
+    },
+    {
+        "name": "flapple",
+        "tipo": ["planta", "dragon"],
+        "generacion": "galar",
+        "numero": 841
+    },
+    {
+        "name": "appletun",
+        "tipo": ["planta", "dragon"],
+        "generacion": "galar",
+        "numero": 842
+    },
+    {
+        "name": "silicobra",
+        "tipo": ["tierra"],
+        "generacion": "galar",
+        "numero": 843
+    },
+    {
+        "name": "sandaconda",
+        "tipo": ["tierra"],
+        "generacion": "galar",
+        "numero": 844
+    },
+    {
+        "name": "cramorant",
+        "tipo": ["volador", "agua"],
+        "generacion": "galar",
+        "numero": 845
+    },
+    {
+        "name": "arrokuda",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 846
+    },
+    {
+        "name": "barraskewda",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 847
+    },
+    {
+        "name": "toxel",
+        "tipo": ["electrico", "veneno"],
+        "generacion": "galar",
+        "numero": 848
+    },
+    {
+        "name": "toxtricity",
+        "tipo": ["electrico", "veneno"],
+        "generacion": "galar",
+        "numero": 849
+    },
+    {
+        "name": "sizzlipede",
+        "tipo": ["fuego", "bicho"],
+        "generacion": "galar",
+        "numero": 850
+    },
+    {
+        "name": "centiskorch",
+        "tipo": ["fuego", "bicho"],
+        "generacion": "galar",
+        "numero": 851
+    },
+    {
+        "name": "clobbopus",
+        "tipo": ["lucha"],
+        "generacion": "galar",
+        "numero": 852
+    },
+    {
+        "name": "grapploct",
+        "tipo": ["lucha"],
+        "generacion": "galar",
+        "numero": 853
+    },
+    {
+        "name": "sinistea",
+        "tipo": ["fantasma"],
+        "generacion": "galar",
+        "numero": 854
+    },
+    {
+        "name": "polteageist",
+        "tipo": ["fantasma"],
+        "generacion": "galar",
+        "numero": 855
+    },
+    {
+        "name": "hatenna",
+        "tipo": ["psiquico"],
+        "generacion": "galar",
+        "numero": 856
+    },
+    {
+        "name": "hattrem",
+        "tipo": ["psiquico"],
+        "generacion": "galar",
+        "numero": 857
+    },
+    {
+        "name": "hatterene",
+        "tipo": ["psiquico", "hada"],
+        "generacion": "galar",
+        "numero": 858
+    },
+    {
+        "name": "impidimp",
+        "tipo": ["siniestro", "hada"],
+        "generacion": "galar",
+        "numero": 859
+    },
+    {
+        "name": "morgrem",
+        "tipo": ["siniestro", "hada"],
+        "generacion": "galar",
+        "numero": 860
+    },
+    {
+        "name": "grimmsnarl",
+        "tipo": ["siniestro", "hada"],
+        "generacion": "galar",
+        "numero": 861
+    },
+    {
+        "name": "obstagoon",
+        "tipo": ["siniestro", "normal"],
+        "generacion": "galar",
+        "numero": 862
+    },
+    {
+        "name": "perrserker",
+        "tipo": ["acero"],
+        "generacion": "galar",
+        "numero": 863
+    },
+    {
+        "name": "cursola",
+        "tipo": ["fantasma"],
+        "generacion": "galar",
+        "numero": 864
+    },
+    {
+        "name": "sirfetch'd",
+        "tipo": ["lucha"],
+        "generacion": "galar",
+        "numero": 865
+    },
+    {
+        "name": "mr. rime",
+        "tipo": ["hielo", "psiquico"],
+        "generacion": "galar",
+        "numero": 866
+    },
+    {
+        "name": "runerigus",
+        "tipo": ["tierra", "fantasma"],
+        "generacion": "galar",
+        "numero": 867
+    },
+    {
+        "name": "milcery",
+        "tipo": ["hada"],
+        "generacion": "galar",
+        "numero": 868
+    },
+    {
+        "name": "alcremie",
+        "tipo": ["hada"],
+        "generacion": "galar",
+        "numero": 869
+    },
+    {
+        "name": "falinks",
+        "tipo": ["lucha"],
+        "generacion": "galar",
+        "numero": 870
+    },
+    {
+        "name": "pincurchin",
+        "tipo": ["electrico"],
+        "generacion": "galar",
+        "numero": 871
+    },
+    {
+        "name": "snom",
+        "tipo": ["hielo", "bicho"],
+        "generacion": "galar",
+        "numero": 872
+    },
+    {
+        "name": "frosmoth",
+        "tipo": ["hielo", "bicho"],
+        "generacion": "galar",
+        "numero": 873
+    },
+    {
+        "name": "stonjourner",
+        "tipo": ["roca"],
+        "generacion": "galar",
+        "numero": 874
+    },
+    {
+        "name": "eiscue",
+        "tipo": ["hielo"],
+        "generacion": "galar",
+        "numero": 875
+    },
+    {
+        "name": "indeedee",
+        "tipo": ["psiquico", "normal"],
+        "generacion": "galar",
+        "numero": 876
+    },
+    {
+        "name": "morpeko",
+        "tipo": ["electrico", "siniestro"],
+        "generacion": "galar",
+        "numero": 877
+    },
+    {
+        "name": "cufant",
+        "tipo": ["acero"],
+        "generacion": "galar",
+        "numero": 878
+    },
+    {
+        "name": "copperajah",
+        "tipo": ["acero"],
+        "generacion": "galar",
+        "numero": 879
+    },
+    {
+        "name": "dracozolt",
+        "tipo": ["electrico", "dragon"],
+        "generacion": "galar",
+        "numero": 880
+    },
+    {
+        "name": "arctozolt",
+        "tipo": ["electrico", "hielo"],
+        "generacion": "galar",
+        "numero": 881
+    },
+    {
+        "name": "dracovish",
+        "tipo": ["agua", "dragon"],
+        "generacion": "galar",
+        "numero": 882
+    },
+    {
+        "name": "arctovish",
+        "tipo": ["agua", "hielo"],
+        "generacion": "galar",
+        "numero": 883
+    },
+    {
+        "name": "duraludon",
+        "tipo": ["acero", "dragon"],
+        "generacion": "galar",
+        "numero": 884
+    },
+    {
+        "name": "dreepy",
+        "tipo": ["dragon", "fantasma"],
+        "generacion": "galar",
+        "numero": 885
+    },
+    {
+        "name": "drakloak",
+        "tipo": ["dragon", "fantasma"],
+        "generacion": "galar",
+        "numero": 886
+    },
+    {
+        "name": "dragapult",
+        "tipo": ["dragon", "fantasma"],
+        "generacion": "galar",
+        "numero": 887
+    },
+    {
+        "name": "zacian",
+        "tipo": ["hada", "acero"],
+        "generacion": "galar",
+        "numero": 888
+    },
+    {
+        "name": "zamazenta",
+        "tipo": ["lucha", "acero"],
+        "generacion": "galar",
+        "numero": 889
+    },
+    {
+        "name": "eternatus",
+        "tipo": ["veneno", "dragon"],
+        "generacion": "galar",
+        "numero": 890
+    }
+]

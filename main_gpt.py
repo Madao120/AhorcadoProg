@@ -20,7 +20,7 @@ class Ahorcado:
     def respuesta(self):
         res = ""
         while len(res) != 1:
-            res = input("Introduce una letra\n").lower()
+            res = str(input("Introduce una letra\n").lower())
         return res
 
     def correct_word(self, pokemon):

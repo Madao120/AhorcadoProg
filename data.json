@@ -484,5 +484,830 @@
         "tipo": ["veneno", "dragon"],
         "generacion": "galar",
         "numero": 890
+    },
+    {
+        "name": "kubfu",
+        "tipo": ["lucha"],
+        "generacion": "galar",
+        "numero": 891
+    },
+    {
+        "name": "urshifu",
+        "tipo": ["lucha", "siniestro"],
+        "generacion": "galar",
+        "numero": 892
+    },
+    {
+        "name": "urshifu",
+        "tipo": ["lucha", "agua"],
+        "generacion": "galar",
+        "numero": 892
+    },
+    {
+        "name": "zarude",
+        "tipo": ["siniestro", "planta"],
+        "generacion": "galar",
+        "numero": 893
+    },
+    {
+        "name": "regieleki",
+        "tipo": ["electrico"],
+        "generacion": "galar",
+        "numero": 894
+    },
+    {
+        "name": "regidrago",
+        "tipo": ["dragon"],
+        "generacion": "galar",
+        "numero": 895
+    },
+    {
+        "name": "glastrier",
+        "tipo": ["hielo"],
+        "generacion": "galar",
+        "numero": 896
+    },
+    {
+        "name": "spectrier",
+        "tipo": ["fantasma"],
+        "generacion": "galar",
+        "numero": 897
+    },
+    {
+        "name": "calyrex",
+        "tipo": ["psiquico", "planta"],
+        "generacion": "galar",
+        "numero": 898
+    },
+    {
+        "name": "wyrdeer",
+        "tipo": ["normal", "psiquico"],
+        "generacion": "galar",
+        "numero": 899
+    },
+    {
+        "name": "kleavor",
+        "tipo": ["bicho", "roca"],
+        "generacion": "galar",
+        "numero": 900
+    },
+    {
+        "name": "ursaluna",
+        "tipo": ["tierra", "normal"],
+        "generacion": "galar",
+        "numero": 901
+    },
+    {
+        "name": "basculegion",
+        "tipo": ["agua", "fantasma"],
+        "generacion": "galar",
+        "numero": 902
+    },
+    {
+        "name": "sneasler",
+        "tipo": ["lucha", "veneno"],
+        "generacion": "galar",
+        "numero": 903
+    },
+    {
+        "name": "overquill",
+        "tipo": ["siniestro", "veneno"],
+        "generacion": "galar",
+        "numero": 904
+    },
+    {
+        "name": "enamorus",
+        "tipo": ["hada", "volador"],
+        "generacion": "galar",
+        "numero": 905
+    },
+
+
+
+
+
+
+
+
+
+    {                               
+        "name": "sprigatito",
+        "tipo": ["planta"],
+        "generacion": "paldea",
+        "numero": 906
+    },
+    {
+        "name": "floragato",
+        "tipo": ["planta"],
+        "generacion": "paldea",
+        "numero": 907
+    },
+    {
+        "name": "meowscarada",
+        "tipo": ["planta", "siniestro"],
+        "generacion": "paldea",
+        "numero": 908
+    },
+    {
+        "name": "fuecoco",
+        "tipo": ["fuego"],
+        "generacion": "paldea",
+        "numero": 909
+    },
+    {
+        "name": "crocalor",
+        "tipo": ["fuego"],
+        "generacion": "paldea",
+        "numero": 910
+    },
+    {
+        "name": "skeledirge",
+        "tipo": ["fuego", "fantasma"],
+        "generacion": "paldea",
+        "numero": 911
+    },
+    {
+        "name": "quaxly",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 912
+    },
+    {
+        "name": "quaxwell",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 913
+    },
+    {
+        "name": "quaquaval",
+        "tipo": ["agua", "lucha"],
+        "generacion": "paldea",
+        "numero": 914
+    },
+    {
+        "name": "lechonk",
+        "tipo": ["normal"],
+        "generacion": "paldea",
+        "numero": 915
+    },
+    {
+        "name": "oinkologne",
+        "tipo": ["normal"],
+        "generacion": "paldea",
+        "numero": 916
+    },
+    {
+        "name": "tarountula",
+        "tipo": ["bicho"],
+        "generacion": "paldea",
+        "numero": 917
+    },
+    {
+        "name": "spidops",
+        "tipo": ["bicho"],
+        "generacion": "paldea",
+        "numero": 918
+    },
+    {
+        "name": "nymble",
+        "tipo": ["bicho"],
+        "generacion": "paldea",
+        "numero": 919
+    },
+    {
+        "name": "lokix",
+        "tipo": ["bicho", "siniestro"],
+        "generacion": "paldea",
+        "numero": 920
+    },
+    {
+        "name": "pawmi",
+        "tipo": ["eléctrico"],
+        "generacion": "paldea",
+        "numero": 921
+    },
+    {
+        "name": "pawmo",
+        "tipo": ["eléctrico", "lucha"],
+        "generacion": "paldea",
+        "numero": 922
+    },
+    {
+        "name": "pawmot",
+        "tipo": ["eléctrico", "lucha"],
+        "generacion": "paldea",
+        "numero": 923
+    },
+    {
+        "name": "tandemaus",
+        "tipo": ["normal"],
+        "generacion": "paldea",
+        "numero": 924
+    },
+    {
+        "name": "maushold",
+        "tipo": ["normal"],
+        "generacion": "paldea",
+        "numero": 925
+    },
+    {
+        "name": "fidough",
+        "tipo": ["hada"],
+        "generacion": "paldea",
+        "numero": 926
+    },
+    {
+        "name": "dachsbun",
+        "tipo": ["hada"],
+        "generacion": "paldea",
+        "numero": 927
+    },
+    {
+        "name": "smoliv",
+        "tipo": ["planta", "normal"],
+        "generacion": "paldea",
+        "numero": 928
+    },
+    {
+        "name": "dolliv",
+        "tipo": ["planta", "normal"],
+        "generacion": "paldea",
+        "numero": 929
+    },
+    {
+        "name": "arboliva",
+        "tipo": ["planta", "normal"],
+        "generacion": "paldea",
+        "numero": 930
+    },
+    {
+        "name": "squawkabilly",
+        "tipo": ["normal", "volador"],
+        "generacion": "paldea",
+        "numero": 931
+    },
+    {
+        "name": "nacli",
+        "tipo": ["roca"],
+        "generacion": "paldea",
+        "numero": 932
+    },
+    {
+        "name": "naclstack",
+        "tipo": ["roca"],
+        "generacion": "paldea",
+        "numero": 933
+    },
+    {
+        "name": "garganacl",
+        "tipo": ["roca"],
+        "generacion": "paldea",
+        "numero": 934
+    },
+    {
+        "name": "charcadet",
+        "tipo": ["fuego"],
+        "generacion": "paldea",
+        "numero": 935
+    },
+    {
+        "name": "armarouge",
+        "tipo": ["fuego", "psíquico"],
+        "generacion": "paldea",
+        "numero": 936
+    },
+    {
+        "name": "ceruledge",
+        "tipo": ["fuego", "fantasma"],
+        "generacion": "paldea",
+        "numero": 937
+    },
+    {
+        "name": "tadbulb",
+        "tipo": ["eléctrico"],
+        "generacion": "paldea",
+        "numero": 938
+    },
+    {
+        "name": "bellibolt",
+        "tipo": ["eléctrico"],
+        "generacion": "paldea",
+        "numero": 939
+    },
+    {
+        "name": "wattrel",
+        "tipo": ["eléctrico", "volador"],
+        "generacion": "paldea",
+        "numero": 940
+    },
+    {
+        "name": "kilowattrel",
+        "tipo": ["eléctrico", "volador"],
+        "generacion": "paldea",
+        "numero": 941
+    },
+    {
+        "name": "maschiff",
+        "tipo": ["siniestro"],
+        "generacion": "paldea",
+        "numero": 942
+    },
+    {
+        "name": "mabosstiff",
+        "tipo": ["siniestro"],
+        "generacion": "paldea",
+        "numero": 943
+    },
+    {
+        "name": "shroodle",
+        "tipo": ["veneno", "normal"],
+        "generacion": "paldea",
+        "numero": 944
+    },
+    {
+        "name": "grafaiai",
+        "tipo": ["veneno", "normal"],
+        "generacion": "paldea",
+        "numero": 945
+    },
+    {
+        "name": "bramblin",
+        "tipo": ["planta", "fantasma"],
+        "generacion": "paldea",
+        "numero": 946
+    },
+    {
+        "name": "brambleghast",
+        "tipo": ["planta", "fantasma"],
+        "generacion": "paldea",
+        "numero": 947
+    },
+    {
+        "name": "toedscool",
+        "tipo": ["planta", "tierra"],
+        "generacion": "paldea",
+        "numero": 948
+    },
+    {
+        "name": "toedscruel",
+        "tipo": ["planta", "tierra"],
+        "generacion": "paldea",
+        "numero": 949
+    },
+    {
+        "name": "klawf",
+        "tipo": ["roca"],
+        "generacion": "paldea",
+        "numero": 950
+    },
+    {
+        "name": "capsakid",
+        "tipo": ["planta"],
+        "generacion": "paldea",
+        "numero": 951
+    },
+    {
+        "name": "scovillain",
+        "tipo": ["planta", "fuego"],
+        "generacion": "paldea",
+        "numero": 952
+    },
+    {
+        "name": "rellor",
+        "tipo": ["bicho"],
+        "generacion": "paldea",
+        "numero": 953
+    },
+    {
+        "name": "rabsca",
+        "tipo": ["bicho", "psíquico"],
+        "generacion": "paldea",
+        "numero": 954
+    },
+    {
+        "name": "flittle",
+        "tipo": ["psíquico"],
+        "generacion": "paldea",
+        "numero": 955
+    },
+    {
+        "name": "espathra",
+        "tipo": ["psíquico"],
+        "generacion": "paldea",
+        "numero": 956
+    },
+    {
+        "name": "tinkatink",
+        "tipo": ["hada", "acero"],
+        "generacion": "paldea",
+        "numero": 957
+    },
+    {
+        "name": "tinkatuff",
+        "tipo": ["hada", "acero"],
+        "generacion": "paldea",
+        "numero": 958
+    },
+    {
+        "name": "tinkaton",
+        "tipo": ["hada", "acero"],
+        "generacion": "paldea",
+        "numero": 959
+    },
+    {
+        "name": "wiglett",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 960
+    },
+    {
+        "name": "wugtrio",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 961
+    },
+    {
+        "name": "bombirdier",
+        "tipo": ["volador", "siniestro"],
+        "generacion": "paldea",
+        "numero": 962
+    },
+    {
+        "name": "finizen",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 963
+    },
+    {
+        "name": "palafin",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 964
+    },
+    {
+        "name": "varoom",
+        "tipo": ["acero", "veneno"],
+        "generacion": "paldea",
+        "numero": 965
+    },
+    {
+        "name": "revavroom",
+        "tipo": ["acero", "veneno"],
+        "generacion": "paldea",
+        "numero": 966
+    },
+    {
+        "name": "cyclizar",
+        "tipo": ["dragón", "normal"],
+        "generacion": "paldea",
+        "numero": 967
+    },
+    {
+        "name": "orthworm",
+        "tipo": ["acero"],
+        "generacion": "paldea",
+        "numero": 968
+    },
+    {
+        "name": "glimmet",
+        "tipo": ["roca", "veneno"],
+        "generacion": "paldea",
+        "numero": 969
+    },
+    {
+        "name": "glimmora",
+        "tipo": ["roca", "veneno"],
+        "generacion": "paldea",
+        "numero": 970
+    },
+    {
+        "name": "greavard",
+        "tipo": ["fantasma"],
+        "generacion": "paldea",
+        "numero": 971
+    },
+    {
+        "name": "houndstone",
+        "tipo": ["fantasma"],
+        "generacion": "paldea",
+        "numero": 972
+    },
+    {
+        "name": "flamigo",
+        "tipo": ["volador", "lucha"],
+        "generacion": "paldea",
+        "numero": 973
+    },
+    {
+        "name": "cetoddle",
+        "tipo": ["hielo"],
+        "generacion": "paldea",
+        "numero": 974
+    },
+    {
+        "name": "cetitan",
+        "tipo": ["hielo"],
+        "generacion": "paldea",
+        "numero": 975
+    },
+    {
+        "name": "veluza",
+        "tipo": ["agua", "psíquico"],
+        "generacion": "paldea",
+        "numero": 976
+    },
+    {
+        "name": "dondozo",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 977
+    },
+    {
+        "name": "tatsugiri",
+        "tipo": ["dragón", "agua"],
+        "generacion": "paldea",
+        "numero": 978
+    },
+    {
+        "name": "annihilape",
+        "tipo": ["lucha", "fantasma"],
+        "generacion": "paldea",
+        "numero": 979
+    },
+    {
+        "name": "clodsire",
+        "tipo": ["veneno", "tierra"],
+        "generacion": "paldea",
+        "numero": 980
+    },
+    {
+        "name": "farigiraf",
+        "tipo": ["normal", "psíquico"],
+        "generacion": "paldea",
+        "numero": 981
+    },
+    {
+        "name": "dudunsparce",
+        "tipo": ["normal"],
+        "generacion": "paldea",
+        "numero": 982
+    },
+    {
+        "name": "kingambit",
+        "tipo": ["siniestro", "acero"],
+        "generacion": "paldea",
+        "numero": 983
+    },
+    {
+        "name": "great tusk",
+        "tipo": ["tierra", "lucha"],
+        "generacion": "paldea",
+        "numero": 984
+    },
+    {
+        "name": "scream tail",
+        "tipo": ["hada", "psíquico"],
+        "generacion": "paldea",
+        "numero": 985
+    },
+    {
+        "name": "brute bonnet",
+        "tipo": ["planta", "siniestro"],
+        "generacion": "paldea",
+        "numero": 986
+    },
+    {
+        "name": "flutter mane",
+        "tipo": ["fantasma", "hada"],
+        "generacion": "paldea",
+        "numero": 987
+    },
+    {
+        "name": "slither wing",
+        "tipo": ["bicho", "lucha"],
+        "generacion": "paldea",
+        "numero": 988
+    },
+    {
+        "name": "sandy shocks",
+        "tipo": ["eléctrico", "tierra"],
+        "generacion": "paldea",
+        "numero": 989
+    },
+    {
+        "name": "iron treads",
+        "tipo": ["tierra", "acero"],
+        "generacion": "paldea",
+        "numero": 990
+    },
+    {
+        "name": "iron bundle",
+        "tipo": ["hielo", "agua"],
+        "generacion": "paldea",
+        "numero": 991
+    },
+    {
+        "name": "iron hands",
+        "tipo": ["lucha", "eléctrico"],
+        "generacion": "paldea",
+        "numero": 992
+    },
+    {
+        "name": "iron jugulis",
+        "tipo": ["siniestro", "volador"],
+        "generacion": "paldea",
+        "numero": 993
+    },
+    {
+        "name": "iron moth",
+        "tipo": ["fuego", "veneno"],
+        "generacion": "paldea",
+        "numero": 994
+    },
+    {
+        "name": "iron thorns",
+        "tipo": ["roca", "eléctrico"],
+        "generacion": "paldea",
+        "numero": 995
+    },
+    {
+        "name": "frigibax",
+        "tipo": ["dragón", "hielo"],
+        "generacion": "paldea",
+        "numero": 996
+    },
+    {
+        "name": "arctibax",
+        "tipo": ["dragón", "hielo"],
+        "generacion": "paldea",
+        "numero": 997
+    },
+    {
+        "name": "baxcalibur",
+        "tipo": ["dragón", "hielo"],
+        "generacion": "paldea",
+        "numero": 998
+    },
+    {
+        "name": "gimmighoul",
+        "tipo": ["fantasma"],
+        "generacion": "paldea",
+        "numero": 999
+    },
+    {
+        "name": "gholdengo",
+        "tipo": ["fantasma", "acero"],
+        "generacion": "paldea",
+        "numero": 1000
+    },
+    {
+        "name": "wo-chien",
+        "tipo": ["siniestro", "planta"],
+        "generacion": "paldea",
+        "numero": 1001
+    },
+    {
+        "name": "chien-pao",
+        "tipo": ["siniestro", "hielo"],
+        "generacion": "paldea",
+        "numero": 1002
+    },
+    {
+        "name": "ting-lu",
+        "tipo": ["siniestro", "tierra"],
+        "generacion": "paldea",
+        "numero": 1003
+    },
+    {
+        "name": "chi-yu",
+        "tipo": ["siniestro", "fuego"],
+        "generacion": "paldea",
+        "numero": 1004
+    },
+    {
+        "name": "roaring moon",
+        "tipo": ["dragón", "siniestro"],
+        "generacion": "paldea",
+        "numero": 1005
+    },
+    {
+        "name": "iron valiant",
+        "tipo": ["hada", "lucha"],
+        "generacion": "paldea",
+        "numero": 1006
+    },
+    {
+        "name": "koraidon",
+        "tipo": ["dragón", "lucha"],
+        "generacion": "paldea",
+        "numero": 1007
+    },
+    {
+        "name": "miraidon",
+        "tipo": ["dragón", "eléctrico"],
+        "generacion": "paldea",
+        "numero": 1008
+    },
+    {
+        "name": "ondulagua",
+        "tipo": ["agua", "dragon"],
+        "generacion": "paldea",
+        "numero": 1009
+    },
+    {
+        "name": "ferroverdor",
+        "tipo": ["planta", "psiquico"],
+        "generacion": "paldea",
+        "numero": 1010
+    },
+    {
+        "name": "dipplin",
+        "tipo": ["planta", "psiquico"],
+        "generacion": "paldea",
+        "numero": 1011
+    },
+    {
+        "name": "poltchageist",
+        "tipo": ["planta", "fantasma"],
+        "generacion": "paldea",
+        "numero": 1012
+    },
+    {
+        "name": "sinistcha",
+        "tipo": ["planta", "fantasma"],
+        "generacion": "paldea",
+        "numero": 1013
+    },
+    {
+        "name": "okidogi",
+        "tipo": ["veneno", "lucha"],
+        "generacion": "paldea",
+        "numero": 1014
+    },
+    {
+        "name": "munkidori",
+        "tipo": ["veneno", "psiquico"],
+        "generacion": "paldea",
+        "numero": 1015
+    },
+    {
+        "name": "fezandipiti",
+        "tipo": ["veneno", "hada"],
+        "generacion": "paldea",
+        "numero": 1016
+    },
+    {
+        "name": "ogerpon",
+        "tipo": ["planta"],
+        "generacion": "paldea",
+        "numero": 1017
+    },
+    {
+        "name": "archaludon",
+        "tipo": ["acero", "dragon"],
+        "generacion": "paldea",
+        "numero": 1018
+    },
+    {
+        "name": "hydrapple",
+        "tipo": ["planta", "dragon"],
+        "generacion": "paldea",
+        "numero": 1019
+    },
+    {
+        "name": "flamariete",
+        "tipo": ["fuego", "dragon"],
+        "generacion": "paldea",
+        "numero": 1020
+    },
+    {
+        "name": "electrofuria",
+        "tipo": ["electrico", "dragon"],
+        "generacion": "paldea",
+        "numero": 1021
+    },
+    {
+        "name": "ferromole",
+        "tipo": ["roca", "psiquico"],
+        "generacion": "paldea",
+        "numero": 1022
+    },
+    {
+        "name": "ferrotesta",
+        "tipo": ["acero", "psiquico"],
+        "generacion": "paldea",
+        "numero": 1023
+    },
+    {
+        "name": "terapagos",
+        "tipo": ["nomral"],
+        "generacion": "paldea",
+        "numero": 1024
+    },
+    {
+        "name": "pecharunt",
+        "tipo": ["veneno", "fantasma"],
+        "generacion": "paldea",
+        "numero": 1025
     }
 ]

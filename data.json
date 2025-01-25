@@ -1,0 +1,8 @@
+{
+    "bulvasuar" {
+        "indice": 1,
+        "tipo": ["planta", "veneno"],
+        "generacion": "kanto"
+    },
+    {}
+}

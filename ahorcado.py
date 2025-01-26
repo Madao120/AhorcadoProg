@@ -5,7 +5,7 @@ class Ahorcado:
             self.pokedex = json.load(file)
         self.usuario = str
         self.contraseña = str
-        self.letras_usuario = []
+        self.letras_usuario = [" ", "-"]
         self.letras_incorrectas = []
         self.letras_pokemon = []
 
@@ -97,4 +97,5 @@ class Ahorcado:
 game = Ahorcado("data.json")
 game.play()
 # pokemon = random.choice(self.pokedex))
+
 

@@ -2,6 +2,7 @@ import os
 from usuario import Usuario
 from vista import Vista
 from panel import Panel
+from modo import ModosDeJuego
 
 class Juego:
     def __init__(self, archivo_pokemon, archivo_usuarios):
@@ -21,7 +22,9 @@ class Juego:
 
         while intentos > 0:
             os.system('cls' if os.name == "nt" else "clear")
-            print(f"Intentos restantes: {intentos}")
+            self.usuario.ranking_usuarios()
+            self.usuario.mostrar_puntuacion_actual()
+            print(f"\n \n \n \n Intentos restantes: {intentos}")
             self.vista.mostrar_palabra(pokemon, self.letras_usuario)
             self.vista.mostrar_pistas(intentos, pokemon_data)
             self.vista.mostrar_letras_incorrectas(self.letras_incorrectas)

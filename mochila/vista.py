@@ -13,12 +13,14 @@ class Vista:
 
     def mostrar_pistas(self, intentos, pokemon_data):
         if intentos <= 4:
-            print(f"Pista: Tipo principal -> {pokemon_data['tipo'][0]}")
+            print(f"Pista 1: Tipo principal -> {pokemon_data['tipo'][0]}")
         if intentos <= 2:
-            tipo_secundario = pokemon_data["tipo"][1] if len(pokemon_data["tipo"]) > 1 else "Sin tipo secundario"
-            print(f"Pista adicional: Tipo secundario -> {tipo_secundario}")
+            print(f"Pista 2: Generación -> {pokemon_data['generacion']}")
+
         if intentos == 1:
-            print(f"Pista final: Generación -> {pokemon_data['generacion']}")
+            tipo_secundario = pokemon_data["tipo"][1] if len(pokemon_data["tipo"]) > 1 else "Sin tipo secundario"
+            print(f"Pista Final: Tipo secundario -> {tipo_secundario}")
+            
 
     def mostrar_letras_incorrectas(self, letras_incorrectas):
         print("Letras incorrectas: ", ", ".join(letras_incorrectas))

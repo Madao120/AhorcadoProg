@@ -40,5 +40,26 @@ class Usuario:
     def guardar_datos(self):
         with open(self.archivo_usuarios, "w") as file:
             json.dump(self.puntuaciones, file, indent=4)
+
+    def mostrar_top_10(self):
+        if not self.puntuaciones:
+            print("No hay usuarios registrados aún.")
+            return
+
+        # Ordenar usuarios por puntuación en orden descendente
+        ranking = sorted(self.puntuaciones.items(), key=lambda x: x[1]["puntuacion"], reverse=True)
+
+        print("\n🏆 TOP 10 USUARIOS 🏆")
+        print("-" * 30)
+        for i, (usuario, datos) in enumerate(ranking[:10], start=1):
+            print(f"{i}. {usuario} - {datos['puntuacion']} puntos")
+        print("-" * 30)
     
+    def mostrar_puntuacion_actual(self):
+        puntuacion = self.puntuaciones[self.usuario_actual]["puntuacion"]
+        print(f"{self.usuario_actual}, tu puntuación actual es: {puntuacion} puntos")
+    
+    def ranking_usuarios(self):
+        usuario = Usuario("usuarios.json")  # Cargar datos
+        usuario.mostrar_top_10()  # Mostrar el ranking
     

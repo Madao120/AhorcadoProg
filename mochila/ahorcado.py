@@ -98,7 +98,7 @@ class Ahorcado:
             self.clear_window()
             print(f"Vaya, perece que se ta ha escapado. El pokemon era: {pokemon}")
 
-game = Ahorcado("data.json")
+game = Ahorcado("Pyoyecto Ejecución\\data.json")
 game.play()
 # pokemon = random.choice(self.pokedex))
 

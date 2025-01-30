@@ -6208,13 +6208,13 @@
         "numero": 1008
     },
     {
-        "name": "ondulagua",
+        "name": "walking wake",
         "tipo": ["agua", "dragon"],
         "generacion": "paldea",
         "numero": 1009
     },
     {
-        "name": "ferroverdor",
+        "name": "iron leaves",
         "tipo": ["planta", "psiquico"],
         "generacion": "paldea",
         "numero": 1010
@@ -6274,25 +6274,25 @@
         "numero": 1019
     },
     {
-        "name": "flamariete",
+        "name": "gouging fire",
         "tipo": ["fuego", "dragon"],
         "generacion": "paldea",
         "numero": 1020
     },
     {
-        "name": "electrofuria",
+        "name": "raging bolt",
         "tipo": ["electrico", "dragon"],
         "generacion": "paldea",
         "numero": 1021
     },
     {
-        "name": "ferromole",
+        "name": "iron boulder",
         "tipo": ["roca", "psiquico"],
         "generacion": "paldea",
         "numero": 1022
     },
     {
-        "name": "ferrotesta",
+        "name": "iron crown",
         "tipo": ["acero", "psiquico"],
         "generacion": "paldea",
         "numero": 1023

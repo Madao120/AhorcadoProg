@@ -1,16 +1,14 @@
 import os
-import random
 from usuario import Usuario
 from vista import Vista
 from panel import Panel
-from modo import ModosDeJuego
+from modo import Modo
 
 class Juego:
     def __init__(self, archivo_pokemon, archivo_usuarios):
         self.usuario = Usuario(archivo_usuarios)
         self.panel = Panel(archivo_pokemon)
         self.vista = Vista()
-        self.modos = ModosDeJuego(self.panel.pokedex)
         self.letras_usuario = [" ", "-"]
         self.letras_incorrectas = []
 
@@ -18,30 +16,34 @@ class Juego:
         if not self.autenticar_usuario():
             return
 
-        # Seleccionar el modo de juego
-        modo = self.modos.seleccionar_modo()
-        pokemones_filtrados = self.modos.aplicar_filtro(modo)
-
-        if not pokemones_filtrados:
-            print("No hay Pokémon disponibles para este modo. Intenta otra opción.")
-            return
-
-        pokemon_data = random.choice(pokemones_filtrados)
+        pokemon_data = self.panel.obtener_pokemon_aleatorio()
         pokemon = pokemon_data["name"]
         intentos = 6
 
         while intentos > 0:
             os.system('cls' if os.name == "nt" else "clear")
-            print(f"Intentos restantes: {intentos}")
+            self.usuario.ranking_usuarios()
+            self.usuario.mostrar_puntuacion_actual()
+            print(f"\n \n \n \n Intentos restantes: {intentos}")
             self.vista.mostrar_palabra(pokemon, self.letras_usuario)
-            if modo != "5":  # En modo experto no hay pistas
-                self.vista.mostrar_pistas(intentos, pokemon_data)
+            self.vista.mostrar_pistas(intentos, pokemon_data)
             self.vista.mostrar_letras_incorrectas(self.letras_incorrectas)
 
-            letra = input("Introduce una letra: ").lower()
-            if letra in self.letras_usuario or letra in self.letras_incorrectas:
-                print("Ya has ingresado esta letra.")
-                continue
+            while True:
+                letra = input("Introduce una letra: ").lower()
+
+                if len(letra) != 1:
+                    print("Por favor, introduce solo una letra.")
+                    continue
+
+                if not letra.isalpha():
+                    print("Solo se permiten letras. No introduzcas números ni signos.")
+                    continue
+
+                if letra in self.letras_usuario or letra in self.letras_incorrectas:
+                    print("Ya has ingresado esta letra.")
+                    continue
+                break
 
             if letra in pokemon:
                 print("¡Correcto!")
@@ -56,8 +58,9 @@ class Juego:
                 self.usuario.actualizar_puntuacion(intentos * 5)
                 break
         else:
-            print(f"Vaya, parece que se te ha escapado. El Pokémon era: {pokemon}")
+            print(f"Vaya, perece que se te ha escapado. El Pokémon era: {pokemon}")
             self.usuario.actualizar_puntuacion(-10)
+
     def autenticar_usuario(self):
         while True:
             opcion = input("¿Tienes cuenta? (s/n): ").lower()

@@ -1,0 +1,6312 @@
+[
+    {
+        "name": "bulbasaur",
+        "tipo": ["planta","veneno"],
+        "generacion": "kanto",
+        "numero": 1
+    },
+    {
+        "name": "ivysaur",
+        "tipo": ["planta","veneno"],
+        "generacion": "kanto",
+        "numero": 2
+    },
+    {
+        "name": "venusaur",
+        "tipo": ["planta","veneno"],
+        "generacion": "kanto",
+        "numero": 3
+    },
+    {
+        "name": "squirtle",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 4
+    },
+    {
+        "name": "wartortle",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 5
+    },
+    {
+        "name": "blastoise",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 6
+    },
+    {
+        "name": "charmander",
+        "tipo": ["fuego"],
+        "generacion": "kanto",
+        "numero": 7
+    },
+    {
+        "name": "charmeleon",
+        "tipo": ["fuego"],
+        "generacion": "kanto",
+        "numero": 8
+    },
+    {
+        "name": "charizard",
+        "tipo": ["fuego","volador"],
+        "generacion": "kanto",
+        "numero": 9
+    },
+    {
+        "name": "caterpie",
+        "tipo": ["bicho"],
+        "generacion": "kanto",
+        "numero": 10
+    },
+    {
+        "name": "metapod",
+        "tipo": ["bicho"],
+        "generacion": "kanto",
+        "numero": 11
+    },
+    {
+        "name": "butterfree",
+        "tipo": ["bicho","volador"],
+        "generacion": "kanto",
+        "numero": 12
+    },
+    {
+        "name": "weedle",
+        "tipo": ["bicho","veneno"],
+        "generacion": "kanto",
+        "numero": 13
+    },
+    {
+        "name": "kakuna",
+        "tipo": ["bicho","veneno"],
+        "generacion": "kanto",
+        "numero": 14
+    },
+    {
+        "name": "beedrill",
+        "tipo": ["bicho","veneno"],
+        "generacion": "kanto",
+        "numero": 15
+    },
+    {
+        "name": "pidgey",
+        "tipo": ["normal","volador"],
+        "generacion": "kanto",
+        "numero": 16
+    },
+    {
+        "name": "pidgeotto",
+        "tipo": ["normal","volador"],
+        "generacion": "kanto",
+        "numero": 17
+    },
+    {
+        "name": "pidgeot",
+        "tipo": ["normal","volador"],
+        "generacion": "kanto",
+        "numero": 18
+    },
+    {
+        "name": "rattata",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 19
+    },
+    {
+        "name": "raticate",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 20
+    },
+    {
+        "name": "spearow",
+        "tipo": ["normal", "volador"],
+        "generacion": "kanto",
+        "numero": 21
+    },
+    {
+        "name": "fearow",
+        "tipo": ["normal", "volador"],
+        "generacion": "kanto",
+        "numero": 22
+    },
+    {
+        "name": "ekans",
+        "tipo": ["veneno"],
+        "generacion": "kanto",
+        "numero": 23
+    },
+    {
+        "name": "arbok",
+        "tipo": ["veneno"],
+        "generacion": "kanto",
+        "numero": 24
+    },
+    {
+        "name": "pikachu",
+        "tipo": ["eléctrico"],
+        "generacion": "kanto",
+        "numero": 25
+    },
+    {
+        "name": "raichu",
+        "tipo": ["eléctrico"],
+        "generacion": "kanto",
+        "numero": 26
+    },
+    {
+        "name": "sandshrew",
+        "tipo": ["tierra"],
+        "generacion": "kanto",
+        "numero": 27
+    },
+    {
+        "name": "sandslash",
+        "tipo": ["tierra"],
+        "generacion": "kanto",
+        "numero": 28
+    },
+    {
+        "name": "nidoran♀",
+        "tipo": ["veneno"],
+        "generacion": "kanto",
+        "numero": 29
+    },
+    {
+        "name": "nidorina",
+        "tipo": ["veneno"],
+        "generacion": "kanto",
+        "numero": 30
+    },
+    {
+        "name": "nidoqueen",
+        "tipo": ["veneno", "tierra"],
+        "generacion": "kanto",
+        "numero": 31
+    },
+    {
+        "name": "nidoran♂",
+        "tipo": ["veneno"],
+        "generacion": "kanto",
+        "numero": 32
+    },
+    {
+        "name": "nidorino",
+        "tipo": ["veneno"],
+        "generacion": "kanto",
+        "numero": 33
+    },
+    {
+        "name": "nidoking",
+        "tipo": ["veneno", "tierra"],
+        "generacion": "kanto",
+        "numero": 34
+    },
+    {
+        "name": "clefairy",
+        "tipo": ["hada"],
+        "generacion": "kanto",
+        "numero": 35
+    },
+    {
+        "name": "clefable",
+        "tipo": ["hada"],
+        "generacion": "kanto",
+        "numero": 36
+    },
+    {
+        "name": "vulpix",
+        "tipo": ["fuego"],
+        "generacion": "kanto",
+        "numero": 37
+    },
+    {
+        "name": "ninetales",
+        "tipo": ["fuego"],
+        "generacion": "kanto",
+        "numero": 38
+    },
+    {
+        "name": "jigglypuff",
+        "tipo": ["normal", "hada"],
+        "generacion": "kanto",
+        "numero": 39
+    },
+    {
+        "name": "wigglytuff",
+        "tipo": ["normal", "hada"],
+        "generacion": "kanto",
+        "numero": 40
+    },
+    {
+        "name": "zubat",
+        "tipo": ["veneno", "volador"],
+        "generacion": "kanto",
+        "numero": 41
+    },
+    {
+        "name": "golbat",
+        "tipo": ["veneno", "volador"],
+        "generacion": "kanto",
+        "numero": 42
+    },
+    {
+        "name": "oddish",
+        "tipo": ["planta", "veneno"],
+        "generacion": "kanto",
+        "numero": 43
+    },
+    {
+        "name": "gloom",
+        "tipo": ["planta", "veneno"],
+        "generacion": "kanto",
+        "numero": 44
+    },
+    {
+        "name": "vileplume",
+        "tipo": ["planta", "veneno"],
+        "generacion": "kanto",
+        "numero": 45
+    },
+    {
+        "name": "paras",
+        "tipo": ["bicho", "planta"],
+        "generacion": "kanto",
+        "numero": 46
+    },
+    {
+        "name": "parasect",
+        "tipo": ["bicho", "planta"],
+        "generacion": "kanto",
+        "numero": 47
+    },
+    {
+        "name": "venonat",
+        "tipo": ["bicho", "veneno"],
+        "generacion": "kanto",
+        "numero": 48
+    },
+    {
+        "name": "venomoth",
+        "tipo": ["bicho", "veneno"],
+        "generacion": "kanto",
+        "numero": 49
+    },
+    {
+        "name": "diglett",
+        "tipo": ["tierra"],
+        "generacion": "kanto",
+        "numero": 50
+    },
+    {
+        "name": "dugtrio",
+        "tipo": ["tierra"],
+        "generacion": "kanto",
+        "numero": 51
+    },
+    {
+        "name": "meowth",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 52
+    },
+    {
+        "name": "persian",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 53
+    },
+    {
+        "name": "psyduck",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 54
+    },
+    {
+        "name": "golduck",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 55
+    },
+    { 
+        "name": "mankey",
+        "tipo": ["lucha"],
+        "generacion": "kanto",
+        "numero": 56
+    },
+    {
+        "name": "primeape",
+        "tipo": ["lucha"],
+        "generacion": "kanto",
+        "numero": 57
+    },
+    {
+        "name": "growlithe",
+        "tipo": ["fuego"],
+        "generacion": "kanto",
+        "numero": 58
+    },
+    {
+        "name": "arcanine",
+        "tipo": ["fuego"],
+        "generacion": "kanto",
+        "numero": 59
+    },
+    {
+        "name": "poliwag",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 60
+    },
+    {
+        "name": "poliwhirl",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 61
+    },
+    {
+        "name": "poliwrath",
+        "tipo": ["agua", "lucha"],
+        "generacion": "kanto",
+        "numero": 62
+    },
+    {
+        "name": "abra",
+        "tipo": ["psíquico"],
+        "generacion": "kanto",
+        "numero": 63
+    },
+    {
+        "name": "kadabra",
+        "tipo": ["psíquico"],
+        "generacion": "kanto",
+        "numero": 64
+    },
+    {
+        "name": "alakazam",
+        "tipo": ["psíquico"],
+        "generacion": "kanto",
+        "numero": 65
+    },
+    {
+        "name": "machop",
+        "tipo": ["lucha"],
+        "generacion": "kanto",
+        "numero": 66
+    },
+    {
+        "name": "machoke",
+        "tipo": ["lucha"],
+        "generacion": "kanto",
+        "numero": 67
+    },
+    {
+        "name": "machamp",
+        "tipo": ["lucha"],
+        "generacion": "kanto",
+        "numero": 68
+    },
+    {
+        "name": "bellsprout",
+        "tipo": ["planta", "veneno"],
+        "generacion": "kanto",
+        "numero": 69
+    },
+    {
+        "name": "weepinbell",
+        "tipo": ["planta", "veneno"],
+        "generacion": "kanto",
+        "numero": 70
+    },
+    {
+        "name": "victreebel",
+        "tipo": ["planta", "veneno"],
+        "generacion": "kanto",
+        "numero": 71
+    },
+    {
+        "name": "tentacool",
+        "tipo": ["agua", "veneno"],
+        "generacion": "kanto",
+        "numero": 72
+    },
+    {
+        "name": "tentacruel",
+        "tipo": ["agua", "veneno"],
+        "generacion": "kanto",
+        "numero": 73
+    },
+    {
+        "name": "geodude",
+        "tipo": ["roca", "tierra"],
+        "generacion": "kanto",
+        "numero": 74
+    },
+    {
+        "name": "graveler",
+        "tipo": ["roca", "tierra"],
+        "generacion": "kanto",
+        "numero": 75
+    },
+    {
+        "name": "golem",
+        "tipo": ["roca", "tierra"],
+        "generacion": "kanto",
+        "numero": 76
+    },
+    {
+        "name": "ponyta",
+        "tipo": ["fuego"],
+        "generacion": "kanto",
+        "numero": 77
+    },
+    {
+        "name": "rapidash",
+        "tipo": ["fuego"],
+        "generacion": "kanto",
+        "numero": 78
+    },
+    {
+        "name": "slowpoke",
+        "tipo": ["agua", "psíquico"],
+        "generacion": "kanto",
+        "numero": 79
+    },
+    {
+        "name": "slowbro",
+        "tipo": ["agua", "psíquico"],
+        "generacion": "kanto",
+        "numero": 80
+    },
+    {
+        "name": "magnemite",
+        "tipo": ["eléctrico", "acero"],
+        "generacion": "kanto",
+        "numero": 81
+    },
+    {
+        "name": "magneton",
+        "tipo": ["eléctrico", "acero"],
+        "generacion": "kanto",
+        "numero": 82
+    },
+    {
+        "name": "farfetch'd",
+        "tipo": ["normal", "volador"],
+        "generacion": "kanto",
+        "numero": 83
+    },
+    {
+        "name": "doduo",
+        "tipo": ["normal", "volador"],
+        "generacion": "kanto",
+        "numero": 84
+    },
+    {
+        "name": "dodrio",
+        "tipo": ["normal", "volador"],
+        "generacion": "kanto",
+        "numero": 85
+    },
+    {
+        "name": "seel",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 86
+    },
+    {
+        "name": "dewgong",
+        "tipo": ["agua", "hielo"],
+        "generacion": "kanto",
+        "numero": 87
+    },
+    {
+        "name": "grimer",
+        "tipo": ["veneno"],
+        "generacion": "kanto",
+        "numero": 88
+    },
+    {
+        "name": "muk",
+        "tipo": ["veneno"],
+        "generacion": "kanto",
+        "numero": 89
+    },
+    {
+        "name": "shellder",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 90
+    },
+    {
+        "name": "cloyster",
+        "tipo": ["agua", "hielo"],
+        "generacion": "kanto",
+        "numero": 91
+    },
+    {
+        "name": "gastly",
+        "tipo": ["fantasma", "veneno"],
+        "generacion": "kanto",
+        "numero": 92
+    },
+    {
+        "name": "haunter",
+        "tipo": ["fantasma", "veneno"],
+        "generacion": "kanto",
+        "numero": 93
+    },
+    {
+        "name": "gengar",
+        "tipo": ["fantasma", "veneno"],
+        "generacion": "kanto",
+        "numero": 94
+    },
+    {
+        "name": "onix",
+        "tipo": ["roca", "tierra"],
+        "generacion": "kanto",
+        "numero": 95
+    },
+    {
+        "name": "drowzee",
+        "tipo": ["psíquico"],
+        "generacion": "kanto",
+        "numero": 96
+    },
+    {
+        "name": "hypno",
+        "tipo": ["psíquico"],
+        "generacion": "kanto",
+        "numero": 97
+    },
+    {
+        "name": "krabby",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 98
+    },
+    {
+        "name": "kingler",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 99
+    },
+    {
+        "name": "voltorb",
+        "tipo": ["eléctrico"],
+        "generacion": "kanto",
+        "numero": 100
+    },
+    {
+        "name": "electrode",
+        "tipo": ["eléctrico"],
+        "generacion": "kanto",
+        "numero": 101
+    },
+    {
+        "name": "exeggcute",
+        "tipo": ["planta", "psíquico"],
+        "generacion": "kanto",
+        "numero": 102
+    },
+    {
+        "name": "exeggutor",
+        "tipo": ["planta", "psíquico"],
+        "generacion": "kanto",
+        "numero": 103
+    },
+    {
+        "name": "cubone",
+        "tipo": ["tierra"],
+        "generacion": "kanto",
+        "numero": 104
+    },
+    {
+        "name": "marowak",
+        "tipo": ["tierra"],
+        "generacion": "kanto",
+        "numero": 105
+    },
+    {
+        "name": "hitmonlee",
+        "tipo": ["lucha"],
+        "generacion": "kanto",
+        "numero": 106
+    },
+    {
+        "name": "hitmonchan",
+        "tipo": ["lucha"],
+        "generacion": "kanto",
+        "numero": 107
+    },
+    {
+        "name": "lickitung",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 108
+    },
+    {
+        "name": "koffing",
+        "tipo": ["veneno"],
+        "generacion": "kanto",
+        "numero": 109
+    },
+    {
+        "name": "weezing",
+        "tipo": ["veneno"],
+        "generacion": "kanto",
+        "numero": 110
+    },
+    {
+        "name": "rhyhorn",
+        "tipo": ["tierra", "roca"],
+        "generacion": "kanto",
+        "numero": 111
+    },
+    {
+        "name": "rhydon",
+        "tipo": ["tierra", "roca"],
+        "generacion": "kanto",
+        "numero": 112
+    },
+    {
+        "name": "chansey",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 113
+    },
+    {
+        "name": "tangela",
+        "tipo": ["planta"],
+        "generacion": "kanto",
+        "numero": 114
+    },
+    {
+        "name": "kangaskhan",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 115
+    },
+    {
+        "name": "horsea",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 116
+    },
+    {
+        "name": "seadra",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 117
+    },
+    {
+        "name": "goldeen",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 118
+    },
+    {
+        "name": "seaking",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 119
+    },
+    {
+        "name": "staryu",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 120
+    },
+    {
+        "name": "starmie",
+        "tipo": ["agua", "psíquico"],
+        "generacion": "kanto",
+        "numero": 121
+    },
+    {
+        "name": "mr. mime",
+        "tipo": ["psíquico", "hada"],
+        "generacion": "kanto",
+        "numero": 122
+    },
+    {
+        "name": "scyther",
+        "tipo": ["bicho", "volador"],
+        "generacion": "kanto",
+        "numero": 123
+    },
+    {
+        "name": "jynx",
+        "tipo": ["hielo", "psíquico"],
+        "generacion": "kanto",
+        "numero": 124
+    },
+    {
+        "name": "electabuzz",
+        "tipo": ["eléctrico"],
+        "generacion": "kanto",
+        "numero": 125
+    },
+    {
+        "name": "magmar",
+        "tipo": ["fuego"],
+        "generacion": "kanto",
+        "numero": 126
+    },
+    {
+        "name": "pinsir",
+        "tipo": ["bicho"],
+        "generacion": "kanto",
+        "numero": 127
+    },
+    {
+        "name": "tauros",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 128
+    },
+    {
+        "name": "magikarp",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 129
+    },
+    {
+        "name": "gyarados",
+        "tipo": ["agua", "volador"],
+        "generacion": "kanto",
+        "numero": 130
+    },
+    {
+        "name": "lapras",
+        "tipo": ["agua", "hielo"],
+        "generacion": "kanto",
+        "numero": 131
+    },
+    {
+        "name": "ditto",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 132
+    },
+    {
+        "name": "eevee",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 133
+    },
+    {
+        "name": "vaporeon",
+        "tipo": ["agua"],
+        "generacion": "kanto",
+        "numero": 134
+    },
+    {
+        "name": "jolteon",
+        "tipo": ["eléctrico"],
+        "generacion": "kanto",
+        "numero": 135
+    },
+    {
+        "name": "flareon",
+        "tipo": ["fuego"],
+        "generacion": "kanto",
+        "numero": 136
+    },
+    {
+        "name": "porygon",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 137
+    },
+    {
+        "name": "omanyte",
+        "tipo": ["roca", "agua"],
+        "generacion": "kanto",
+        "numero": 138
+    },
+    {
+        "name": "omastar",
+        "tipo": ["roca", "agua"],
+        "generacion": "kanto",
+        "numero": 139
+    },
+    {
+        "name": "kabuto",
+        "tipo": ["roca", "agua"],
+        "generacion": "kanto",
+        "numero": 140
+    },
+    {
+        "name": "kabutops",
+        "tipo": ["roca", "agua"],
+        "generacion": "kanto",
+        "numero": 141
+    },
+    {
+        "name": "aerodactyl",
+        "tipo": ["roca", "volador"],
+        "generacion": "kanto",
+        "numero": 142
+    },
+    {
+        "name": "snorlax",
+        "tipo": ["normal"],
+        "generacion": "kanto",
+        "numero": 143
+    },
+    {
+        "name": "articuno",
+        "tipo": ["hielo", "volador"],
+        "generacion": "kanto",
+        "numero": 144
+    },
+    {
+        "name": "zapdos",
+        "tipo": ["eléctrico", "volador"],
+        "generacion": "kanto",
+        "numero": 145
+    },
+    {
+        "name": "moltres",
+        "tipo": ["fuego", "volador"],
+        "generacion": "kanto",
+        "numero": 146
+    },
+    {
+        "name": "dratini",
+        "tipo": ["dragón"],
+        "generacion": "kanto",
+        "numero": 147
+    },
+    {
+        "name": "dragonair",
+        "tipo": ["dragón"],
+        "generacion": "kanto",
+        "numero": 148
+    },
+    {
+        "name": "dragonite",
+        "tipo": ["dragón", "volador"],
+        "generacion": "kanto",
+        "numero": 149
+    },
+    {
+        "name": "mewtwo",
+        "tipo": ["psíquico"],
+        "generacion": "kanto",
+        "numero": 150
+    },
+    {
+        "name": "mew",
+        "tipo": ["psíquico"],
+        "generacion": "kanto",
+        "numero": 151
+    },
+
+
+
+
+
+
+
+
+    {
+        "name": "chikorita",
+        "tipo": ["planta"],
+        "generacion": "johto",
+        "numero": 152
+    },
+    {
+        "name": "bayleef",
+        "tipo": ["planta"],
+        "generacion": "johto",
+        "numero": 153
+    },
+    {
+        "name": "meganium",
+        "tipo": ["planta"],
+        "generacion": "johto",
+        "numero": 154
+    },
+    {
+        "name": "cyndaquil",
+        "tipo": ["fuego"],
+        "generacion": "johto",
+        "numero": 155
+    },
+    {
+        "name": "quilava",
+        "tipo": ["fuego"],
+        "generacion": "johto",
+        "numero": 156
+    },
+    {
+        "name": "typhlosion",
+        "tipo": ["fuego"],
+        "generacion": "johto",
+        "numero": 157
+    },
+    {
+        "name": "totodile",
+        "tipo": ["agua"],
+        "generacion": "johto",
+        "numero": 158
+    },
+    {
+        "name": "croconaw",
+        "tipo": ["agua"],
+        "generacion": "johto",
+        "numero": 159
+    },
+    {
+        "name": "feraligatr",
+        "tipo": ["agua"],
+        "generacion": "johto",
+        "numero": 160
+    },
+    {
+        "name": "sentret",
+        "tipo": ["normal"],
+        "generacion": "johto",
+        "numero": 161
+    },
+    {
+        "name": "furret",
+        "tipo": ["normal"],
+        "generacion": "johto",
+        "numero": 162
+    },
+    {
+        "name": "hoothoot",
+        "tipo": ["normal", "volador"],
+        "generacion": "johto",
+        "numero": 163
+    },
+    {
+        "name": "noctowl",
+        "tipo": ["normal", "volador"],
+        "generacion": "johto",
+        "numero": 164
+    },
+    {
+        "name": "ledyba",
+        "tipo": ["bicho", "volador"],
+        "generacion": "johto",
+        "numero": 165
+    },
+    {
+        "name": "ledian",
+        "tipo": ["bicho", "volador"],
+        "generacion": "johto",
+        "numero": 166
+    },
+    {
+        "name": "spinarak",
+        "tipo": ["bicho", "veneno"],
+        "generacion": "johto",
+        "numero": 167
+    },
+    {
+        "name": "ariados",
+        "tipo": ["bicho", "veneno"],
+        "generacion": "johto",
+        "numero": 168
+    },
+    {
+        "name": "crobat",
+        "tipo": ["veneno", "volador"],
+        "generacion": "johto",
+        "numero": 169
+    },
+    {
+        "name": "chinchou",
+        "tipo": ["agua", "eléctrico"],
+        "generacion": "johto",
+        "numero": 170
+    },
+    {
+        "name": "lanturn",
+        "tipo": ["agua", "eléctrico"],
+        "generacion": "johto",
+        "numero": 171
+    },
+    {
+        "name": "pichu",
+        "tipo": ["eléctrico"],
+        "generacion": "johto",
+        "numero": 172
+    },
+    {
+        "name": "cleffa",
+        "tipo": ["hada"],
+        "generacion": "johto",
+        "numero": 173
+    },
+    {
+        "name": "igglybuff",
+        "tipo": ["normal", "hada"],
+        "generacion": "johto",
+        "numero": 174
+    },
+    {
+        "name": "togepi",
+        "tipo": ["hada"],
+        "generacion": "johto",
+        "numero": 175
+    },
+    {
+        "name": "togetic",
+        "tipo": ["hada", "volador"],
+        "generacion": "johto",
+        "numero": 176
+    },
+    {
+        "name": "natu",
+        "tipo": ["psíquico", "volador"],
+        "generacion": "johto",
+        "numero": 177
+    },
+    {
+        "name": "xatu",
+        "tipo": ["psíquico", "volador"],
+        "generacion": "johto",
+        "numero": 178
+    },
+    {
+        "name": "mareep",
+        "tipo": ["eléctrico"],
+        "generacion": "johto",
+        "numero": 179
+    },
+    {
+        "name": "flaaffy",
+        "tipo": ["eléctrico"],
+        "generacion": "johto",
+        "numero": 180
+    },
+    {
+        "name": "ampharos",
+        "tipo": ["eléctrico"],
+        "generacion": "johto",
+        "numero": 181
+    },
+    {
+        "name": "bellossom",
+        "tipo": ["planta"],
+        "generacion": "johto",
+        "numero": 182
+    },
+    {
+        "name": "marill",
+        "tipo": ["agua", "hada"],
+        "generacion": "johto",
+        "numero": 183
+    },
+    {
+        "name": "azumarill",
+        "tipo": ["agua", "hada"],
+        "generacion": "johto",
+        "numero": 184
+    },
+    {
+        "name": "sudowoodo",
+        "tipo": ["roca"],
+        "generacion": "johto",
+        "numero": 185
+    },
+    {
+        "name": "politoed",
+        "tipo": ["agua"],
+        "generacion": "johto",
+        "numero": 186
+    },
+    {
+        "name": "hoppip",
+        "tipo": ["planta", "volador"],
+        "generacion": "johto",
+        "numero": 187
+    },
+    {
+        "name": "skiploom",
+        "tipo": ["planta", "volador"],
+        "generacion": "johto",
+        "numero": 188
+    },
+    {
+        "name": "jumpluff",
+        "tipo": ["planta", "volador"],
+        "generacion": "johto",
+        "numero": 189
+    },
+    {
+        "name": "aipom",
+        "tipo": ["normal"],
+        "generacion": "johto",
+        "numero": 190
+    },
+    {
+        "name": "sunkern",
+        "tipo": ["planta"],
+        "generacion": "johto",
+        "numero": 191
+    },
+    {
+        "name": "sunflora",
+        "tipo": ["planta"],
+        "generacion": "johto",
+        "numero": 192
+    },
+    {
+        "name": "yanma",
+        "tipo": ["bicho", "volador"],
+        "generacion": "johto",
+        "numero": 193
+    },
+    {
+        "name": "wooper",
+        "tipo": ["agua", "tierra"],
+        "generacion": "johto",
+        "numero": 194
+    },
+    {
+        "name": "quagsire",
+        "tipo": ["agua", "tierra"],
+        "generacion": "johto",
+        "numero": 195
+    },
+    {
+        "name": "espeon",
+        "tipo": ["psíquico"],
+        "generacion": "johto",
+        "numero": 196
+    },
+    {
+        "name": "umbreon",
+        "tipo": ["siniestro"],
+        "generacion": "johto",
+        "numero": 197
+    },
+    {
+        "name": "murkrow",
+        "tipo": ["siniestro", "volador"],
+        "generacion": "johto",
+        "numero": 198
+    },
+    {
+        "name": "slowking",
+        "tipo": ["agua", "psíquico"],
+        "generacion": "johto",
+        "numero": 199
+    },
+    {
+        "name": "misdreavus",
+        "tipo": ["fantasma"],
+        "generacion": "johto",
+        "numero": 200
+    },
+    {
+        "name": "unown",
+        "tipo": ["psíquico"],
+        "generacion": "johto",
+        "numero": 201
+    },
+    {
+        "name": "wobbuffet",
+        "tipo": ["psíquico"],
+        "generacion": "johto",
+        "numero": 202
+    },
+    {
+        "name": "girafarig",
+        "tipo": ["normal", "psíquico"],
+        "generacion": "johto",
+        "numero": 203
+    },
+    {
+        "name": "pineco",
+        "tipo": ["bicho"],
+        "generacion": "johto",
+        "numero": 204
+    },
+    {
+        "name": "forretress",
+        "tipo": ["bicho", "acero"],
+        "generacion": "johto",
+        "numero": 205
+    },
+    {
+        "name": "dunsparce",
+        "tipo": ["normal"],
+        "generacion": "johto",
+        "numero": 206
+    },
+    {
+        "name": "gligar",
+        "tipo": ["tierra", "volador"],
+        "generacion": "johto",
+        "numero": 207
+    },
+    {
+        "name": "steelix",
+        "tipo": ["acero", "tierra"],
+        "generacion": "johto",
+        "numero": 208
+    },
+    {
+        "name": "snubbull",
+        "tipo": ["hada"],
+        "generacion": "johto",
+        "numero": 209
+    },
+    {
+        "name": "granbull",
+        "tipo": ["hada"],
+        "generacion": "johto",
+        "numero": 210
+    },
+    {
+        "name": "qwilfish",
+        "tipo": ["agua", "veneno"],
+        "generacion": "johto",
+        "numero": 211
+    },
+    {
+        "name": "scizor",
+        "tipo": ["bicho", "acero"],
+        "generacion": "johto",
+        "numero": 212
+    },
+    {
+        "name": "shuckle",
+        "tipo": ["bicho", "roca"],
+        "generacion": "johto",
+        "numero": 213
+    },
+    {
+        "name": "heracross",
+        "tipo": ["bicho", "lucha"],
+        "generacion": "johto",
+        "numero": 214
+    },
+    {
+        "name": "sneasel",
+        "tipo": ["siniestro", "hielo"],
+        "generacion": "johto",
+        "numero": 215
+    },
+    {
+        "name": "teddiursa",
+        "tipo": ["normal"],
+        "generacion": "johto",
+        "numero": 216
+    },
+    {
+        "name": "ursaring",
+        "tipo": ["normal"],
+        "generacion": "johto",
+        "numero": 217
+    },
+    {
+        "name": "slugma",
+        "tipo": ["fuego"],
+        "generacion": "johto",
+        "numero": 218
+    },
+    {
+        "name": "magcargo",
+        "tipo": ["fuego", "roca"],
+        "generacion": "johto",
+        "numero": 219
+    },
+    {
+        "name": "swinub",
+        "tipo": ["hielo", "tierra"],
+        "generacion": "johto",
+        "numero": 220
+    },
+    {
+        "name": "piloswine",
+        "tipo": ["hielo", "tierra"],
+        "generacion": "johto",
+        "numero": 221
+    },
+    {
+        "name": "corsola",
+        "tipo": ["agua", "roca"],
+        "generacion": "johto",
+        "numero": 222
+    },
+    {
+        "name": "remoraid",
+        "tipo": ["agua"],
+        "generacion": "johto",
+        "numero": 223
+    },
+    {
+        "name": "octillery",
+        "tipo": ["agua"],
+        "generacion": "johto",
+        "numero": 224
+    },
+    {
+        "name": "delibird",
+        "tipo": ["hielo", "volador"],
+        "generacion": "johto",
+        "numero": 225
+    },
+    {
+        "name": "mantine",
+        "tipo": ["agua", "volador"],
+        "generacion": "johto",
+        "numero": 226
+    },
+    {
+        "name": "skarmory",
+        "tipo": ["acero", "volador"],
+        "generacion": "johto",
+        "numero": 227
+    },
+    {
+        "name": "houndour",
+        "tipo": ["siniestro", "fuego"],
+        "generacion": "johto",
+        "numero": 228
+    },
+    {
+        "name": "houndoom",
+        "tipo": ["siniestro", "fuego"],
+        "generacion": "johto",
+        "numero": 229
+    },
+    {
+        "name": "kingdra",
+        "tipo": ["agua", "dragón"],
+        "generacion": "johto",
+        "numero": 230
+    },
+    {
+        "name": "phanpy",
+        "tipo": ["tierra"],
+        "generacion": "johto",
+        "numero": 231
+    },
+    {
+        "name": "donphan",
+        "tipo": ["tierra"],
+        "generacion": "johto",
+        "numero": 232
+    },
+    {
+        "name": "porygon2",
+        "tipo": ["normal"],
+        "generacion": "johto",
+        "numero": 233
+    },
+    {
+        "name": "stantler",
+        "tipo": ["normal"],
+        "generacion": "johto",
+        "numero": 234
+    },
+    {
+        "name": "smeargle",
+        "tipo": ["normal"],
+        "generacion": "johto",
+        "numero": 235
+    },
+    {
+        "name": "tyrogue",
+        "tipo": ["lucha"],
+        "generacion": "johto",
+        "numero": 236
+    },
+    {
+        "name": "hitmontop",
+        "tipo": ["lucha"],
+        "generacion": "johto",
+        "numero": 237
+    },
+    {
+        "name": "smoochum",
+        "tipo": ["hielo", "psíquico"],
+        "generacion": "johto",
+        "numero": 238
+    },
+    {
+        "name": "elekid",
+        "tipo": ["eléctrico"],
+        "generacion": "johto",
+        "numero": 239
+    },
+    {
+        "name": "magby",
+        "tipo": ["fuego"],
+        "generacion": "johto",
+        "numero": 240
+    },
+    {
+        "name": "miltank",
+        "tipo": ["normal"],
+        "generacion": "johto",
+        "numero": 241
+    },
+    {
+        "name": "blissey",
+        "tipo": ["normal"],
+        "generacion": "johto",
+        "numero": 242
+    },
+    {
+        "name": "raikou",
+        "tipo": ["eléctrico"],
+        "generacion": "johto",
+        "numero": 243
+    },
+    {
+        "name": "entei",
+        "tipo": ["fuego"],
+        "generacion": "johto",
+        "numero": 244
+    },
+    {
+        "name": "suicune",
+        "tipo": ["agua"],
+        "generacion": "johto",
+        "numero": 245
+    },
+    {
+        "name": "larvitar",
+        "tipo": ["roca", "tierra"],
+        "generacion": "johto",
+        "numero": 246
+    },
+    {
+        "name": "pupitar",
+        "tipo": ["roca", "tierra"],
+        "generacion": "johto",
+        "numero": 247
+    },
+    {
+        "name": "tyranitar",
+        "tipo": ["roca", "siniestro"],
+        "generacion": "johto",
+        "numero": 248
+    },
+    {
+        "name": "lugia",
+        "tipo": ["psíquico", "volador"],
+        "generacion": "johto",
+        "numero": 249
+    },
+    {
+        "name": "ho-oh",
+        "tipo": ["fuego", "volador"],
+        "generacion": "johto",
+        "numero": 250
+    },
+    {
+        "name": "celebi",
+        "tipo": ["psíquico", "planta"],
+        "generacion": "johto",
+        "numero": 251
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "name": "treecko",
+        "tipo": ["planta"],
+        "generacion": "hoenn",
+        "numero": 252
+    },
+    {
+        "name": "grovyle",
+        "tipo": ["planta"],
+        "generacion": "hoenn",
+        "numero": 253
+    },
+    {
+        "name": "sceptile",
+        "tipo": ["planta"],
+        "generacion": "hoenn",
+        "numero": 254
+    },
+    {
+        "name": "torchic",
+        "tipo": ["fuego"],
+        "generacion": "hoenn",
+        "numero": 255
+    },
+    {
+        "name": "combusken",
+        "tipo": ["fuego", "lucha"],
+        "generacion": "hoenn",
+        "numero": 256
+    },
+    {
+        "name": "blaziken",
+        "tipo": ["fuego", "lucha"],
+        "generacion": "hoenn",
+        "numero": 257
+    },
+    {
+        "name": "mudkip",
+        "tipo": ["agua"],
+        "generacion": "hoenn",
+        "numero": 258
+    },
+    {
+        "name": "marshtomp",
+        "tipo": ["agua", "tierra"],
+        "generacion": "hoenn",
+        "numero": 259
+    },
+    {
+        "name": "swampert",
+        "tipo": ["agua", "tierra"],
+        "generacion": "hoenn",
+        "numero": 260
+    },
+    {
+        "name": "poochyena",
+        "tipo": ["siniestro"],
+        "generacion": "hoenn",
+        "numero": 261
+    },
+    {
+        "name": "mightyena",
+        "tipo": ["siniestro"],
+        "generacion": "hoenn",
+        "numero": 262
+    },
+    {
+        "name": "zigzagoon",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 263
+    },
+    {
+        "name": "linoone",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 264
+    },
+    {
+        "name": "wurmple",
+        "tipo": ["bicho"],
+        "generacion": "hoenn",
+        "numero": 265
+    },
+    {
+        "name": "silcoon",
+        "tipo": ["bicho"],
+        "generacion": "hoenn",
+        "numero": 266
+    },
+    {
+        "name": "beautifly",
+        "tipo": ["bicho", "volador"],
+        "generacion": "hoenn",
+        "numero": 267
+    },
+    {
+        "name": "cascoon",
+        "tipo": ["bicho"],
+        "generacion": "hoenn",
+        "numero": 268
+    },
+    {
+        "name": "dustox",
+        "tipo": ["bicho", "veneno"],
+        "generacion": "hoenn",
+        "numero": 269
+    },
+    {
+        "name": "lotad",
+        "tipo": ["agua", "planta"],
+        "generacion": "hoenn",
+        "numero": 270
+    },
+    {
+        "name": "lombre",
+        "tipo": ["agua", "planta"],
+        "generacion": "hoenn",
+        "numero": 271
+    },
+    {
+        "name": "ludicolo",
+        "tipo": ["agua", "planta"],
+        "generacion": "hoenn",
+        "numero": 272
+    },
+    {
+        "name": "seedot",
+        "tipo": ["planta"],
+        "generacion": "hoenn",
+        "numero": 273
+    },
+    {
+        "name": "nuzleaf",
+        "tipo": ["planta", "siniestro"],
+        "generacion": "hoenn",
+        "numero": 274
+    },
+    {
+        "name": "shiftry",
+        "tipo": ["planta", "siniestro"],
+        "generacion": "hoenn",
+        "numero": 275
+    },
+    {
+        "name": "taillow",
+        "tipo": ["normal", "volador"],
+        "generacion": "hoenn",
+        "numero": 276
+    },
+    {
+        "name": "swellow",
+        "tipo": ["normal", "volador"],
+        "generacion": "hoenn",
+        "numero": 277
+    },
+    {
+        "name": "wingull",
+        "tipo": ["agua", "volador"],
+        "generacion": "hoenn",
+        "numero": 278
+    },
+    {
+        "name": "pelipper",
+        "tipo": ["agua", "volador"],
+        "generacion": "hoenn",
+        "numero": 279
+    },
+    {
+        "name": "ralts",
+        "tipo": ["psíquico", "hada"],
+        "generacion": "hoenn",
+        "numero": 280
+    },
+    {
+        "name": "kirlia",
+        "tipo": ["psíquico", "hada"],
+        "generacion": "hoenn",
+        "numero": 281
+    },
+    {
+        "name": "gardevoir",
+        "tipo": ["psíquico", "hada"],
+        "generacion": "hoenn",
+        "numero": 282
+    },
+    {
+        "name": "surskit",
+        "tipo": ["bicho", "agua"],
+        "generacion": "hoenn",
+        "numero": 283
+    },
+    {
+        "name": "masquerain",
+        "tipo": ["bicho", "volador"],
+        "generacion": "hoenn",
+        "numero": 284
+    },
+    {
+        "name": "shroomish",
+        "tipo": ["planta"],
+        "generacion": "hoenn",
+        "numero": 285
+    },
+    {
+        "name": "breloom",
+        "tipo": ["planta", "lucha"],
+        "generacion": "hoenn",
+        "numero": 286
+    },
+    {
+        "name": "slakoth",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 287
+    },
+    {
+        "name": "vigoroth",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 288
+    },
+    {
+        "name": "slaking",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 289
+    },
+    {
+        "name": "nincada",
+        "tipo": ["bicho", "tierra"],
+        "generacion": "hoenn",
+        "numero": 290
+    },
+    {
+        "name": "ninjask",
+        "tipo": ["bicho", "volador"],
+        "generacion": "hoenn",
+        "numero": 291
+    },
+    {
+        "name": "shedinja",
+        "tipo": ["bicho", "fantasma"],
+        "generacion": "hoenn",
+        "numero": 292
+    },
+    {
+        "name": "whismur",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 293
+    },
+    {
+        "name": "loudred",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 294
+    },
+    {
+        "name": "exploud",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 295
+    },
+    {
+        "name": "makuhita",
+        "tipo": ["lucha"],
+        "generacion": "hoenn",
+        "numero": 296
+    },
+    {
+        "name": "hariyama",
+        "tipo": ["lucha"],
+        "generacion": "hoenn",
+        "numero": 297
+    },
+    {
+        "name": "azurill",
+        "tipo": ["normal", "hada"],
+        "generacion": "hoenn",
+        "numero": 298
+    },
+    {
+        "name": "nosepass",
+        "tipo": ["roca"],
+        "generacion": "hoenn",
+        "numero": 299
+    },
+    {
+        "name": "skitty",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 300
+    },
+    {
+        "name": "delcatty",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 301
+    },
+    {
+        "name": "sableye",
+        "tipo": ["siniestro", "fantasma"],
+        "generacion": "hoenn",
+        "numero": 302
+    },
+    {
+        "name": "mawile",
+        "tipo": ["acero", "hada"],
+        "generacion": "hoenn",
+        "numero": 303
+    },
+    {
+        "name": "aron",
+        "tipo": ["acero", "roca"],
+        "generacion": "hoenn",
+        "numero": 304
+    },
+    {
+        "name": "lairon",
+        "tipo": ["acero", "roca"],
+        "generacion": "hoenn",
+        "numero": 305
+    },
+    {
+        "name": "aggron",
+        "tipo": ["acero", "roca"],
+        "generacion": "hoenn",
+        "numero": 306
+    },
+    {
+        "name": "meditite",
+        "tipo": ["lucha", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 307
+    },
+    {
+        "name": "medicham",
+        "tipo": ["lucha", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 308
+    },
+    {
+        "name": "electrike",
+        "tipo": ["eléctrico"],
+        "generacion": "hoenn",
+        "numero": 309
+    },
+    {
+        "name": "manectric",
+        "tipo": ["eléctrico"],
+        "generacion": "hoenn",
+        "numero": 310
+    },
+    {
+        "name": "plusle",
+        "tipo": ["eléctrico"],
+        "generacion": "hoenn",
+        "numero": 311
+    },
+    {
+        "name": "minun",
+        "tipo": ["eléctrico"],
+        "generacion": "hoenn",
+        "numero": 312
+    },
+    {
+        "name": "volbeat",
+        "tipo": ["bicho"],
+        "generacion": "hoenn",
+        "numero": 313
+    },
+    {
+        "name": "illumise",
+        "tipo": ["bicho"],
+        "generacion": "hoenn",
+        "numero": 314
+    },
+    {
+        "name": "roselia",
+        "tipo": ["planta", "veneno"],
+        "generacion": "hoenn",
+        "numero": 315
+    },
+    {
+        "name": "gulpin",
+        "tipo": ["veneno"],
+        "generacion": "hoenn",
+        "numero": 316
+    },
+    {
+        "name": "swalot",
+        "tipo": ["veneno"],
+        "generacion": "hoenn",
+        "numero": 317
+    },
+    {
+        "name": "carvanha",
+        "tipo": ["agua", "siniestro"],
+        "generacion": "hoenn",
+        "numero": 318
+    },
+    {
+        "name": "sharpedo",
+        "tipo": ["agua", "siniestro"],
+        "generacion": "hoenn",
+        "numero": 319
+    },
+    {
+        "name": "wailmer",
+        "tipo": ["agua"],
+        "generacion": "hoenn",
+        "numero": 320
+    },
+    {
+        "name": "wailord",
+        "tipo": ["agua"],
+        "generacion": "hoenn",
+        "numero": 321
+    },
+    {
+        "name": "numel",
+        "tipo": ["fuego", "tierra"],
+        "generacion": "hoenn",
+        "numero": 322
+    },
+    {
+        "name": "camerupt",
+        "tipo": ["fuego", "tierra"],
+        "generacion": "hoenn",
+        "numero": 323
+    },
+    {
+        "name": "torkoal",
+        "tipo": ["fuego"],
+        "generacion": "hoenn",
+        "numero": 324
+    },
+    {
+        "name": "spoink",
+        "tipo": ["psíquico"],
+        "generacion": "hoenn",
+        "numero": 325
+    },
+    {
+        "name": "grumpig",
+        "tipo": ["psíquico"],
+        "generacion": "hoenn",
+        "numero": 326
+    },
+    {
+        "name": "spinda",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 327
+    },
+    {
+        "name": "trapinch",
+        "tipo": ["tierra"],
+        "generacion": "hoenn",
+        "numero": 328
+    },
+    {
+        "name": "vibrava",
+        "tipo": ["tierra", "dragón"],
+        "generacion": "hoenn",
+        "numero": 329
+    },
+    {
+        "name": "flygon",
+        "tipo": ["tierra", "dragón"],
+        "generacion": "hoenn",
+        "numero": 330
+    },
+    {
+        "name": "cacnea",
+        "tipo": ["planta"],
+        "generacion": "hoenn",
+        "numero": 331
+    },
+    {
+        "name": "cacturne",
+        "tipo": ["planta", "siniestro"],
+        "generacion": "hoenn",
+        "numero": 332
+    },
+    {
+        "name": "swablu",
+        "tipo": ["normal", "volador"],
+        "generacion": "hoenn",
+        "numero": 333
+    },
+    {
+        "name": "altaria",
+        "tipo": ["dragón", "volador"],
+        "generacion": "hoenn",
+        "numero": 334
+    },
+    {
+        "name": "zangoose",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 335
+    },
+    {
+        "name": "seviper",
+        "tipo": ["veneno"],
+        "generacion": "hoenn",
+        "numero": 336
+    },
+    {
+        "name": "lunatone",
+        "tipo": ["roca", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 337
+    },
+    {
+        "name": "solrock",
+        "tipo": ["roca", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 338
+    },
+    {
+        "name": "barboach",
+        "tipo": ["agua", "tierra"],
+        "generacion": "hoenn",
+        "numero": 339
+    },
+    {
+        "name": "whiscash",
+        "tipo": ["agua", "tierra"],
+        "generacion": "hoenn",
+        "numero": 340
+    },
+    {
+        "name": "corphish",
+        "tipo": ["agua"],
+        "generacion": "hoenn",
+        "numero": 341
+    },
+    {
+        "name": "crawdaunt",
+        "tipo": ["agua", "siniestro"],
+        "generacion": "hoenn",
+        "numero": 342
+    },
+    {
+        "name": "baltoy",
+        "tipo": ["tierra", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 343
+    },
+    {
+        "name": "claydol",
+        "tipo": ["tierra", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 344
+    },
+    {
+        "name": "lileep",
+        "tipo": ["roca", "planta"],
+        "generacion": "hoenn",
+        "numero": 345
+    },
+    {
+        "name": "cradily",
+        "tipo": ["roca", "planta"],
+        "generacion": "hoenn",
+        "numero": 346
+    },
+    {
+        "name": "anorith",
+        "tipo": ["roca", "bicho"],
+        "generacion": "hoenn",
+        "numero": 347
+    },
+    {
+        "name": "armaldo",
+        "tipo": ["roca", "bicho"],
+        "generacion": "hoenn",
+        "numero": 348
+    },
+    {
+        "name": "feebas",
+        "tipo": ["agua"],
+        "generacion": "hoenn",
+        "numero": 349
+    },
+    {
+        "name": "milotic",
+        "tipo": ["agua"],
+        "generacion": "hoenn",
+        "numero": 350
+    },
+    {
+        "name": "castform",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 351
+    },
+    {
+        "name": "kecleon",
+        "tipo": ["normal"],
+        "generacion": "hoenn",
+        "numero": 352
+    },
+    {
+        "name": "shuppet",
+        "tipo": ["fantasma"],
+        "generacion": "hoenn",
+        "numero": 353
+    },
+    {
+        "name": "banette",
+        "tipo": ["fantasma"],
+        "generacion": "hoenn",
+        "numero": 354
+    },
+    {
+        "name": "duskull",
+        "tipo": ["fantasma"],
+        "generacion": "hoenn",
+        "numero": 355
+    },
+    {
+        "name": "dusclops",
+        "tipo": ["fantasma"],
+        "generacion": "hoenn",
+        "numero": 356
+    },
+    {
+        "name": "tropius",
+        "tipo": ["planta", "volador"],
+        "generacion": "hoenn",
+        "numero": 357
+    },
+    {
+        "name": "chimecho",
+        "tipo": ["psíquico"],
+        "generacion": "hoenn",
+        "numero": 358
+    },
+    {
+        "name": "absol",
+        "tipo": ["siniestro"],
+        "generacion": "hoenn",
+        "numero": 359
+    },
+    {
+        "name": "wynaut",
+        "tipo": ["psíquico"],
+        "generacion": "hoenn",
+        "numero": 360
+    },
+    {
+        "name": "snorunt",
+        "tipo": ["hielo"],
+        "generacion": "hoenn",
+        "numero": 361
+    },
+    {
+        "name": "glalie",
+        "tipo": ["hielo"],
+        "generacion": "hoenn",
+        "numero": 362
+    },
+    {
+        "name": "spheal",
+        "tipo": ["hielo", "agua"],
+        "generacion": "hoenn",
+        "numero": 363
+    },
+    {
+        "name": "sealeo",
+        "tipo": ["hielo", "agua"],
+        "generacion": "hoenn",
+        "numero": 364
+    },
+    {
+        "name": "walrein",
+        "tipo": ["hielo", "agua"],
+        "generacion": "hoenn",
+        "numero": 365
+    },
+    {
+        "name": "clamperl",
+        "tipo": ["agua"],
+        "generacion": "hoenn",
+        "numero": 366
+    },
+    {
+        "name": "huntail",
+        "tipo": ["agua"],
+        "generacion": "hoenn",
+        "numero": 367
+    },
+    {
+        "name": "gorebyss",
+        "tipo": ["agua"],
+        "generacion": "hoenn",
+        "numero": 368
+    },
+    {
+        "name": "relicanth",
+        "tipo": ["agua", "roca"],
+        "generacion": "hoenn",
+        "numero": 369
+    },
+    {
+        "name": "luvdisc",
+        "tipo": ["agua"],
+        "generacion": "hoenn",
+        "numero": 370
+    },
+    {
+        "name": "bagon",
+        "tipo": ["dragón"],
+        "generacion": "hoenn",
+        "numero": 371
+    },
+    {
+        "name": "shelgon",
+        "tipo": ["dragón"],
+        "generacion": "hoenn",
+        "numero": 372
+    },
+    {
+        "name": "salamence",
+        "tipo": ["dragón", "volador"],
+        "generacion": "hoenn",
+        "numero": 373
+    },
+    {
+        "name": "beldum",
+        "tipo": ["acero", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 374
+    },
+    {
+        "name": "metang",
+        "tipo": ["acero", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 375
+    },
+    {
+        "name": "metagross",
+        "tipo": ["acero", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 376
+    },
+    {
+        "name": "regirock",
+        "tipo": ["roca"],
+        "generacion": "hoenn",
+        "numero": 377
+    },
+    {
+        "name": "regice",
+        "tipo": ["hielo"],
+        "generacion": "hoenn",
+        "numero": 378
+    },
+    {
+        "name": "registeel",
+        "tipo": ["acero"],
+        "generacion": "hoenn",
+        "numero": 379
+    },
+    {
+        "name": "latias",
+        "tipo": ["dragón", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 380
+    },
+    {
+        "name": "latios",
+        "tipo": ["dragón", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 381
+    },
+    {
+        "name": "kyogre",
+        "tipo": ["agua"],
+        "generacion": "hoenn",
+        "numero": 382
+    },
+    {
+        "name": "groudon",
+        "tipo": ["tierra"],
+        "generacion": "hoenn",
+        "numero": 383
+    },
+    {
+        "name": "rayquaza",
+        "tipo": ["dragón", "volador"],
+        "generacion": "hoenn",
+        "numero": 384
+    },
+    {
+        "name": "jirachi",
+        "tipo": ["acero", "psíquico"],
+        "generacion": "hoenn",
+        "numero": 385
+    },
+    {
+        "name": "deoxys",
+        "tipo": ["psíquico"],
+        "generacion": "hoenn",
+        "numero": 386
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "turtwig",
+        "tipo": ["planta"],
+        "generacion": "sinnoh",
+        "numero": 387
+    },
+    {
+        "name": "grotle",
+        "tipo": ["planta"],
+        "generacion": "sinnoh",
+        "numero": 388
+    },
+    {
+        "name": "torterra",
+        "tipo": ["planta", "tierra"],
+        "generacion": "sinnoh",
+        "numero": 389
+    },
+    {
+        "name": "chimchar",
+        "tipo": ["fuego"],
+        "generacion": "sinnoh",
+        "numero": 390
+    },
+    {
+        "name": "monferno",
+        "tipo": ["fuego", "lucha"],
+        "generacion": "sinnoh",
+        "numero": 391
+    },
+    {
+        "name": "infernape",
+        "tipo": ["fuego", "lucha"],
+        "generacion": "sinnoh",
+        "numero": 392
+    },
+    {
+        "name": "piplup",
+        "tipo": ["agua"],
+        "generacion": "sinnoh",
+        "numero": 393
+    },
+    {
+        "name": "prinplup",
+        "tipo": ["agua"],
+        "generacion": "sinnoh",
+        "numero": 394
+    },
+    {
+        "name": "empoleon",
+        "tipo": ["agua", "acero"],
+        "generacion": "sinnoh",
+        "numero": 395
+    },
+    {
+        "name": "starly",
+        "tipo": ["normal", "volador"],
+        "generacion": "sinnoh",
+        "numero": 396
+    },
+    {
+        "name": "staravia",
+        "tipo": ["normal", "volador"],
+        "generacion": "sinnoh",
+        "numero": 397
+    },
+    {
+        "name": "staraptor",
+        "tipo": ["normal", "volador"],
+        "generacion": "sinnoh",
+        "numero": 398
+    },
+    {
+        "name": "bidoof",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 399
+    },
+    {
+        "name": "bibarel",
+        "tipo": ["normal", "agua"],
+        "generacion": "sinnoh",
+        "numero": 400
+    },
+    {
+        "name": "kricketot",
+        "tipo": ["bicho"],
+        "generacion": "sinnoh",
+        "numero": 401
+    },
+    {
+        "name": "kricketune",
+        "tipo": ["bicho"],
+        "generacion": "sinnoh",
+        "numero": 402
+    },
+    {
+        "name": "shinx",
+        "tipo": ["eléctrico"],
+        "generacion": "sinnoh",
+        "numero": 403
+    },
+    {
+        "name": "luxio",
+        "tipo": ["eléctrico"],
+        "generacion": "sinnoh",
+        "numero": 404
+    },
+    {
+        "name": "luxray",
+        "tipo": ["eléctrico"],
+        "generacion": "sinnoh",
+        "numero": 405
+    },
+    {
+        "name": "budew",
+        "tipo": ["planta", "veneno"],
+        "generacion": "sinnoh",
+        "numero": 406
+    },
+    {
+        "name": "roserade",
+        "tipo": ["planta", "veneno"],
+        "generacion": "sinnoh",
+        "numero": 407
+    },
+    {
+        "name": "cranidos",
+        "tipo": ["roca"],
+        "generacion": "sinnoh",
+        "numero": 408
+    },
+    {
+        "name": "rampardos",
+        "tipo": ["roca"],
+        "generacion": "sinnoh",
+        "numero": 409
+    },
+    {
+        "name": "shieldon",
+        "tipo": ["roca", "acero"],
+        "generacion": "sinnoh",
+        "numero": 410
+    },
+    {
+        "name": "bastiodon",
+        "tipo": ["roca", "acero"],
+        "generacion": "sinnoh",
+        "numero": 411
+    },
+    {
+        "name": "burmy",
+        "tipo": ["bicho"],
+        "generacion": "sinnoh",
+        "numero": 412
+    },
+    {
+        "name": "wormadam",
+        "tipo": ["bicho", "planta"],
+        "generacion": "sinnoh",
+        "numero": 413
+    },
+    {
+        "name": "mothim",
+        "tipo": ["bicho", "volador"],
+        "generacion": "sinnoh",
+        "numero": 414
+    },
+    {
+        "name": "combee",
+        "tipo": ["bicho", "volador"],
+        "generacion": "sinnoh",
+        "numero": 415
+    },
+    {
+        "name": "vespiquen",
+        "tipo": ["bicho", "volador"],
+        "generacion": "sinnoh",
+        "numero": 416
+    },
+    {
+        "name": "pachirisu",
+        "tipo": ["eléctrico"],
+        "generacion": "sinnoh",
+        "numero": 417
+    },
+    {
+        "name": "buizel",
+        "tipo": ["agua"],
+        "generacion": "sinnoh",
+        "numero": 418
+    },
+    {
+        "name": "floatzel",
+        "tipo": ["agua"],
+        "generacion": "sinnoh",
+        "numero": 419
+    },
+    {
+        "name": "cherubi",
+        "tipo": ["planta"],
+        "generacion": "sinnoh",
+        "numero": 420
+    },
+    {
+        "name": "cherrim",
+        "tipo": ["planta"],
+        "generacion": "sinnoh",
+        "numero": 421
+    },
+    {
+        "name": "shellos",
+        "tipo": ["agua"],
+        "generacion": "sinnoh",
+        "numero": 422
+    },
+    {
+        "name": "gastrodon",
+        "tipo": ["agua", "tierra"],
+        "generacion": "sinnoh",
+        "numero": 423
+    },
+    {
+        "name": "ambipom",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 424
+    },
+    {
+        "name": "drifloon",
+        "tipo": ["fantasma", "volador"],
+        "generacion": "sinnoh",
+        "numero": 425
+    },
+    {
+        "name": "drifblim",
+        "tipo": ["fantasma", "volador"],
+        "generacion": "sinnoh",
+        "numero": 426
+    },
+    {
+        "name": "buneary",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 427
+    },
+    {
+        "name": "lopunny",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 428
+    },
+    {
+        "name": "mismagius",
+        "tipo": ["fantasma"],
+        "generacion": "sinnoh",
+        "numero": 429
+    },
+    {
+        "name": "honchkrow",
+        "tipo": ["siniestro", "volador"],
+        "generacion": "sinnoh",
+        "numero": 430
+    },
+    {
+        "name": "glameow",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 431
+    },
+    {
+        "name": "purugly",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 432
+    },
+    {
+        "name": "chingling",
+        "tipo": ["psíquico"],
+        "generacion": "sinnoh",
+        "numero": 433
+    },
+    {
+        "name": "stunky",
+        "tipo": ["veneno", "siniestro"],
+        "generacion": "sinnoh",
+        "numero": 434
+    },
+    {
+        "name": "skuntank",
+        "tipo": ["veneno", "siniestro"],
+        "generacion": "sinnoh",
+        "numero": 435
+    },
+    {
+        "name": "bronzor",
+        "tipo": ["acero", "psíquico"],
+        "generacion": "sinnoh",
+        "numero": 436
+    },
+    {
+        "name": "bronzong",
+        "tipo": ["acero", "psíquico"],
+        "generacion": "sinnoh",
+        "numero": 437
+    },
+    {
+        "name": "bonsly",
+        "tipo": ["roca"],
+        "generacion": "sinnoh",
+        "numero": 438
+    },
+    {
+        "name": "mime jr.",
+        "tipo": ["psíquico", "hada"],
+        "generacion": "sinnoh",
+        "numero": 439
+    },
+    {
+        "name": "happiny",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 440
+    },
+    {
+        "name": "chatot",
+        "tipo": ["normal", "volador"],
+        "generacion": "sinnoh",
+        "numero": 441
+    },
+    {
+        "name": "spiritomb",
+        "tipo": ["fantasma", "siniestro"],
+        "generacion": "sinnoh",
+        "numero": 442
+    },
+    {
+        "name": "gible",
+        "tipo": ["dragón", "tierra"],
+        "generacion": "sinnoh",
+        "numero": 443
+    },
+    {
+        "name": "gabite",
+        "tipo": ["dragón", "tierra"],
+        "generacion": "sinnoh",
+        "numero": 444
+    },
+    {
+        "name": "garchomp",
+        "tipo": ["dragón", "tierra"],
+        "generacion": "sinnoh",
+        "numero": 445
+    },
+    {
+        "name": "munchlax",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 446
+    },
+    {
+        "name": "riolu",
+        "tipo": ["lucha"],
+        "generacion": "sinnoh",
+        "numero": 447
+    },
+    {
+        "name": "lucario",
+        "tipo": ["lucha", "acero"],
+        "generacion": "sinnoh",
+        "numero": 448
+    },
+    {
+        "name": "hippopotas",
+        "tipo": ["tierra"],
+        "generacion": "sinnoh",
+        "numero": 449
+    },
+    {
+        "name": "hippowdon",
+        "tipo": ["tierra"],
+        "generacion": "sinnoh",
+        "numero": 450
+    },
+    {
+        "name": "skorupi",
+        "tipo": ["veneno", "bicho"],
+        "generacion": "sinnoh",
+        "numero": 451
+    },
+    {
+        "name": "drapion",
+        "tipo": ["veneno", "siniestro"],
+        "generacion": "sinnoh",
+        "numero": 452
+    },
+    {
+        "name": "croagunk",
+        "tipo": ["veneno", "lucha"],
+        "generacion": "sinnoh",
+        "numero": 453
+    },
+    {
+        "name": "toxicroak",
+        "tipo": ["veneno", "lucha"],
+        "generacion": "sinnoh",
+        "numero": 454
+    },
+    {
+        "name": "carnivine",
+        "tipo": ["planta"],
+        "generacion": "sinnoh",
+        "numero": 455
+    },
+    {
+        "name": "finneon",
+        "tipo": ["agua"],
+        "generacion": "sinnoh",
+        "numero": 456
+    },
+    {
+        "name": "lumineon",
+        "tipo": ["agua"],
+        "generacion": "sinnoh",
+        "numero": 457
+    },
+    {
+        "name": "mantyke",
+        "tipo": ["agua", "volador"],
+        "generacion": "sinnoh",
+        "numero": 458
+    },
+    {
+        "name": "snover",
+        "tipo": ["planta", "hielo"],
+        "generacion": "sinnoh",
+        "numero": 459
+    },
+    {
+        "name": "abomasnow",
+        "tipo": ["planta", "hielo"],
+        "generacion": "sinnoh",
+        "numero": 460
+    },
+    {
+        "name": "weavile",
+        "tipo": ["siniestro", "hielo"],
+        "generacion": "sinnoh",
+        "numero": 461
+    },
+    {
+        "name": "magnezone",
+        "tipo": ["eléctrico", "acero"],
+        "generacion": "sinnoh",
+        "numero": 462
+    },
+    {
+        "name": "lickilicky",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 463
+    },
+    {
+        "name": "rhyperior",
+        "tipo": ["tierra", "roca"],
+        "generacion": "sinnoh",
+        "numero": 464
+    },
+    {
+        "name": "tangrowth",
+        "tipo": ["planta"],
+        "generacion": "sinnoh",
+        "numero": 465
+    },
+    {
+        "name": "electivire",
+        "tipo": ["eléctrico"],
+        "generacion": "sinnoh",
+        "numero": 466
+    },
+    {
+        "name": "magmortar",
+        "tipo": ["fuego"],
+        "generacion": "sinnoh",
+        "numero": 467
+    },
+    {
+        "name": "togekiss",
+        "tipo": ["hada", "volador"],
+        "generacion": "sinnoh",
+        "numero": 468
+    },
+    {
+        "name": "yanmega",
+        "tipo": ["bicho", "volador"],
+        "generacion": "sinnoh",
+        "numero": 469
+    },
+    {
+        "name": "leafeon",
+        "tipo": ["planta"],
+        "generacion": "sinnoh",
+        "numero": 470
+    },
+    {
+        "name": "glaceon",
+        "tipo": ["hielo"],
+        "generacion": "sinnoh",
+        "numero": 471
+    },
+    {
+        "name": "gliscor",
+        "tipo": ["tierra", "volador"],
+        "generacion": "sinnoh",
+        "numero": 472
+    },
+    {
+        "name": "mamoswine",
+        "tipo": ["hielo", "tierra"],
+        "generacion": "sinnoh",
+        "numero": 473
+    },
+    {
+        "name": "porygon-z",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 474
+    },
+    {
+        "name": "gallade",
+        "tipo": ["psíquico", "lucha"],
+        "generacion": "sinnoh",
+        "numero": 475
+    },
+    {
+        "name": "probopass",
+        "tipo": ["roca", "acero"],
+        "generacion": "sinnoh",
+        "numero": 476
+    },
+    {
+        "name": "dusknoir",
+        "tipo": ["fantasma"],
+        "generacion": "sinnoh",
+        "numero": 477
+    },
+    {
+        "name": "froslass",
+        "tipo": ["hielo", "fantasma"],
+        "generacion": "sinnoh",
+        "numero": 478
+    },
+    {
+        "name": "rotom",
+        "tipo": ["eléctrico", "fantasma"],
+        "generacion": "sinnoh",
+        "numero": 479
+    },
+    {
+        "name": "uxie",
+        "tipo": ["psíquico"],
+        "generacion": "sinnoh",
+        "numero": 480
+    },
+    {
+        "name": "mesprit",
+        "tipo": ["psíquico"],
+        "generacion": "sinnoh",
+        "numero": 481
+    },
+    {
+        "name": "azelf",
+        "tipo": ["psíquico"],
+        "generacion": "sinnoh",
+        "numero": 482
+    },
+    {
+        "name": "dialga",
+        "tipo": ["acero", "dragón"],
+        "generacion": "sinnoh",
+        "numero": 483
+    },
+    {
+        "name": "palkia",
+        "tipo": ["agua", "dragón"],
+        "generacion": "sinnoh",
+        "numero": 484
+    },
+    {
+        "name": "heatran",
+        "tipo": ["fuego", "acero"],
+        "generacion": "sinnoh",
+        "numero": 485
+    },
+    {
+        "name": "regigigas",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 486
+    },
+    {
+        "name": "giratina",
+        "tipo": ["fantasma", "dragón"],
+        "generacion": "sinnoh",
+        "numero": 487
+    },
+    {
+        "name": "cresselia",
+        "tipo": ["psíquico"],
+        "generacion": "sinnoh",
+        "numero": 488
+    },
+    {
+        "name": "phione",
+        "tipo": ["agua"],
+        "generacion": "sinnoh",
+        "numero": 489
+    },
+    {
+        "name": "manaphy",
+        "tipo": ["agua"],
+        "generacion": "sinnoh",
+        "numero": 490
+    },
+    {
+        "name": "darkrai",
+        "tipo": ["siniestro"],
+        "generacion": "sinnoh",
+        "numero": 491
+    },
+    {
+        "name": "shaymin",
+        "tipo": ["planta"],
+        "generacion": "sinnoh",
+        "numero": 492
+    },
+    {
+        "name": "arceus",
+        "tipo": ["normal"],
+        "generacion": "sinnoh",
+        "numero": 493
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "victini",
+        "tipo": ["psíquico", "fuego"],
+        "generacion": "unova",
+        "numero": 494
+    },
+    {
+        "name": "snivy",
+        "tipo": ["planta"],
+        "generacion": "unova",
+        "numero": 495
+    },
+    {
+        "name": "servine",
+        "tipo": ["planta"],
+        "generacion": "unova",
+        "numero": 496
+    },
+    {
+        "name": "serperior",
+        "tipo": ["planta"],
+        "generacion": "unova",
+        "numero": 497
+    },
+    {
+        "name": "tepig",
+        "tipo": ["fuego"],
+        "generacion": "unova",
+        "numero": 498
+    },
+    {
+        "name": "pignite",
+        "tipo": ["fuego", "lucha"],
+        "generacion": "unova",
+        "numero": 499
+    },
+    {
+        "name": "emboar",
+        "tipo": ["fuego", "lucha"],
+        "generacion": "unova",
+        "numero": 500
+    },
+    {
+        "name": "oshawott",
+        "tipo": ["agua"],
+        "generacion": "unova",
+        "numero": 501
+    },
+    {
+        "name": "dewott",
+        "tipo": ["agua"],
+        "generacion": "unova",
+        "numero": 502
+    },
+    {
+        "name": "samurott",
+        "tipo": ["agua"],
+        "generacion": "unova",
+        "numero": 503
+    },
+    {
+        "name": "patrat",
+        "tipo": ["normal"],
+        "generacion": "unova",
+        "numero": 504
+    },
+    {
+        "name": "watchog",
+        "tipo": ["normal"],
+        "generacion": "unova",
+        "numero": 505
+    },
+    {
+        "name": "lillipup",
+        "tipo": ["normal"],
+        "generacion": "unova",
+        "numero": 506
+    },
+    {
+        "name": "herdier",
+        "tipo": ["normal"],
+        "generacion": "unova",
+        "numero": 507
+    },
+    {
+        "name": "stoutland",
+        "tipo": ["normal"],
+        "generacion": "unova",
+        "numero": 508
+    },
+    {
+        "name": "purrloin",
+        "tipo": ["siniestro"],
+        "generacion": "unova",
+        "numero": 509
+    },
+    {
+        "name": "liepard",
+        "tipo": ["siniestro"],
+        "generacion": "unova",
+        "numero": 510
+    },
+    {
+        "name": "pansage",
+        "tipo": ["planta"],
+        "generacion": "unova",
+        "numero": 511
+    },
+    {
+        "name": "simisage",
+        "tipo": ["planta"],
+        "generacion": "unova",
+        "numero": 512
+    },
+    {
+        "name": "pansear",
+        "tipo": ["fuego"],
+        "generacion": "unova",
+        "numero": 513
+    },
+    {
+        "name": "simisear",
+        "tipo": ["fuego"],
+        "generacion": "unova",
+        "numero": 514
+    },
+    {
+        "name": "panpour",
+        "tipo": ["agua"],
+        "generacion": "unova",
+        "numero": 515
+    },
+    {
+        "name": "simipour",
+        "tipo": ["agua"],
+        "generacion": "unova",
+        "numero": 516
+    },
+    {
+        "name": "munna",
+        "tipo": ["psíquico"],
+        "generacion": "unova",
+        "numero": 517
+    },
+    {
+        "name": "musharna",
+        "tipo": ["psíquico"],
+        "generacion": "unova",
+        "numero": 518
+    },
+    {
+        "name": "pidove",
+        "tipo": ["normal", "volador"],
+        "generacion": "unova",
+        "numero": 519
+    },
+    {
+        "name": "tranquill",
+        "tipo": ["normal", "volador"],
+        "generacion": "unova",
+        "numero": 520
+    },
+    {
+        "name": "unfezant",
+        "tipo": ["normal", "volador"],
+        "generacion": "unova",
+        "numero": 521
+    },
+    {
+        "name": "blitzle",
+        "tipo": ["eléctrico"],
+        "generacion": "unova",
+        "numero": 522
+    },
+    {
+        "name": "zebstrika",
+        "tipo": ["eléctrico"],
+        "generacion": "unova",
+        "numero": 523
+    },
+    {
+        "name": "roggenrola",
+        "tipo": ["roca"],
+        "generacion": "unova",
+        "numero": 524
+    },
+    {
+        "name": "boldore",
+        "tipo": ["roca"],
+        "generacion": "unova",
+        "numero": 525
+    },
+    {
+        "name": "gigalith",
+        "tipo": ["roca"],
+        "generacion": "unova",
+        "numero": 526
+    },
+    {
+        "name": "woobat",
+        "tipo": ["psíquico", "volador"],
+        "generacion": "unova",
+        "numero": 527
+    },
+    {
+        "name": "swoobat",
+        "tipo": ["psíquico", "volador"],
+        "generacion": "unova",
+        "numero": 528
+    },
+    {
+        "name": "drilbur",
+        "tipo": ["tierra"],
+        "generacion": "unova",
+        "numero": 529
+    },
+    {
+        "name": "excadrill",
+        "tipo": ["tierra", "acero"],
+        "generacion": "unova",
+        "numero": 530
+    },
+    {
+        "name": "audino",
+        "tipo": ["normal"],
+        "generacion": "unova",
+        "numero": 531
+    },
+    {
+        "name": "timburr",
+        "tipo": ["lucha"],
+        "generacion": "unova",
+        "numero": 532
+    },
+    {
+        "name": "gurdurr",
+        "tipo": ["lucha"],
+        "generacion": "unova",
+        "numero": 533
+    },
+    {
+        "name": "conkeldurr",
+        "tipo": ["lucha"],
+        "generacion": "unova",
+        "numero": 534
+    },
+    {
+        "name": "tympole",
+        "tipo": ["agua"],
+        "generacion": "unova",
+        "numero": 535
+    },
+    {
+        "name": "palpitoad",
+        "tipo": ["agua", "tierra"],
+        "generacion": "unova",
+        "numero": 536
+    },
+    {
+        "name": "seismitoad",
+        "tipo": ["agua", "tierra"],
+        "generacion": "unova",
+        "numero": 537
+    },
+    {
+        "name": "throh",
+        "tipo": ["lucha"],
+        "generacion": "unova",
+        "numero": 538
+    },
+    {
+        "name": "sawk",
+        "tipo": ["lucha"],
+        "generacion": "unova",
+        "numero": 539
+    },
+    {
+        "name": "sewaddle",
+        "tipo": ["bicho", "planta"],
+        "generacion": "unova",
+        "numero": 540
+    },
+    {
+        "name": "swadloon",
+        "tipo": ["bicho", "planta"],
+        "generacion": "unova",
+        "numero": 541
+    },
+    {
+        "name": "leavanny",
+        "tipo": ["bicho", "planta"],
+        "generacion": "unova",
+        "numero": 542
+    },
+    {
+        "name": "venipede",
+        "tipo": ["bicho", "veneno"],
+        "generacion": "unova",
+        "numero": 543
+    },
+    {
+        "name": "whirlipede",
+        "tipo": ["bicho", "veneno"],
+        "generacion": "unova",
+        "numero": 544
+    },
+    {
+        "name": "scolipede",
+        "tipo": ["bicho", "veneno"],
+        "generacion": "unova",
+        "numero": 545
+    },
+    {
+        "name": "cottonee",
+        "tipo": ["planta", "hada"],
+        "generacion": "unova",
+        "numero": 546
+    },
+    {
+        "name": "whimsicott",
+        "tipo": ["planta", "hada"],
+        "generacion": "unova",
+        "numero": 547
+    },
+    {
+        "name": "petilil",
+        "tipo": ["planta"],
+        "generacion": "unova",
+        "numero": 548
+    },
+    {
+        "name": "lilligant",
+        "tipo": ["planta"],
+        "generacion": "unova",
+        "numero": 549
+    },
+    {
+        "name": "basculin",
+        "tipo": ["agua"],
+        "generacion": "unova",
+        "numero": 550
+    },
+    {
+        "name": "sandile",
+        "tipo": ["tierra", "siniestro"],
+        "generacion": "unova",
+        "numero": 551
+    },
+    {
+        "name": "krokorok",
+        "tipo": ["tierra", "siniestro"],
+        "generacion": "unova",
+        "numero": 552
+    },
+    {
+        "name": "krookodile",
+        "tipo": ["tierra", "siniestro"],
+        "generacion": "unova",
+        "numero": 553
+    },
+    {
+        "name": "darumaka",
+        "tipo": ["fuego"],
+        "generacion": "unova",
+        "numero": 554
+    },
+    {
+        "name": "darmanitan",
+        "tipo": ["fuego"],
+        "generacion": "unova",
+        "numero": 555
+    },
+    {
+        "name": "maractus",
+        "tipo": ["planta"],
+        "generacion": "unova",
+        "numero": 556
+    },
+    {
+        "name": "dwebble",
+        "tipo": ["bicho", "roca"],
+        "generacion": "unova",
+        "numero": 557
+    },
+    {
+        "name": "crustle",
+        "tipo": ["bicho", "roca"],
+        "generacion": "unova",
+        "numero": 558
+    },
+    {
+        "name": "scraggy",
+        "tipo": ["siniestro", "lucha"],
+        "generacion": "unova",
+        "numero": 559
+    },
+    {
+        "name": "scrafty",
+        "tipo": ["siniestro", "lucha"],
+        "generacion": "unova",
+        "numero": 560
+    },
+    {
+        "name": "sigilyph",
+        "tipo": ["psíquico", "volador"],
+        "generacion": "unova",
+        "numero": 561
+    },
+    {
+        "name": "yamask",
+        "tipo": ["fantasma"],
+        "generacion": "unova",
+        "numero": 562
+    },
+    {
+        "name": "cofagrigus",
+        "tipo": ["fantasma"],
+        "generacion": "unova",
+        "numero": 563
+    },
+    {
+        "name": "tirtouga",
+        "tipo": ["agua", "roca"],
+        "generacion": "unova",
+        "numero": 564
+    },
+    {
+        "name": "carracosta",
+        "tipo": ["agua", "roca"],
+        "generacion": "unova",
+        "numero": 565
+    },
+    {
+        "name": "archen",
+        "tipo": ["roca", "volador"],
+        "generacion": "unova",
+        "numero": 566
+    },
+    {
+        "name": "archeops",
+        "tipo": ["roca", "volador"],
+        "generacion": "unova",
+        "numero": 567
+    },
+    {
+        "name": "trubbish",
+        "tipo": ["veneno"],
+        "generacion": "unova",
+        "numero": 568
+    },
+    {
+        "name": "garbodor",
+        "tipo": ["veneno"],
+        "generacion": "unova",
+        "numero": 569
+    },
+    {
+        "name": "zorua",
+        "tipo": ["oscuro"],
+        "generacion": "unova",
+        "numero": 570
+    },
+    {
+        "name": "zoroark",
+        "tipo": ["oscuro"],
+        "generacion": "unova",
+        "numero": 571
+    },
+    {
+        "name": "minccino",
+        "tipo": ["normal"],
+        "generacion": "unova",
+        "numero": 572
+    },
+    {
+        "name": "cinccino",
+        "tipo": ["normal"],
+        "generacion": "unova",
+        "numero": 573
+    },
+    {
+        "name": "gothita",
+        "tipo": ["psíquico"],
+        "generacion": "unova",
+        "numero": 574
+    },
+    {
+        "name": "gothorita",
+        "tipo": ["psíquico"],
+        "generacion": "unova",
+        "numero": 575
+    },
+    {
+        "name": "gothitelle",
+        "tipo": ["psíquico"],
+        "generacion": "unova",
+        "numero": 576
+    },
+    {
+        "name": "solosis",
+        "tipo": ["psíquico"],
+        "generacion": "unova",
+        "numero": 577
+    },
+    {
+        "name": "duosion",
+        "tipo": ["psíquico"],
+        "generacion": "unova",
+        "numero": 578
+    },
+    {
+        "name": "reuniclus",
+        "tipo": ["psíquico"],
+        "generacion": "unova",
+        "numero": 579
+    },
+    {
+        "name": "ducklett",
+        "tipo": ["agua", "volador"],
+        "generacion": "unova",
+        "numero": 580
+    },
+    {
+        "name": "swanna",
+        "tipo": ["agua", "volador"],
+        "generacion": "unova",
+        "numero": 581
+    },
+    {
+        "name": "vanillite",
+        "tipo": ["hielo"],
+        "generacion": "unova",
+        "numero": 582
+    },
+    {
+        "name": "vanillish",
+        "tipo": ["hielo"],
+        "generacion": "unova",
+        "numero": 583
+    },
+    {
+        "name": "vanilluxe",
+        "tipo": ["hielo"],
+        "generacion": "unova",
+        "numero": 584
+    },
+    {
+        "name": "deerling",
+        "tipo": ["normal", "planta"],
+        "generacion": "unova",
+        "numero": 585
+    },
+    {
+        "name": "sawsbuck",
+        "tipo": ["normal", "planta"],
+        "generacion": "unova",
+        "numero": 586
+    },
+    {
+        "name": "emolga",
+        "tipo": ["eléctrico", "volador"],
+        "generacion": "unova",
+        "numero": 587
+    },
+    {
+        "name": "karrablast",
+        "tipo": ["bicho"],
+        "generacion": "unova",
+        "numero": 588
+    },
+    {
+        "name": "escavalier",
+        "tipo": ["bicho", "acero"],
+        "generacion": "unova",
+        "numero": 589
+    },
+    {
+        "name": "foongus",
+        "tipo": ["planta", "veneno"],
+        "generacion": "unova",
+        "numero": 590
+    },
+    {
+        "name": "amoonguss",
+        "tipo": ["planta", "veneno"],
+        "generacion": "unova",
+        "numero": 591
+    },
+    {
+        "name": "frillish",
+        "tipo": ["agua", "fantasma"],
+        "generacion": "unova",
+        "numero": 592
+    },
+    {
+        "name": "jellicent",
+        "tipo": ["agua", "fantasma"],
+        "generacion": "unova",
+        "numero": 593
+    },
+    {
+        "name": "alomomola",
+        "tipo": ["agua"],
+        "generacion": "unova",
+        "numero": 594
+    },
+    {
+        "name": "joltik",
+        "tipo": ["bicho", "eléctrico"],
+        "generacion": "unova",
+        "numero": 595
+    },
+    {
+        "name": "galvantula",
+        "tipo": ["bicho", "eléctrico"],
+        "generacion": "unova",
+        "numero": 596
+    },
+    {
+        "name": "ferroseed",
+        "tipo": ["planta", "acero"],
+        "generacion": "unova",
+        "numero": 597
+    },
+    {
+        "name": "ferrothorn",
+        "tipo": ["planta", "acero"],
+        "generacion": "unova",
+        "numero": 598
+    },
+    {
+        "name": "klink",
+        "tipo": ["acero"],
+        "generacion": "unova",
+        "numero": 599
+    },
+    {
+        "name": "klang",
+        "tipo": ["acero"],
+        "generacion": "unova",
+        "numero": 600
+    },
+    {
+        "name": "klinklang",
+        "tipo": ["acero"],
+        "generacion": "unova",
+        "numero": 601
+    },
+    {
+        "name": "tynamo",
+        "tipo": ["eléctrico"],
+        "generacion": "unova",
+        "numero": 602
+    },
+    {
+        "name": "eelektrik",
+        "tipo": ["eléctrico"],
+        "generacion": "unova",
+        "numero": 603
+    },
+    {
+        "name": "eelektross",
+        "tipo": ["eléctrico"],
+        "generacion": "unova",
+        "numero": 604
+    },
+    {
+        "name": "elgyem",
+        "tipo": ["psíquico"],
+        "generacion": "unova",
+        "numero": 605
+    },
+    {
+        "name": "beheeyem",
+        "tipo": ["psíquico"],
+        "generacion": "unova",
+        "numero": 606
+    },
+    {
+        "name": "litwick",
+        "tipo": ["fantasma", "fuego"],
+        "generacion": "unova",
+        "numero": 607
+    },
+    {
+        "name": "lampent",
+        "tipo": ["fantasma", "fuego"],
+        "generacion": "unova",
+        "numero": 608
+    },
+    {
+        "name": "chandelure",
+        "tipo": ["fantasma", "fuego"],
+        "generacion": "unova",
+        "numero": 609
+    },
+    {
+        "name": "axew",
+        "tipo": ["dragón"],
+        "generacion": "unova",
+        "numero": 610
+    },
+    {
+        "name": "fraxure",
+        "tipo": ["dragón"],
+        "generacion": "unova",
+        "numero": 611
+    },
+    {
+        "name": "haxorus",
+        "tipo": ["dragón"],
+        "generacion": "unova",
+        "numero": 612
+    },
+    {
+        "name": "cubchoo",
+        "tipo": ["hielo"],
+        "generacion": "unova",
+        "numero": 613
+    },
+    {
+        "name": "beartic",
+        "tipo": ["hielo"],
+        "generacion": "unova",
+        "numero": 614
+    },
+    {
+        "name": "cryogonal",
+        "tipo": ["hielo"],
+        "generacion": "unova",
+        "numero": 615
+    },
+    {
+        "name": "shelmet",
+        "tipo": ["bicho"],
+        "generacion": "unova",
+        "numero": 616
+    },
+    {
+        "name": "accelgor",
+        "tipo": ["bicho"],
+        "generacion": "unova",
+        "numero": 617
+    },
+    {
+        "name": "stunfisk",
+        "tipo": ["tierra", "eléctrico"],
+        "generacion": "unova",
+        "numero": 618
+    },
+    {
+        "name": "mienfoo",
+        "tipo": ["lucha"],
+        "generacion": "unova",
+        "numero": 619
+    },
+    {
+        "name": "mienshao",
+        "tipo": ["lucha"],
+        "generacion": "unova",
+        "numero": 620
+    },
+    {
+        "name": "druddigon",
+        "tipo": ["dragón"],
+        "generacion": "unova",
+        "numero": 621
+    },
+    {
+        "name": "golett",
+        "tipo": ["tierra", "fantasma"],
+        "generacion": "unova",
+        "numero": 622
+    },
+    {
+        "name": "golurk",
+        "tipo": ["tierra", "fantasma"],
+        "generacion": "unova",
+        "numero": 623
+    },
+    {
+        "name": "pawniard",
+        "tipo": ["oscuro", "acero"],
+        "generacion": "unova",
+        "numero": 624
+    },
+    {
+        "name": "bisharp",
+        "tipo": ["oscuro", "acero"],
+        "generacion": "unova",
+        "numero": 625
+    },
+    {
+        "name": "bouffalant",
+        "tipo": ["normal"],
+        "generacion": "unova",
+        "numero": 626
+    },
+    {
+        "name": "rufflet",
+        "tipo": ["normal", "volador"],
+        "generacion": "unova",
+        "numero": 627
+    },
+    {
+        "name": "braviary",
+        "tipo": ["normal", "volador"],
+        "generacion": "unova",
+        "numero": 628
+    },
+    {
+        "name": "vullaby",
+        "tipo": ["oscuro", "volador"],
+        "generacion": "unova",
+        "numero": 629
+    },
+    {
+        "name": "mandibuzz",
+        "tipo": ["oscuro", "volador"],
+        "generacion": "unova",
+        "numero": 630
+    },
+    {
+        "name": "heatmor",
+        "tipo": ["fuego"],
+        "generacion": "unova",
+        "numero": 631
+    },
+    {
+        "name": "durant",
+        "tipo": ["bicho", "acero"],
+        "generacion": "unova",
+        "numero": 632
+    },
+    {
+        "name": "deino",
+        "tipo": ["oscuro", "dragón"],
+        "generacion": "unova",
+        "numero": 633
+    },
+    {
+        "name": "zweilous",
+        "tipo": ["oscuro", "dragón"],
+        "generacion": "unova",
+        "numero": 634
+    },
+    {
+        "name": "hydreigon",
+        "tipo": ["oscuro", "dragón"],
+        "generacion": "unova",
+        "numero": 635
+    },
+    {
+        "name": "larvesta",
+        "tipo": ["bicho", "fuego"],
+        "generacion": "unova",
+        "numero": 636
+    },
+    {
+        "name": "volcarona",
+        "tipo": ["bicho", "fuego"],
+        "generacion": "unova",
+        "numero": 637
+    },
+    {
+        "name": "cobalion",
+        "tipo": ["acero", "lucha"],
+        "generacion": "unova",
+        "numero": 638
+    },
+    {
+        "name": "terrakion",
+        "tipo": ["roca", "lucha"],
+        "generacion": "unova",
+        "numero": 639
+    },
+    {
+        "name": "virizion",
+        "tipo": ["planta", "lucha"],
+        "generacion": "unova",
+        "numero": 640
+    },
+    {
+        "name": "tornadus",
+        "tipo": ["volador"],
+        "generacion": "unova",
+        "numero": 641
+    },
+    {
+        "name": "thundurus",
+        "tipo": ["eléctrico", "volador"],
+        "generacion": "unova",
+        "numero": 642
+    },
+    {
+        "name": "reshiram",
+        "tipo": ["dragón", "fuego"],
+        "generacion": "unova",
+        "numero": 643
+    },
+    {
+        "name": "zekrom",
+        "tipo": ["dragón", "eléctrico"],
+        "generacion": "unova",
+        "numero": 644
+    },
+    {
+        "name": "landorus",
+        "tipo": ["tierra", "volador"],
+        "generacion": "unova",
+        "numero": 645
+    },
+    {
+        "name": "kyurem",
+        "tipo": ["dragón", "hielo"],
+        "generacion": "unova",
+        "numero": 646
+    },
+    {
+        "name": "keldeo",
+        "tipo": ["agua", "lucha"],
+        "generacion": "unova",
+        "numero": 647
+    },
+    {
+        "name": "meloetta",
+        "tipo": ["normal", "psíquico"],
+        "generacion": "unova",
+        "numero": 648
+    },
+    {
+        "name": "genesect",
+        "tipo": ["bicho", "acero"],
+        "generacion": "unova",
+        "numero": 649
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "chespin",
+        "tipo": ["planta"],
+        "generacion": "kalos",
+        "numero": 650
+    },
+    {
+        "name": "quilladin",
+        "tipo": ["planta"],
+        "generacion": "kalos",
+        "numero": 651
+    },
+    {
+        "name": "chesnaught",
+        "tipo": ["planta", "lucha"],
+        "generacion": "kalos",
+        "numero": 652
+    },
+    {
+        "name": "fennekin",
+        "tipo": ["fuego"],
+        "generacion": "kalos",
+        "numero": 653
+    },
+    {
+        "name": "braixen",
+        "tipo": ["fuego"],
+        "generacion": "kalos",
+        "numero": 654
+    },
+    {
+        "name": "delphox",
+        "tipo": ["fuego", "psíquico"],
+        "generacion": "kalos",
+        "numero": 655
+    },
+    {
+        "name": "froakie",
+        "tipo": ["agua"],
+        "generacion": "kalos",
+        "numero": 656
+    },
+    {
+        "name": "frogadier",
+        "tipo": ["agua"],
+        "generacion": "kalos",
+        "numero": 657
+    },
+    {
+        "name": "greninja",
+        "tipo": ["agua", "oscuro"],
+        "generacion": "kalos",
+        "numero": 658
+    },
+    {
+        "name": "bunnelby",
+        "tipo": ["normal"],
+        "generacion": "kalos",
+        "numero": 659
+    },
+    {
+        "name": "diggersby",
+        "tipo": ["normal", "tierra"],
+        "generacion": "kalos",
+        "numero": 660
+    },
+    {
+        "name": "fletchling",
+        "tipo": ["normal", "volador"],
+        "generacion": "kalos",
+        "numero": 661
+    },
+    {
+        "name": "fletchinder",
+        "tipo": ["fuego", "volador"],
+        "generacion": "kalos",
+        "numero": 662
+    },
+    {
+        "name": "talonflame",
+        "tipo": ["fuego", "volador"],
+        "generacion": "kalos",
+        "numero": 663
+    },
+    {
+        "name": "scatterbug",
+        "tipo": ["bicho"],
+        "generacion": "kalos",
+        "numero": 664
+    },
+    {
+        "name": "spewpa",
+        "tipo": ["bicho"],
+        "generacion": "kalos",
+        "numero": 665
+    },
+    {
+        "name": "vivillon",
+        "tipo": ["bicho", "volador"],
+        "generacion": "kalos",
+        "numero": 666
+    },
+    {
+        "name": "litleo",
+        "tipo": ["fuego", "normal"],
+        "generacion": "kalos",
+        "numero": 667
+    },
+    {
+        "name": "pyroar",
+        "tipo": ["fuego", "normal"],
+        "generacion": "kalos",
+        "numero": 668
+    },
+    {
+        "name": "flabébé",
+        "tipo": ["hada"],
+        "generacion": "kalos",
+        "numero": 669
+    },
+    {
+        "name": "floette",
+        "tipo": ["hada"],
+        "generacion": "kalos",
+        "numero": 670
+    },
+    {
+        "name": "florges",
+        "tipo": ["hada"],
+        "generacion": "kalos",
+        "numero": 671
+    },
+    {
+        "name": "skiddo",
+        "tipo": ["planta"],
+        "generacion": "kalos",
+        "numero": 672
+    },
+    {
+        "name": "gogoat",
+        "tipo": ["planta"],
+        "generacion": "kalos",
+        "numero": 673
+    },
+    {
+        "name": "pancham",
+        "tipo": ["lucha"],
+        "generacion": "kalos",
+        "numero": 674
+    },
+    {
+        "name": "pangoro",
+        "tipo": ["lucha", "oscuro"],
+        "generacion": "kalos",
+        "numero": 675
+    },
+    {
+        "name": "furfrou",
+        "tipo": ["normal"],
+        "generacion": "kalos",
+        "numero": 676
+    },
+    {
+        "name": "espurr",
+        "tipo": ["psíquico"],
+        "generacion": "kalos",
+        "numero": 677
+    },
+    {
+        "name": "meowstic",
+        "tipo": ["psíquico"],
+        "generacion": "kalos",
+        "numero": 678
+    },
+    {
+        "name": "honedge",
+        "tipo": ["acero", "fantasma"],
+        "generacion": "kalos",
+        "numero": 679
+    },
+    {
+        "name": "doublade",
+        "tipo": ["acero", "fantasma"],
+        "generacion": "kalos",
+        "numero": 680
+    },
+    {
+        "name": "aegislash",
+        "tipo": ["acero", "fantasma"],
+        "generacion": "kalos",
+        "numero": 681
+    },
+    {
+        "name": "spritzee",
+        "tipo": ["hada"],
+        "generacion": "kalos",
+        "numero": 682
+    },
+    {
+        "name": "aromatisse",
+        "tipo": ["hada"],
+        "generacion": "kalos",
+        "numero": 683
+    },
+    {
+        "name": "swirlix",
+        "tipo": ["hada"],
+        "generacion": "kalos",
+        "numero": 684
+    },
+    {
+        "name": "slurpuff",
+        "tipo": ["hada"],
+        "generacion": "kalos",
+        "numero": 685
+    },
+    {
+        "name": "inkay",
+        "tipo": ["siniestro", "psiquico"],
+        "generacion": "kalos",
+        "numero": 686
+    },
+    {
+        "name": "malamar",
+        "tipo": ["siniestro", "psiquico"],
+        "generacion": "kalos",
+        "numero": 687
+    },
+    {
+        "name": "bincale",
+        "tipo": ["roca", "agua"],
+        "generacion": "kalos",
+        "numero": 688
+    },
+    {
+        "name": "barbanacle",
+        "tipo": ["roca", "agua"],
+        "generacion": "kalos",
+        "numero": 689
+    },
+    {
+        "name": "skrelp",
+        "tipo": ["veneno", "agua"],
+        "generacion": "kalos",
+        "numero": 690
+    },
+    {
+        "name": "dragalge",
+        "tipo": ["veneno", "dragon"],
+        "generacion": "kalos",
+        "numero": 691
+    },
+    {
+        "name": "clauncher",
+        "tipo": ["agua"],
+        "generacion": "kalos",
+        "numero": 692
+    },
+    {
+        "name": "clawitzer",
+        "tipo": ["aga"],
+        "generacion": "kalos",
+        "numero": 693
+    },
+    {
+        "name": "helioptile",
+        "tipo": ["electrico", "normal"],
+        "generacion": "kalos",
+        "numero": 694
+    },
+    {
+        "name": "heliolisk",
+        "tipo": ["electrico", "normal"],
+        "generacion": "kalos",
+        "numero": 695
+    },
+    {
+        "name": "tyrunt",
+        "tipo": ["roca", "dragon"],
+        "generacion": "kalos",
+        "numero": 696
+    },
+    {
+        "name": "tyrantrum",
+        "tipo": ["roca", "dragon"],
+        "generacion": "kalos",
+        "numero": 697
+    },
+    {
+        "name": "amaura",
+        "tipo": ["roca", "hielo"],
+        "generacion": "kalos",
+        "numero": 698
+    },
+    {
+        "name": "aurorus",
+        "tipo": ["roca", "hielo"],
+        "generacion": "kalos",
+        "numero": 699
+    },
+    {
+        "name": "sylveon",
+        "tipo": ["hada"],
+        "generacion": "kalos",
+        "numero": 700
+    },
+    {
+        "name": "hawlucha",
+        "tipo": ["lucha", "volador"],
+        "generacion": "kalos",
+        "numero": 701
+    },
+    {
+        "name": "dedenne",
+        "tipo": ["electrico", "hada"],
+        "generacion": "kalos",
+        "numero": 702
+    },
+    {
+        "name": "carbink",
+        "tipo": ["roca", "hada"],
+        "generacion": "kalos",
+        "numero": 703
+    },
+    {
+        "name": "goomy",
+        "tipo": ["dragon"],
+        "generacion": "kalos",
+        "numero": 704
+    },
+    {
+        "name": "sliggoo",
+        "tipo": ["dragon"],
+        "generacion": "kalos",
+        "numero": 705
+    },
+    {
+        "name": "goodra",
+        "tipo": ["dragon"],
+        "generacion": "kalos",
+        "numero": 706
+    },
+    {
+        "name": "klefki",
+        "tipo": ["acero", "hada"],
+        "generacion": "kalos",
+        "numero": 707
+    },
+    {
+        "name": "phantump",
+        "tipo": ["fantasma", "planta"],
+        "generacion": "kalos",
+        "numero": 708
+    },
+    {
+        "name": "treventant",
+        "tipo": ["fantasma", "planta"],
+        "generacion": "kalos",
+        "numero": 709
+    },
+    {
+        "name": "pumpkaboo",
+        "tipo": ["fantasma", "planta"],
+        "generacion": "kalos",
+        "numero": 710
+    },
+    {
+        "name": "gourgeist",
+        "tipo": ["fantasma", "planta"],
+        "generacion": "kalos",
+        "numero": 711
+    },
+    {
+        "name": "bergmite",
+        "tipo": ["hielo"],
+        "generacion": "kalos",
+        "numero": 712
+    },
+    {
+        "name": "avalugg",
+        "tipo": ["hielo"],
+        "generacion": "kalos",
+        "numero": 713
+    },
+    {
+        "name": "noibat",
+        "tipo": ["volador", "dragon"],
+        "generacion": "kalos",
+        "numero": 714
+    },
+    {
+        "name": "noivern",
+        "tipo": ["volador", "dragon"],
+        "generacion": "kalos",
+        "numero": 715
+    },
+    {
+        "name": "xerneas",
+        "tipo": ["hada"],
+        "generacion": "kalos",
+        "numero": 716
+    },
+    {
+        "name": "yveltal",
+        "tipo": ["siniestro", "volador"],
+        "generacion": "kalos",
+        "numero": 717
+    },
+    {
+        "name": "zygarde",
+        "tipo": ["dragon", "tierra"],
+        "generacion": "kalos",
+        "numero": 718
+    },
+    {
+        "name": "diancie",
+        "tipo": ["roca", "hada"],
+        "generacion": "kalos",
+        "numero": 719
+    },
+    {
+        "name": "hoopa",
+        "tipo": ["psiquico", "fantasma"],
+        "generacion": "kalos",
+        "numero": 720
+    },
+    {
+        "name": "hoopa",
+        "tipo": ["psiquico", "siniestro"],
+        "generacion": "kalos",
+        "numero": 720
+    },
+    {
+        "name": "volcanion",
+        "tipo": ["fuego", "agua"],
+        "generacion": "kalos",
+        "numero": 721
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "rowlet",
+        "tipo": ["planta","volador"],
+        "generacion": "alola",
+        "numero": 722
+    },
+    {
+        "name": "dartrix",
+        "tipo": ["planta","volador"],
+        "generacion": "alola",
+        "numero": 723
+    },
+    {
+        "name": "decidueye",
+        "tipo": ["planta","fantasma"],
+        "generacion": "alola",
+        "numero": 724
+    },
+    {
+        "name": "litten",
+        "tipo": ["fuego"],
+        "generacion": "alola",
+        "numero": 725
+    },
+    {
+        "name": "torracat",
+        "tipo": ["fuego"],
+        "generacion": "alola",
+        "numero": 726
+    },
+    {
+        "name": "incineroar",
+        "tipo": ["fuego","siniestro"],
+        "generacion": "alola",
+        "numero": 727
+    },
+    {
+        "name": "popplio",
+        "tipo": ["agua"],
+        "generacion": "alola",
+        "numero": 728
+    },
+    {
+        "name": "brionne",
+        "tipo": ["agua"],
+        "generacion": "alola",
+        "numero": 729
+    },
+    {
+        "name": "primarina",
+        "tipo": ["agua","hada"],
+        "generacion": "alola",
+        "numero": 730
+    },
+    {
+        "name": "pikipek",
+        "tipo": ["normal","volador"],
+        "generacion": "alola",
+        "numero": 731
+    },
+    {
+        "name": "trumbeak",
+        "tipo": ["normal","volador"],
+        "generacion": "alola",
+        "numero": 732
+    },
+    {
+        "name": "toucannon",
+        "tipo": ["normal","volador"],
+        "generacion": "alola",
+        "numero": 733
+    },
+    {
+        "name": "yungos",
+        "tipo": ["normal"],
+        "generacion": "alola",
+        "numero": 734
+    },
+    {
+        "name": "gumshoos",
+        "tipo": ["normal"],
+        "generacion": "alola",
+        "numero": 735
+    },
+    {
+        "name": "grubbin",
+        "tipo": ["bicho"],
+        "generacion": "alola",
+        "numero": 736
+    },
+    {
+        "name": "charjabug",
+        "tipo": ["bicho","electrico"],
+        "generacion": "alola",
+        "numero": 737
+    },
+    {
+        "name": "vikavolt",
+        "tipo": ["bicho","electrico"],
+        "generacion": "alola",
+        "numero": 738
+    },
+    {
+        "name": "crabrawler",
+        "tipo": ["lucha"],
+        "generacion": "alola",
+        "numero": 739
+    },
+    {
+        "name": "crabominable",
+        "tipo": ["lucha"],
+        "generacion": "alola",
+        "numero": 740
+    },
+    {
+        "name": "oricorio",
+        "tipo": ["fuego","volador"],
+        "generacion": "alola",
+        "numero": 741
+    },
+    {
+        "name": "oricorio",
+        "tipo": ["electrico","volador"],
+        "generacion": "alola",
+        "numero": 741
+    },
+    {
+        "name": "oricorio",
+        "tipo": ["psiquico","volador"],
+        "generacion": "alola",
+        "numero": 741
+    },
+    {
+        "name": "oricorio",
+        "tipo": ["fantasma","volador"],
+        "generacion": "alola",
+        "numero": 741
+    },
+    {
+        "name": "cutiefly",
+        "tipo": ["bicho","hada"],
+        "generacion": "alola",
+        "numero": 742
+    },
+    {
+        "name": "ribombee",
+        "tipo": ["bicho","hada"],
+        "generacion": "alola",
+        "numero": 743
+    },
+    {
+        "name": "rockruff",
+        "tipo": ["roca"],
+        "generacion": "alola",
+        "numero": 744
+    },
+    {
+        "name": "lycanroc",
+        "tipo": ["roca"],
+        "generacion": "alola",
+        "numero": 745
+    },
+    {
+        "name": "wishiwashi",
+        "tipo": ["agua"],
+        "generacion": "alola",
+        "numero": 746
+    },
+    {
+        "name": "mareanie",
+        "tipo": ["veneno","agua"],
+        "generacion": "alola",
+        "numero": 747
+    },
+    {
+        "name": "toxapex",
+        "tipo": ["veneno","agua"],
+        "generacion": "alola",
+        "numero": 748
+    },
+    {
+        "name": "mudbray",
+        "tipo": ["",""],
+        "generacion": "alola",
+        "numero": 749
+    },
+    {
+        "name": "mudsdale",
+        "tipo": ["",""],
+        "generacion": "alola",
+        "numero": 750
+    },
+    {
+        "name": "dewpider",
+        "tipo": ["agua","bicho"],
+        "generacion": "alola",
+        "numero": 751
+    },
+    {
+        "name": "araquanid",
+        "tipo": ["agua","bicho"],
+        "generacion": "alola",
+        "numero": 752
+    },
+    {
+        "name": "fomantis",
+        "tipo": ["planta"],
+        "generacion": "alola",
+        "numero": 753
+    },
+    {
+        "name": "lurantis",
+        "tipo": ["planta"],
+        "generacion": "alola",
+        "numero": 754
+    },
+    {
+        "name": "morelull",
+        "tipo": ["planta","hada"],
+        "generacion": "alola",
+        "numero": 755
+    },
+    {
+        "name": "shiinotic",
+        "tipo": ["planta","hada"],
+        "generacion": "alola",
+        "numero": 756
+    },
+    {
+        "name": "salandit",
+        "tipo": ["veneno","fuego"],
+        "generacion": "alola",
+        "numero": 757
+    },
+    {
+        "name": "salazzle",
+        "tipo": ["veneno","fuego"],
+        "generacion": "alola",
+        "numero": 758
+    },
+    {
+        "name": "stufful",
+        "tipo": ["normal","lucha"],
+        "generacion": "alola",
+        "numero": 759
+    },
+    {
+        "name": "bewear",
+        "tipo": ["normal","lucha"],
+        "generacion": "alola",
+        "numero": 760
+    },
+    {
+        "name": "bounsweet",
+        "tipo": ["planta"],
+        "generacion": "alola",
+        "numero": 761
+    },
+    {
+        "name": "steene",
+        "tipo": ["planta"],
+        "generacion": "alola",
+        "numero": 762
+    },
+    {
+        "name": "tsareena",
+        "tipo": ["planta"],
+        "generacion": "alola",
+        "numero": 763
+    },
+    {
+        "name": "comfey",
+        "tipo": ["hada"],
+        "generacion": "alola",
+        "numero": 764
+    },
+    {
+        "name": "oranguru",
+        "tipo": ["normal","psíquico"],
+        "generacion": "alola",
+        "numero": 765
+    },
+    {
+        "name": "passimian",
+        "tipo": ["lucha"],
+        "generacion": "alola",
+        "numero": 766
+    },
+    {
+        "name": "wimpod",
+        "tipo": ["bicho","agua"],
+        "generacion": "alola",
+        "numero": 767
+    },
+    {
+        "name": "golisopod",
+        "tipo": ["bicho","agua"],
+        "generacion": "alola",
+        "numero": 768
+    },
+    {
+        "name": "sandygast",
+        "tipo": ["fantasma","tierra"],
+        "generacion": "alola",
+        "numero": 769
+    },
+    {
+        "name": "palossand",
+        "tipo": ["fantasma","tierra"],
+        "generacion": "alola",
+        "numero": 770
+    },
+    {
+        "name": "pyukumuku",
+        "tipo": ["agua"],
+        "generacion": "alola",
+        "numero": 771
+    },
+    {
+        "name": "código cero",
+        "tipo": ["normal"],
+        "generacion": "alola",
+        "numero": 772
+    },
+    {
+        "name": "silvally",
+        "tipo": ["normal"],
+        "generacion": "alola",
+        "numero": 773
+    },
+    {
+        "name": "minior",
+        "tipo": ["roca","volador"],
+        "generacion": "alola",
+        "numero": 774
+    },
+    {
+        "name": "komala",
+        "tipo": ["normal"],
+        "generacion": "alola",
+        "numero": 775
+    },
+    {
+        "name": "turtonator",
+        "tipo": ["fuego","dragón"],
+        "generacion": "alola",
+        "numero": 776
+    },
+    {
+        "name": "togedemaru",
+        "tipo": ["acero","electrico"],
+        "generacion": "alola",
+        "numero": 777
+    },
+    {
+        "name": "mimikyu",
+        "tipo": ["fantasma","hada"],
+        "generacion": "alola",
+        "numero": 778
+    },
+    {
+        "name": "bruxish",
+        "tipo": ["agua","psiquico"],
+        "generacion": "alola",
+        "numero": 779
+    },
+    {
+        "name": "drampa",
+        "tipo": ["normal","dragon"],
+        "generacion": "alola",
+        "numero": 780
+    },
+    {
+        "name": "dhelmise",
+        "tipo": ["fantasma","planta"],
+        "generacion": "alola",
+        "numero": 781
+    },
+    {
+        "name": "jangmo-o",
+        "tipo": ["dragon"],
+        "generacion": "alola",
+        "numero": 782
+    },
+    {
+        "name": "hakamo-o",
+        "tipo": ["dragon","lucha"],
+        "generacion": "alola",
+        "numero": 783
+    },
+    {
+        "name": "kommo-o",
+        "tipo": ["dragon","lucha"],
+        "generacion": "alola",
+        "numero": 784
+    },
+    {
+        "name": "tapu Koko",
+        "tipo": ["electrico","hada"],
+        "generacion": "alola",
+        "numero": 785
+    },
+    {
+        "name": "tapu Lele",
+        "tipo": ["psiquico","hada"],
+        "generacion": "alola",
+        "numero": 786
+    },
+    {
+        "name": "tapu Bulu",
+        "tipo": ["planta","hada"],
+        "generacion": "alola",
+        "numero": 787
+    },
+    {
+        "name": "tapu Fini",
+        "tipo": ["agua","hada"],
+        "generacion": "alola",
+        "numero": 788
+    },
+    {
+        "name": "cosmog",
+        "tipo": ["psiquico"],
+        "generacion": "alola",
+        "numero": 789
+    },
+    {
+        "name": "cosmoem",
+        "tipo": ["psiquico"],
+        "generacion": "alola",
+        "numero": 790
+    },
+    {
+        "name": "solgaleo",
+        "tipo": ["psiquico","acero"],
+        "generacion": "alola",
+        "numero": 791
+    },
+    {
+        "name": "lunala",
+        "tipo": ["psiquico","fantasma"],
+        "generacion": "alola",
+        "numero": 792
+    },
+    {
+        "name": "nihilego",
+        "tipo": ["roca","veneno"],
+        "generacion": "alola",
+        "numero": 793
+    },
+    {
+        "name": "buzzwole",
+        "tipo": ["bicho","lucha"],
+        "generacion": "alola",
+        "numero": 794
+    },
+    {
+        "name": "pheromosa",
+        "tipo": ["bicho","lucha"],
+        "generacion": "alola",
+        "numero": 795
+    },
+    {
+        "name": "xurkitree",
+        "tipo": ["electrico"],
+        "generacion": "alola",
+        "numero": 796
+    },
+    {
+        "name": "celesteela",
+        "tipo": ["acero","volador"],
+        "generacion": "alola",
+        "numero": 797
+    },
+    {
+        "name": "kartana",
+        "tipo": ["planta","acero"],
+        "generacion": "alola",
+        "numero": 798
+    },
+    {
+        "name": "guzzlord",
+        "tipo": ["siniestro","dragon"],
+        "generacion": "alola",
+        "numero": 799
+    },
+    {
+        "name": "necrozma",
+        "tipo": ["psiquico"],
+        "generacion": "alola",
+        "numero": 800
+    },
+    {
+        "name": "magearna",
+        "tipo": ["acero","hada"],
+        "generacion": "alola",
+        "numero": 801
+    },
+    {
+        "name": "marshadow",
+        "tipo": ["lucha","fantasma"],
+        "generacion": "alola",
+        "numero": 802
+    },
+    {
+        "name": "poipole",
+        "tipo": ["veneno"],
+        "generacion": "alola",
+        "numero": 803
+    },
+    {
+        "name": "naganadel",
+        "tipo": ["veneno","dragon"],
+        "generacion": "alola",
+        "numero": 804
+    },
+    {
+        "name": "stakataka",
+        "tipo": ["roca","acero"],
+        "generacion": "alola",
+        "numero": 805
+    },
+    {
+        "name": "blacephalon",
+        "tipo": ["fuego","fantasma"],
+        "generacion": "alola",
+        "numero": 806
+    },
+    {
+        "name": "zeraora",
+        "tipo": ["electrico"],
+        "generacion": "alola",
+        "numero": 807
+    },
+    {
+        "name": "meltan",
+        "tipo": ["acero"],
+        "generacion": "alola",
+        "numero": 808
+    },
+    {
+        "name": "melmetal",
+        "tipo": ["acero"],
+        "generacion": "alola",
+        "numero": 809
+    },
+
+
+
+
+
+
+
+
+
+
+    
+    {
+        "name": "grookey",
+        "tipo": ["planta"],
+        "generacion": "galar",
+        "numero": 810
+    },
+    {
+        "name": "thwackey",
+        "tipo": ["planta"],
+        "generacion": "galar",
+        "numero": 811
+    },
+    {
+        "name": "rillaboom",
+        "tipo": ["planta"],
+        "generacion": "galar",
+        "numero": 812
+    },
+    {
+        "name": "scorbunny",
+        "tipo": ["fuego"],
+        "generacion": "galar",
+        "numero": 813
+    },
+    {
+        "name": "raboot",
+        "tipo": ["fuego"],
+        "generacion": "galar",
+        "numero": 814
+    },
+    {
+        "name": "cinderace",
+        "tipo": ["fuego"],
+        "generacion": "galar",
+        "numero": 815
+    },
+    {
+        "name": "sobble",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 816
+    },
+    {
+        "name": "drizzile",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 817
+    },
+    {
+        "name": "inteleon",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 818
+    },
+    {
+        "name": "skwovet",
+        "tipo": ["normal"],
+        "generacion": "galar",
+        "numero": 819
+    },
+    {
+        "name": "greedent",
+        "tipo": ["normal"],
+        "generacion": "galar",
+        "numero": 820
+    },
+    {
+        "name": "rookidee",
+        "tipo": ["volador"],
+        "generacion": "galar",
+        "numero": 821
+    },
+    {
+        "name": "corvisquire",
+        "tipo": ["volador"],
+        "generacion": "galar",
+        "numero": 822
+    },
+    {
+        "name": "corviknight",
+        "tipo": ["volador", "acero"],
+        "generacion": "galar",
+        "numero": 823
+    },
+    {
+        "name": "blipbug",
+        "tipo": ["bicho"],
+        "generacion": "galar",
+        "numero": 824
+    },
+    {
+        "name": "dottler",
+        "tipo": ["bicho", "psiquico"],
+        "generacion": "galar",
+        "numero": 825
+    },
+    {
+        "name": "orbeetle",
+        "tipo": ["bicho", "psiquico"],
+        "generacion": "galar",
+        "numero": 826
+    },
+    {
+        "name": "nickit",
+        "tipo": ["siniestro"],
+        "generacion": "galar",
+        "numero": 827
+    },
+    {
+        "name": "thievul",
+        "tipo": ["siniestro"],
+        "generacion": "galar",
+        "numero": 828
+    },
+    {
+        "name": "gossifleur",
+        "tipo": ["planta"],
+        "generacion": "galar",
+        "numero": 829
+    },
+    {
+        "name": "eldegoss",
+        "tipo": ["planta"],
+        "generacion": "galar",
+        "numero": 830
+    },
+    {
+        "name": "wooloo",
+        "tipo": ["normal"],
+        "generacion": "galar",
+        "numero": 831
+    },
+    {
+        "name": "dubwool",
+        "tipo": ["normal"],
+        "generacion": "galar",
+        "numero": 832
+    },
+    {
+        "name": "chewtle",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 833
+    },
+    {
+        "name": "drednaw",
+        "tipo": ["agua", "roca"],
+        "generacion": "galar",
+        "numero": 834
+    },
+    {
+        "name": "yamper",
+        "tipo": ["electrico"],
+        "generacion": "galar",
+        "numero": 835
+    },
+    {
+        "name": "boltund",
+        "tipo": ["electrico"],
+        "generacion": "galar",
+        "numero": 836
+    },
+    {
+        "name": "rolycoly",
+        "tipo": ["roca"],
+        "generacion": "galar",
+        "numero": 837
+    },
+    {
+        "name": "carkol",
+        "tipo": ["roca", "fuego"],
+        "generacion": "galar",
+        "numero": 838
+    },
+    {
+        "name": "coalossal",
+        "tipo": ["roca", "fuego"],
+        "generacion": "galar",
+        "numero": 839
+    },
+    {
+        "name": "applin",
+        "tipo": ["planta", "dragon"],
+        "generacion": "galar",
+        "numero": 840
+    },
+    {
+        "name": "flapple",
+        "tipo": ["planta", "dragon"],
+        "generacion": "galar",
+        "numero": 841
+    },
+    {
+        "name": "appletun",
+        "tipo": ["planta", "dragon"],
+        "generacion": "galar",
+        "numero": 842
+    },
+    {
+        "name": "silicobra",
+        "tipo": ["tierra"],
+        "generacion": "galar",
+        "numero": 843
+    },
+    {
+        "name": "sandaconda",
+        "tipo": ["tierra"],
+        "generacion": "galar",
+        "numero": 844
+    },
+    {
+        "name": "cramorant",
+        "tipo": ["volador", "agua"],
+        "generacion": "galar",
+        "numero": 845
+    },
+    {
+        "name": "arrokuda",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 846
+    },
+    {
+        "name": "barraskewda",
+        "tipo": ["agua"],
+        "generacion": "galar",
+        "numero": 847
+    },
+    {
+        "name": "toxel",
+        "tipo": ["electrico", "veneno"],
+        "generacion": "galar",
+        "numero": 848
+    },
+    {
+        "name": "toxtricity",
+        "tipo": ["electrico", "veneno"],
+        "generacion": "galar",
+        "numero": 849
+    },
+    {
+        "name": "sizzlipede",
+        "tipo": ["fuego", "bicho"],
+        "generacion": "galar",
+        "numero": 850
+    },
+    {
+        "name": "centiskorch",
+        "tipo": ["fuego", "bicho"],
+        "generacion": "galar",
+        "numero": 851
+    },
+    {
+        "name": "clobbopus",
+        "tipo": ["lucha"],
+        "generacion": "galar",
+        "numero": 852
+    },
+    {
+        "name": "grapploct",
+        "tipo": ["lucha"],
+        "generacion": "galar",
+        "numero": 853
+    },
+    {
+        "name": "sinistea",
+        "tipo": ["fantasma"],
+        "generacion": "galar",
+        "numero": 854
+    },
+    {
+        "name": "polteageist",
+        "tipo": ["fantasma"],
+        "generacion": "galar",
+        "numero": 855
+    },
+    {
+        "name": "hatenna",
+        "tipo": ["psiquico"],
+        "generacion": "galar",
+        "numero": 856
+    },
+    {
+        "name": "hattrem",
+        "tipo": ["psiquico"],
+        "generacion": "galar",
+        "numero": 857
+    },
+    {
+        "name": "hatterene",
+        "tipo": ["psiquico", "hada"],
+        "generacion": "galar",
+        "numero": 858
+    },
+    {
+        "name": "impidimp",
+        "tipo": ["siniestro", "hada"],
+        "generacion": "galar",
+        "numero": 859
+    },
+    {
+        "name": "morgrem",
+        "tipo": ["siniestro", "hada"],
+        "generacion": "galar",
+        "numero": 860
+    },
+    {
+        "name": "grimmsnarl",
+        "tipo": ["siniestro", "hada"],
+        "generacion": "galar",
+        "numero": 861
+    },
+    {
+        "name": "obstagoon",
+        "tipo": ["siniestro", "normal"],
+        "generacion": "galar",
+        "numero": 862
+    },
+    {
+        "name": "perrserker",
+        "tipo": ["acero"],
+        "generacion": "galar",
+        "numero": 863
+    },
+    {
+        "name": "cursola",
+        "tipo": ["fantasma"],
+        "generacion": "galar",
+        "numero": 864
+    },
+    {
+        "name": "sirfetch'd",
+        "tipo": ["lucha"],
+        "generacion": "galar",
+        "numero": 865
+    },
+    {
+        "name": "mr. rime",
+        "tipo": ["hielo", "psiquico"],
+        "generacion": "galar",
+        "numero": 866
+    },
+    {
+        "name": "runerigus",
+        "tipo": ["tierra", "fantasma"],
+        "generacion": "galar",
+        "numero": 867
+    },
+    {
+        "name": "milcery",
+        "tipo": ["hada"],
+        "generacion": "galar",
+        "numero": 868
+    },
+    {
+        "name": "alcremie",
+        "tipo": ["hada"],
+        "generacion": "galar",
+        "numero": 869
+    },
+    {
+        "name": "falinks",
+        "tipo": ["lucha"],
+        "generacion": "galar",
+        "numero": 870
+    },
+    {
+        "name": "pincurchin",
+        "tipo": ["electrico"],
+        "generacion": "galar",
+        "numero": 871
+    },
+    {
+        "name": "snom",
+        "tipo": ["hielo", "bicho"],
+        "generacion": "galar",
+        "numero": 872
+    },
+    {
+        "name": "frosmoth",
+        "tipo": ["hielo", "bicho"],
+        "generacion": "galar",
+        "numero": 873
+    },
+    {
+        "name": "stonjourner",
+        "tipo": ["roca"],
+        "generacion": "galar",
+        "numero": 874
+    },
+    {
+        "name": "eiscue",
+        "tipo": ["hielo"],
+        "generacion": "galar",
+        "numero": 875
+    },
+    {
+        "name": "indeedee",
+        "tipo": ["psiquico", "normal"],
+        "generacion": "galar",
+        "numero": 876
+    },
+    {
+        "name": "morpeko",
+        "tipo": ["electrico", "siniestro"],
+        "generacion": "galar",
+        "numero": 877
+    },
+    {
+        "name": "cufant",
+        "tipo": ["acero"],
+        "generacion": "galar",
+        "numero": 878
+    },
+    {
+        "name": "copperajah",
+        "tipo": ["acero"],
+        "generacion": "galar",
+        "numero": 879
+    },
+    {
+        "name": "dracozolt",
+        "tipo": ["electrico", "dragon"],
+        "generacion": "galar",
+        "numero": 880
+    },
+    {
+        "name": "arctozolt",
+        "tipo": ["electrico", "hielo"],
+        "generacion": "galar",
+        "numero": 881
+    },
+    {
+        "name": "dracovish",
+        "tipo": ["agua", "dragon"],
+        "generacion": "galar",
+        "numero": 882
+    },
+    {
+        "name": "arctovish",
+        "tipo": ["agua", "hielo"],
+        "generacion": "galar",
+        "numero": 883
+    },
+    {
+        "name": "duraludon",
+        "tipo": ["acero", "dragon"],
+        "generacion": "galar",
+        "numero": 884
+    },
+    {
+        "name": "dreepy",
+        "tipo": ["dragon", "fantasma"],
+        "generacion": "galar",
+        "numero": 885
+    },
+    {
+        "name": "drakloak",
+        "tipo": ["dragon", "fantasma"],
+        "generacion": "galar",
+        "numero": 886
+    },
+    {
+        "name": "dragapult",
+        "tipo": ["dragon", "fantasma"],
+        "generacion": "galar",
+        "numero": 887
+    },
+    {
+        "name": "zacian",
+        "tipo": ["hada", "acero"],
+        "generacion": "galar",
+        "numero": 888
+    },
+    {
+        "name": "zamazenta",
+        "tipo": ["lucha", "acero"],
+        "generacion": "galar",
+        "numero": 889
+    },
+    {
+        "name": "eternatus",
+        "tipo": ["veneno", "dragon"],
+        "generacion": "galar",
+        "numero": 890
+    },
+    {
+        "name": "kubfu",
+        "tipo": ["lucha"],
+        "generacion": "galar",
+        "numero": 891
+    },
+    {
+        "name": "urshifu",
+        "tipo": ["lucha", "siniestro"],
+        "generacion": "galar",
+        "numero": 892
+    },
+    {
+        "name": "urshifu",
+        "tipo": ["lucha", "agua"],
+        "generacion": "galar",
+        "numero": 892
+    },
+    {
+        "name": "zarude",
+        "tipo": ["siniestro", "planta"],
+        "generacion": "galar",
+        "numero": 893
+    },
+    {
+        "name": "regieleki",
+        "tipo": ["electrico"],
+        "generacion": "galar",
+        "numero": 894
+    },
+    {
+        "name": "regidrago",
+        "tipo": ["dragon"],
+        "generacion": "galar",
+        "numero": 895
+    },
+    {
+        "name": "glastrier",
+        "tipo": ["hielo"],
+        "generacion": "galar",
+        "numero": 896
+    },
+    {
+        "name": "spectrier",
+        "tipo": ["fantasma"],
+        "generacion": "galar",
+        "numero": 897
+    },
+    {
+        "name": "calyrex",
+        "tipo": ["psiquico", "planta"],
+        "generacion": "galar",
+        "numero": 898
+    },
+    {
+        "name": "wyrdeer",
+        "tipo": ["normal", "psiquico"],
+        "generacion": "galar",
+        "numero": 899
+    },
+    {
+        "name": "kleavor",
+        "tipo": ["bicho", "roca"],
+        "generacion": "galar",
+        "numero": 900
+    },
+    {
+        "name": "ursaluna",
+        "tipo": ["tierra", "normal"],
+        "generacion": "galar",
+        "numero": 901
+    },
+    {
+        "name": "basculegion",
+        "tipo": ["agua", "fantasma"],
+        "generacion": "galar",
+        "numero": 902
+    },
+    {
+        "name": "sneasler",
+        "tipo": ["lucha", "veneno"],
+        "generacion": "galar",
+        "numero": 903
+    },
+    {
+        "name": "overquill",
+        "tipo": ["siniestro", "veneno"],
+        "generacion": "galar",
+        "numero": 904
+    },
+    {
+        "name": "enamorus",
+        "tipo": ["hada", "volador"],
+        "generacion": "galar",
+        "numero": 905
+    },
+
+
+
+
+
+
+
+
+
+    {                               
+        "name": "sprigatito",
+        "tipo": ["planta"],
+        "generacion": "paldea",
+        "numero": 906
+    },
+    {
+        "name": "floragato",
+        "tipo": ["planta"],
+        "generacion": "paldea",
+        "numero": 907
+    },
+    {
+        "name": "meowscarada",
+        "tipo": ["planta", "siniestro"],
+        "generacion": "paldea",
+        "numero": 908
+    },
+    {
+        "name": "fuecoco",
+        "tipo": ["fuego"],
+        "generacion": "paldea",
+        "numero": 909
+    },
+    {
+        "name": "crocalor",
+        "tipo": ["fuego"],
+        "generacion": "paldea",
+        "numero": 910
+    },
+    {
+        "name": "skeledirge",
+        "tipo": ["fuego", "fantasma"],
+        "generacion": "paldea",
+        "numero": 911
+    },
+    {
+        "name": "quaxly",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 912
+    },
+    {
+        "name": "quaxwell",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 913
+    },
+    {
+        "name": "quaquaval",
+        "tipo": ["agua", "lucha"],
+        "generacion": "paldea",
+        "numero": 914
+    },
+    {
+        "name": "lechonk",
+        "tipo": ["normal"],
+        "generacion": "paldea",
+        "numero": 915
+    },
+    {
+        "name": "oinkologne",
+        "tipo": ["normal"],
+        "generacion": "paldea",
+        "numero": 916
+    },
+    {
+        "name": "tarountula",
+        "tipo": ["bicho"],
+        "generacion": "paldea",
+        "numero": 917
+    },
+    {
+        "name": "spidops",
+        "tipo": ["bicho"],
+        "generacion": "paldea",
+        "numero": 918
+    },
+    {
+        "name": "nymble",
+        "tipo": ["bicho"],
+        "generacion": "paldea",
+        "numero": 919
+    },
+    {
+        "name": "lokix",
+        "tipo": ["bicho", "siniestro"],
+        "generacion": "paldea",
+        "numero": 920
+    },
+    {
+        "name": "pawmi",
+        "tipo": ["eléctrico"],
+        "generacion": "paldea",
+        "numero": 921
+    },
+    {
+        "name": "pawmo",
+        "tipo": ["eléctrico", "lucha"],
+        "generacion": "paldea",
+        "numero": 922
+    },
+    {
+        "name": "pawmot",
+        "tipo": ["eléctrico", "lucha"],
+        "generacion": "paldea",
+        "numero": 923
+    },
+    {
+        "name": "tandemaus",
+        "tipo": ["normal"],
+        "generacion": "paldea",
+        "numero": 924
+    },
+    {
+        "name": "maushold",
+        "tipo": ["normal"],
+        "generacion": "paldea",
+        "numero": 925
+    },
+    {
+        "name": "fidough",
+        "tipo": ["hada"],
+        "generacion": "paldea",
+        "numero": 926
+    },
+    {
+        "name": "dachsbun",
+        "tipo": ["hada"],
+        "generacion": "paldea",
+        "numero": 927
+    },
+    {
+        "name": "smoliv",
+        "tipo": ["planta", "normal"],
+        "generacion": "paldea",
+        "numero": 928
+    },
+    {
+        "name": "dolliv",
+        "tipo": ["planta", "normal"],
+        "generacion": "paldea",
+        "numero": 929
+    },
+    {
+        "name": "arboliva",
+        "tipo": ["planta", "normal"],
+        "generacion": "paldea",
+        "numero": 930
+    },
+    {
+        "name": "squawkabilly",
+        "tipo": ["normal", "volador"],
+        "generacion": "paldea",
+        "numero": 931
+    },
+    {
+        "name": "nacli",
+        "tipo": ["roca"],
+        "generacion": "paldea",
+        "numero": 932
+    },
+    {
+        "name": "naclstack",
+        "tipo": ["roca"],
+        "generacion": "paldea",
+        "numero": 933
+    },
+    {
+        "name": "garganacl",
+        "tipo": ["roca"],
+        "generacion": "paldea",
+        "numero": 934
+    },
+    {
+        "name": "charcadet",
+        "tipo": ["fuego"],
+        "generacion": "paldea",
+        "numero": 935
+    },
+    {
+        "name": "armarouge",
+        "tipo": ["fuego", "psíquico"],
+        "generacion": "paldea",
+        "numero": 936
+    },
+    {
+        "name": "ceruledge",
+        "tipo": ["fuego", "fantasma"],
+        "generacion": "paldea",
+        "numero": 937
+    },
+    {
+        "name": "tadbulb",
+        "tipo": ["eléctrico"],
+        "generacion": "paldea",
+        "numero": 938
+    },
+    {
+        "name": "bellibolt",
+        "tipo": ["eléctrico"],
+        "generacion": "paldea",
+        "numero": 939
+    },
+    {
+        "name": "wattrel",
+        "tipo": ["eléctrico", "volador"],
+        "generacion": "paldea",
+        "numero": 940
+    },
+    {
+        "name": "kilowattrel",
+        "tipo": ["eléctrico", "volador"],
+        "generacion": "paldea",
+        "numero": 941
+    },
+    {
+        "name": "maschiff",
+        "tipo": ["siniestro"],
+        "generacion": "paldea",
+        "numero": 942
+    },
+    {
+        "name": "mabosstiff",
+        "tipo": ["siniestro"],
+        "generacion": "paldea",
+        "numero": 943
+    },
+    {
+        "name": "shroodle",
+        "tipo": ["veneno", "normal"],
+        "generacion": "paldea",
+        "numero": 944
+    },
+    {
+        "name": "grafaiai",
+        "tipo": ["veneno", "normal"],
+        "generacion": "paldea",
+        "numero": 945
+    },
+    {
+        "name": "bramblin",
+        "tipo": ["planta", "fantasma"],
+        "generacion": "paldea",
+        "numero": 946
+    },
+    {
+        "name": "brambleghast",
+        "tipo": ["planta", "fantasma"],
+        "generacion": "paldea",
+        "numero": 947
+    },
+    {
+        "name": "toedscool",
+        "tipo": ["planta", "tierra"],
+        "generacion": "paldea",
+        "numero": 948
+    },
+    {
+        "name": "toedscruel",
+        "tipo": ["planta", "tierra"],
+        "generacion": "paldea",
+        "numero": 949
+    },
+    {
+        "name": "klawf",
+        "tipo": ["roca"],
+        "generacion": "paldea",
+        "numero": 950
+    },
+    {
+        "name": "capsakid",
+        "tipo": ["planta"],
+        "generacion": "paldea",
+        "numero": 951
+    },
+    {
+        "name": "scovillain",
+        "tipo": ["planta", "fuego"],
+        "generacion": "paldea",
+        "numero": 952
+    },
+    {
+        "name": "rellor",
+        "tipo": ["bicho"],
+        "generacion": "paldea",
+        "numero": 953
+    },
+    {
+        "name": "rabsca",
+        "tipo": ["bicho", "psíquico"],
+        "generacion": "paldea",
+        "numero": 954
+    },
+    {
+        "name": "flittle",
+        "tipo": ["psíquico"],
+        "generacion": "paldea",
+        "numero": 955
+    },
+    {
+        "name": "espathra",
+        "tipo": ["psíquico"],
+        "generacion": "paldea",
+        "numero": 956
+    },
+    {
+        "name": "tinkatink",
+        "tipo": ["hada", "acero"],
+        "generacion": "paldea",
+        "numero": 957
+    },
+    {
+        "name": "tinkatuff",
+        "tipo": ["hada", "acero"],
+        "generacion": "paldea",
+        "numero": 958
+    },
+    {
+        "name": "tinkaton",
+        "tipo": ["hada", "acero"],
+        "generacion": "paldea",
+        "numero": 959
+    },
+    {
+        "name": "wiglett",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 960
+    },
+    {
+        "name": "wugtrio",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 961
+    },
+    {
+        "name": "bombirdier",
+        "tipo": ["volador", "siniestro"],
+        "generacion": "paldea",
+        "numero": 962
+    },
+    {
+        "name": "finizen",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 963
+    },
+    {
+        "name": "palafin",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 964
+    },
+    {
+        "name": "varoom",
+        "tipo": ["acero", "veneno"],
+        "generacion": "paldea",
+        "numero": 965
+    },
+    {
+        "name": "revavroom",
+        "tipo": ["acero", "veneno"],
+        "generacion": "paldea",
+        "numero": 966
+    },
+    {
+        "name": "cyclizar",
+        "tipo": ["dragón", "normal"],
+        "generacion": "paldea",
+        "numero": 967
+    },
+    {
+        "name": "orthworm",
+        "tipo": ["acero"],
+        "generacion": "paldea",
+        "numero": 968
+    },
+    {
+        "name": "glimmet",
+        "tipo": ["roca", "veneno"],
+        "generacion": "paldea",
+        "numero": 969
+    },
+    {
+        "name": "glimmora",
+        "tipo": ["roca", "veneno"],
+        "generacion": "paldea",
+        "numero": 970
+    },
+    {
+        "name": "greavard",
+        "tipo": ["fantasma"],
+        "generacion": "paldea",
+        "numero": 971
+    },
+    {
+        "name": "houndstone",
+        "tipo": ["fantasma"],
+        "generacion": "paldea",
+        "numero": 972
+    },
+    {
+        "name": "flamigo",
+        "tipo": ["volador", "lucha"],
+        "generacion": "paldea",
+        "numero": 973
+    },
+    {
+        "name": "cetoddle",
+        "tipo": ["hielo"],
+        "generacion": "paldea",
+        "numero": 974
+    },
+    {
+        "name": "cetitan",
+        "tipo": ["hielo"],
+        "generacion": "paldea",
+        "numero": 975
+    },
+    {
+        "name": "veluza",
+        "tipo": ["agua", "psíquico"],
+        "generacion": "paldea",
+        "numero": 976
+    },
+    {
+        "name": "dondozo",
+        "tipo": ["agua"],
+        "generacion": "paldea",
+        "numero": 977
+    },
+    {
+        "name": "tatsugiri",
+        "tipo": ["dragón", "agua"],
+        "generacion": "paldea",
+        "numero": 978
+    },
+    {
+        "name": "annihilape",
+        "tipo": ["lucha", "fantasma"],
+        "generacion": "paldea",
+        "numero": 979
+    },
+    {
+        "name": "clodsire",
+        "tipo": ["veneno", "tierra"],
+        "generacion": "paldea",
+        "numero": 980
+    },
+    {
+        "name": "farigiraf",
+        "tipo": ["normal", "psíquico"],
+        "generacion": "paldea",
+        "numero": 981
+    },
+    {
+        "name": "dudunsparce",
+        "tipo": ["normal"],
+        "generacion": "paldea",
+        "numero": 982
+    },
+    {
+        "name": "kingambit",
+        "tipo": ["siniestro", "acero"],
+        "generacion": "paldea",
+        "numero": 983
+    },
+    {
+        "name": "great tusk",
+        "tipo": ["tierra", "lucha"],
+        "generacion": "paldea",
+        "numero": 984
+    },
+    {
+        "name": "scream tail",
+        "tipo": ["hada", "psíquico"],
+        "generacion": "paldea",
+        "numero": 985
+    },
+    {
+        "name": "brute bonnet",
+        "tipo": ["planta", "siniestro"],
+        "generacion": "paldea",
+        "numero": 986
+    },
+    {
+        "name": "flutter mane",
+        "tipo": ["fantasma", "hada"],
+        "generacion": "paldea",
+        "numero": 987
+    },
+    {
+        "name": "slither wing",
+        "tipo": ["bicho", "lucha"],
+        "generacion": "paldea",
+        "numero": 988
+    },
+    {
+        "name": "sandy shocks",
+        "tipo": ["eléctrico", "tierra"],
+        "generacion": "paldea",
+        "numero": 989
+    },
+    {
+        "name": "iron treads",
+        "tipo": ["tierra", "acero"],
+        "generacion": "paldea",
+        "numero": 990
+    },
+    {
+        "name": "iron bundle",
+        "tipo": ["hielo", "agua"],
+        "generacion": "paldea",
+        "numero": 991
+    },
+    {
+        "name": "iron hands",
+        "tipo": ["lucha", "eléctrico"],
+        "generacion": "paldea",
+        "numero": 992
+    },
+    {
+        "name": "iron jugulis",
+        "tipo": ["siniestro", "volador"],
+        "generacion": "paldea",
+        "numero": 993
+    },
+    {
+        "name": "iron moth",
+        "tipo": ["fuego", "veneno"],
+        "generacion": "paldea",
+        "numero": 994
+    },
+    {
+        "name": "iron thorns",
+        "tipo": ["roca", "eléctrico"],
+        "generacion": "paldea",
+        "numero": 995
+    },
+    {
+        "name": "frigibax",
+        "tipo": ["dragón", "hielo"],
+        "generacion": "paldea",
+        "numero": 996
+    },
+    {
+        "name": "arctibax",
+        "tipo": ["dragón", "hielo"],
+        "generacion": "paldea",
+        "numero": 997
+    },
+    {
+        "name": "baxcalibur",
+        "tipo": ["dragón", "hielo"],
+        "generacion": "paldea",
+        "numero": 998
+    },
+    {
+        "name": "gimmighoul",
+        "tipo": ["fantasma"],
+        "generacion": "paldea",
+        "numero": 999
+    },
+    {
+        "name": "gholdengo",
+        "tipo": ["fantasma", "acero"],
+        "generacion": "paldea",
+        "numero": 1000
+    },
+    {
+        "name": "wo-chien",
+        "tipo": ["siniestro", "planta"],
+        "generacion": "paldea",
+        "numero": 1001
+    },
+    {
+        "name": "chien-pao",
+        "tipo": ["siniestro", "hielo"],
+        "generacion": "paldea",
+        "numero": 1002
+    },
+    {
+        "name": "ting-lu",
+        "tipo": ["siniestro", "tierra"],
+        "generacion": "paldea",
+        "numero": 1003
+    },
+    {
+        "name": "chi-yu",
+        "tipo": ["siniestro", "fuego"],
+        "generacion": "paldea",
+        "numero": 1004
+    },
+    {
+        "name": "roaring moon",
+        "tipo": ["dragón", "siniestro"],
+        "generacion": "paldea",
+        "numero": 1005
+    },
+    {
+        "name": "iron valiant",
+        "tipo": ["hada", "lucha"],
+        "generacion": "paldea",
+        "numero": 1006
+    },
+    {
+        "name": "koraidon",
+        "tipo": ["dragón", "lucha"],
+        "generacion": "paldea",
+        "numero": 1007
+    },
+    {
+        "name": "miraidon",
+        "tipo": ["dragón", "eléctrico"],
+        "generacion": "paldea",
+        "numero": 1008
+    },
+    {
+        "name": "walking wake",
+        "tipo": ["agua", "dragon"],
+        "generacion": "paldea",
+        "numero": 1009
+    },
+    {
+        "name": "iron leaves",
+        "tipo": ["planta", "psiquico"],
+        "generacion": "paldea",
+        "numero": 1010
+    },
+    {
+        "name": "dipplin",
+        "tipo": ["planta", "psiquico"],
+        "generacion": "paldea",
+        "numero": 1011
+    },
+    {
+        "name": "poltchageist",
+        "tipo": ["planta", "fantasma"],
+        "generacion": "paldea",
+        "numero": 1012
+    },
+    {
+        "name": "sinistcha",
+        "tipo": ["planta", "fantasma"],
+        "generacion": "paldea",
+        "numero": 1013
+    },
+    {
+        "name": "okidogi",
+        "tipo": ["veneno", "lucha"],
+        "generacion": "paldea",
+        "numero": 1014
+    },
+    {
+        "name": "munkidori",
+        "tipo": ["veneno", "psiquico"],
+        "generacion": "paldea",
+        "numero": 1015
+    },
+    {
+        "name": "fezandipiti",
+        "tipo": ["veneno", "hada"],
+        "generacion": "paldea",
+        "numero": 1016
+    },
+    {
+        "name": "ogerpon",
+        "tipo": ["planta"],
+        "generacion": "paldea",
+        "numero": 1017
+    },
+    {
+        "name": "archaludon",
+        "tipo": ["acero", "dragon"],
+        "generacion": "paldea",
+        "numero": 1018
+    },
+    {
+        "name": "hydrapple",
+        "tipo": ["planta", "dragon"],
+        "generacion": "paldea",
+        "numero": 1019
+    },
+    {
+        "name": "gouging fire",
+        "tipo": ["fuego", "dragon"],
+        "generacion": "paldea",
+        "numero": 1020
+    },
+    {
+        "name": "raging bolt",
+        "tipo": ["electrico", "dragon"],
+        "generacion": "paldea",
+        "numero": 1021
+    },
+    {
+        "name": "iron boulder",
+        "tipo": ["roca", "psiquico"],
+        "generacion": "paldea",
+        "numero": 1022
+    },
+    {
+        "name": "iron crown",
+        "tipo": ["acero", "psiquico"],
+        "generacion": "paldea",
+        "numero": 1023
+    },
+    {
+        "name": "terapagos",
+        "tipo": ["normal"],
+        "generacion": "paldea",
+        "numero": 1024
+    },
+    {
+        "name": "pecharunt",
+        "tipo": ["veneno", "fantasma"],
+        "generacion": "paldea",
+        "numero": 1025
+    }
+]

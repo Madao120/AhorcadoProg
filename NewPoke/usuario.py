@@ -72,4 +72,3 @@ class Usuario:
     def ranking_usuarios(self):
         usuario = Usuario("NewPoke/usuarios.json")  # Cargar datos
         usuario.mostrar_top_10()  # Mostrar el ranking
-    

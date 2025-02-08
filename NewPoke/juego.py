@@ -19,14 +19,13 @@ class Juego:
         self.puntuacion = float
 
     def jugar(self):
+        print("¡Bienvenido a la Zona Safari!")
         if not self.autenticar_usuario():
             return
         
         jugar = True
         while jugar:
             os.system('cls' if os.name == "nt" else "clear")
-            self.usuario.ranking_usuarios()
-            self.usuario.mostrar_puntuacion_actual()
 
             intentos = 6
             letras_usuario = [" ", "-"]
@@ -36,7 +35,8 @@ class Juego:
             modo = self.modo.seleccionar_modo()
             motor_juego = self.modo.aplicar_modo(modo)
             pokemon_info = motor_juego[0] # Recibimos el diccionario
-            tipo_modo = motor_juego[1] # Recibimos el tipo de modo
+            if modo == 2:
+                tipo_modo = motor_juego[1] # Recibimos el tipo de modo
 
             pokemon = pokemon_info["name"]  # Extraemos solo el nombre
             pistas = self.modo.escoger_pistas(pokemon_info, modo)
@@ -48,12 +48,17 @@ class Juego:
 
             while intentos >= 0:
                 os.system('cls' if os.name == "nt" else "clear")
+                self.usuario.ranking_usuarios()
+                self.usuario.mostrar_puntuacion_actual()
                 print(f"\nIntentos restantes: {intentos}")
 
                 #pistas_mostradas = self.modo.aplicar_pistas(modo, intentos, pistas_mostradas, pistas)
 
                 self.vista.mostrar_palabra(pokemon, letras_usuario)
-                self.vista.mostrar_pistas(intentos, pistas, modo, tipo_modo)
+                if modo == 2:
+                    self.vista.mostrar_pistas_tipo(intentos, pistas, modo, tipo_modo)
+                else:
+                    self.vista.mostrar_pistas(intentos, pistas, modo)
                 print("Letras incorrectas:", " ".join(letras_incorrectas))
 
                 while True:
@@ -79,16 +84,16 @@ class Juego:
                     intentos -= 1
 
                 if all(letra in letras_usuario for letra in pokemon):
-                    print(f"¡Felicidades! Has capturado un {pokemon}")
+                    print(f"¡Ya está! ¡{pokemon.capitalize()} atrapado! Has ganado {intentos * (10 if modo == 7 else 5)} puntos.")
                     self.usuario.actualizar_puntuacion(intentos * (10 if modo == 7 else 5))
                     break
             else:
-                print(f"Vaya, el Pokémon era: {pokemon}")
+                print(f"¡Oh no!. ¡El {pokemon} ha escapado! Has perdido 10 puntos.")
                 self.usuario.actualizar_puntuacion(-10)
 
-            opcion = input("\n¿Quieres jugar otra vez? (s/n): ").lower()
+            opcion = input("\n¿Quieres volver a entrar a la Zona Safari? (s/n): ").lower()
             if opcion != "s":
-                print("Gracias por jugar. ¡Hasta la próxima!")
+                print("La partida ha sido guardada.")
                 jugar = False
 
     def autenticar_usuario(self):

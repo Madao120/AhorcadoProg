@@ -17,7 +17,7 @@
     },
     "madao": {
         "contrase\u00f1a": "renaido",
-        "puntuacion": 100
+        "puntuacion": 110
     },
     "Pepo": {
         "contrase\u00f1a": "renaido",
@@ -26,5 +26,13 @@
     "Andre": {
         "contrase\u00f1a": "renaido",
         "puntuacion": 210
+    },
+    "fos": {
+        "contrase\u00f1a": "renaido",
+        "puntuacion": 15
+    },
+    "mii": {
+        "contrase\u00f1a": "renaido",
+        "puntuacion": 35
     }
 }

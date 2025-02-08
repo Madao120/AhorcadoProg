@@ -15,22 +15,36 @@ class Usuario:
             with open(self.archivo_usuarios, "r") as file:
                 self.puntuaciones = json.load(file)
 
-    def registrar_usuario(self, usuario, contraseña):
-        if usuario in self.puntuaciones:
-            print("El usuario ya existe.")
-            return False
-        self.puntuaciones[usuario] = {"contraseña": contraseña, "puntuacion": 0}
-        self.guardar_datos()
-        print("Usuario registrado exitosamente.")
-        return True
-
     def iniciar_sesion(self, usuario, contraseña):
         if usuario in self.puntuaciones and self.puntuaciones[usuario]["contraseña"] == contraseña:
-            self.usuario_actual = usuario
-            print(f"Bienvenido {usuario}!")
+            self.usuario_actual = usuario  # Asigna correctamente el usuario actual
+            print(f"¡Bienvenido de nuevo, {usuario}!")
             return True
-        print("Usuario o contraseña incorrectos.")
-        return False
+        else:
+            print("Usuario o contraseña incorrectos.")
+            return False
+
+    def registrar_usuario(self, usuario, contraseña):
+        if usuario in self.puntuaciones:
+            print("Este usuario ya existe. Intenta con otro nombre.")
+            return False
+        else:
+            self.puntuaciones[usuario] = {"contraseña": contraseña, "puntuacion": 0}
+            self.usuario_actual = usuario  # Asigna el nuevo usuario correctamente
+            print(f"Usuario {usuario} registrado con éxito.")
+            return True
+
+    def mostrar_puntuacion_actual(self):
+        if self.usuario_actual is None:
+            print("Error: No hay usuario autenticado.")
+            return
+
+        if self.usuario_actual not in self.puntuaciones:
+            print("Error: Usuario no encontrado en el ranking.")
+            return
+
+        puntuacion = self.puntuaciones[self.usuario_actual]["puntuacion"]
+        print(f"{self.usuario_actual}, tu puntuación actual es: {puntuacion} puntos")
 
     def actualizar_puntuacion(self, puntos):
         if self.usuario_actual:
@@ -54,10 +68,6 @@ class Usuario:
         for i, (usuario, datos) in enumerate(ranking[:10], start=1):
             print(f"{i}. {usuario} - {datos['puntuacion']} puntos")
         print("-" * 30)
-    
-    def mostrar_puntuacion_actual(self):
-        puntuacion = self.puntuaciones[self.usuario_actual]["puntuacion"]
-        print(f"{self.usuario_actual}, tu puntuación actual es: {puntuacion} puntos")
     
     def ranking_usuarios(self):
         usuario = Usuario("NewPoke/usuarios.json")  # Cargar datos

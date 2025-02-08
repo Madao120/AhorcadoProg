@@ -26,16 +26,14 @@ class Vista:
                 print (f"Pistas: \nTipo Principal: {pistas[0]} \nGeneración: {pistas[1]} \nTipo Secundario: {pistas[2]}")
 
         elif modo == 2: #Modo por tipo
-            intentos -= 1
             if intentos == 5 or intentos == 4:
                 print (f"Pistas: \n Primer tipo: {tipo_modo}")
             elif intentos == 3 or intentos == 2:
-                print (f"Pistas: \nTipo Principal: {pistas[0]} \nGeneración: {pistas[1]}")
+                print (f"Pistas: \nTipo Principal: {tipo_modo} \nGeneración: {pistas[1]}")
             elif intentos == 1 or intentos == 0:
-                print (f"Pistas: \nTipo Principal: {pistas[0]} \nGeneración: {pistas[1]} \nTipo Secundario: {pistas[2]}")
+                print (f"Pistas: \nTipo Principal: {tipo_modo} \nGeneración: {pistas[1]} \nTipo Secundario: {tipo_modo if pistas[2] == tipo_modo else pistas[2]}")
         
         elif modo == 3: #Modo por generación
-            intentos -= 1
             if intentos == 5 or intentos == 4:
                 print (f"Pistas: \n Generación: {pistas[1]}")
             elif intentos == 3 or intentos == 2:

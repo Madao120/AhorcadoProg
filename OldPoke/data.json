@@ -3477,13 +3477,13 @@
     },
     {
         "name": "zorua",
-        "tipo": ["oscuro"],
+        "tipo": ["siniestro"],
         "generacion": "unova",
         "numero": 570
     },
     {
         "name": "zoroark",
-        "tipo": ["oscuro"],
+        "tipo": ["siniestro"],
         "generacion": "unova",
         "numero": 571
     },
@@ -3801,13 +3801,13 @@
     },
     {
         "name": "pawniard",
-        "tipo": ["oscuro", "acero"],
+        "tipo": ["siniestro", "acero"],
         "generacion": "unova",
         "numero": 624
     },
     {
         "name": "bisharp",
-        "tipo": ["oscuro", "acero"],
+        "tipo": ["siniestro", "acero"],
         "generacion": "unova",
         "numero": 625
     },
@@ -3831,13 +3831,13 @@
     },
     {
         "name": "vullaby",
-        "tipo": ["oscuro", "volador"],
+        "tipo": ["siniestro", "volador"],
         "generacion": "unova",
         "numero": 629
     },
     {
         "name": "mandibuzz",
-        "tipo": ["oscuro", "volador"],
+        "tipo": ["siniestro", "volador"],
         "generacion": "unova",
         "numero": 630
     },
@@ -3855,19 +3855,19 @@
     },
     {
         "name": "deino",
-        "tipo": ["oscuro", "dragón"],
+        "tipo": ["siniestro", "dragón"],
         "generacion": "unova",
         "numero": 633
     },
     {
         "name": "zweilous",
-        "tipo": ["oscuro", "dragón"],
+        "tipo": ["siniestro", "dragón"],
         "generacion": "unova",
         "numero": 634
     },
     {
         "name": "hydreigon",
-        "tipo": ["oscuro", "dragón"],
+        "tipo": ["siniestro", "dragón"],
         "generacion": "unova",
         "numero": 635
     },
@@ -4031,7 +4031,7 @@
     },
     {
         "name": "greninja",
-        "tipo": ["agua", "oscuro"],
+        "tipo": ["agua", "siniestro"],
         "generacion": "kalos",
         "numero": 658
     },
@@ -4133,7 +4133,7 @@
     },
     {
         "name": "pangoro",
-        "tipo": ["lucha", "oscuro"],
+        "tipo": ["lucha", "siniestro"],
         "generacion": "kalos",
         "numero": 675
     },

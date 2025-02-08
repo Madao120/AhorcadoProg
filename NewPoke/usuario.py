@@ -60,6 +60,6 @@ class Usuario:
         print(f"{self.usuario_actual}, tu puntuación actual es: {puntuacion} puntos")
     
     def ranking_usuarios(self):
-        usuario = Usuario("usuarios.json")  # Cargar datos
+        usuario = Usuario("NewPoke/usuarios.json")  # Cargar datos
         usuario.mostrar_top_10()  # Mostrar el ranking
     

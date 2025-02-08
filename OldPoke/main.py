@@ -1,5 +1,5 @@
 from juego import Juego
 
 if __name__ == "__main__":
-    juego = Juego("data.json", "usuarios.json")
+    juego = Juego("OldPoke/data.json", "OldPoke/usuarios.json")
     juego.jugar()

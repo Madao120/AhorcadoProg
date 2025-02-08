@@ -145,13 +145,13 @@
     },
     {
         "name": "pikachu",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "kanto",
         "numero": 25
     },
     {
         "name": "raichu",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "kanto",
         "numero": 26
     },
@@ -373,19 +373,19 @@
     },
     {
         "name": "abra",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "kanto",
         "numero": 63
     },
     {
         "name": "kadabra",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "kanto",
         "numero": 64
     },
     {
         "name": "alakazam",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "kanto",
         "numero": 65
     },
@@ -469,25 +469,25 @@
     },
     {
         "name": "slowpoke",
-        "tipo": ["agua", "psíquico"],
+        "tipo": ["agua", "psiquico"],
         "generacion": "kanto",
         "numero": 79
     },
     {
         "name": "slowbro",
-        "tipo": ["agua", "psíquico"],
+        "tipo": ["agua", "psiquico"],
         "generacion": "kanto",
         "numero": 80
     },
     {
         "name": "magnemite",
-        "tipo": ["eléctrico", "acero"],
+        "tipo": ["electrico", "acero"],
         "generacion": "kanto",
         "numero": 81
     },
     {
         "name": "magneton",
-        "tipo": ["eléctrico", "acero"],
+        "tipo": ["electrico", "acero"],
         "generacion": "kanto",
         "numero": 82
     },
@@ -571,13 +571,13 @@
     },
     {
         "name": "drowzee",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "kanto",
         "numero": 96
     },
     {
         "name": "hypno",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "kanto",
         "numero": 97
     },
@@ -595,25 +595,25 @@
     },
     {
         "name": "voltorb",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "kanto",
         "numero": 100
     },
     {
         "name": "electrode",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "kanto",
         "numero": 101
     },
     {
         "name": "exeggcute",
-        "tipo": ["planta", "psíquico"],
+        "tipo": ["planta", "psiquico"],
         "generacion": "kanto",
         "numero": 102
     },
     {
         "name": "exeggutor",
-        "tipo": ["planta", "psíquico"],
+        "tipo": ["planta", "psiquico"],
         "generacion": "kanto",
         "numero": 103
     },
@@ -721,13 +721,13 @@
     },
     {
         "name": "starmie",
-        "tipo": ["agua", "psíquico"],
+        "tipo": ["agua", "psiquico"],
         "generacion": "kanto",
         "numero": 121
     },
     {
         "name": "mr. mime",
-        "tipo": ["psíquico", "hada"],
+        "tipo": ["psiquico", "hada"],
         "generacion": "kanto",
         "numero": 122
     },
@@ -739,13 +739,13 @@
     },
     {
         "name": "jynx",
-        "tipo": ["hielo", "psíquico"],
+        "tipo": ["hielo", "psiquico"],
         "generacion": "kanto",
         "numero": 124
     },
     {
         "name": "electabuzz",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "kanto",
         "numero": 125
     },
@@ -805,7 +805,7 @@
     },
     {
         "name": "jolteon",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "kanto",
         "numero": 135
     },
@@ -865,7 +865,7 @@
     },
     {
         "name": "zapdos",
-        "tipo": ["eléctrico", "volador"],
+        "tipo": ["electrico", "volador"],
         "generacion": "kanto",
         "numero": 145
     },
@@ -877,31 +877,31 @@
     },
     {
         "name": "dratini",
-        "tipo": ["dragón"],
+        "tipo": ["dragon"],
         "generacion": "kanto",
         "numero": 147
     },
     {
         "name": "dragonair",
-        "tipo": ["dragón"],
+        "tipo": ["dragon"],
         "generacion": "kanto",
         "numero": 148
     },
     {
         "name": "dragonite",
-        "tipo": ["dragón", "volador"],
+        "tipo": ["dragon", "volador"],
         "generacion": "kanto",
         "numero": 149
     },
     {
         "name": "mewtwo",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "kanto",
         "numero": 150
     },
     {
         "name": "mew",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "kanto",
         "numero": 151
     },
@@ -1023,19 +1023,19 @@
     },
     {
         "name": "chinchou",
-        "tipo": ["agua", "eléctrico"],
+        "tipo": ["agua", "electrico"],
         "generacion": "johto",
         "numero": 170
     },
     {
         "name": "lanturn",
-        "tipo": ["agua", "eléctrico"],
+        "tipo": ["agua", "electrico"],
         "generacion": "johto",
         "numero": 171
     },
     {
         "name": "pichu",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "johto",
         "numero": 172
     },
@@ -1065,31 +1065,31 @@
     },
     {
         "name": "natu",
-        "tipo": ["psíquico", "volador"],
+        "tipo": ["psiquico", "volador"],
         "generacion": "johto",
         "numero": 177
     },
     {
         "name": "xatu",
-        "tipo": ["psíquico", "volador"],
+        "tipo": ["psiquico", "volador"],
         "generacion": "johto",
         "numero": 178
     },
     {
         "name": "mareep",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "johto",
         "numero": 179
     },
     {
         "name": "flaaffy",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "johto",
         "numero": 180
     },
     {
         "name": "ampharos",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "johto",
         "numero": 181
     },
@@ -1179,7 +1179,7 @@
     },
     {
         "name": "espeon",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "johto",
         "numero": 196
     },
@@ -1197,7 +1197,7 @@
     },
     {
         "name": "slowking",
-        "tipo": ["agua", "psíquico"],
+        "tipo": ["agua", "psiquico"],
         "generacion": "johto",
         "numero": 199
     },
@@ -1209,19 +1209,19 @@
     },
     {
         "name": "unown",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "johto",
         "numero": 201
     },
     {
         "name": "wobbuffet",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "johto",
         "numero": 202
     },
     {
         "name": "girafarig",
-        "tipo": ["normal", "psíquico"],
+        "tipo": ["normal", "psiquico"],
         "generacion": "johto",
         "numero": 203
     },
@@ -1383,7 +1383,7 @@
     },
     {
         "name": "kingdra",
-        "tipo": ["agua", "dragón"],
+        "tipo": ["agua", "dragon"],
         "generacion": "johto",
         "numero": 230
     },
@@ -1431,13 +1431,13 @@
     },
     {
         "name": "smoochum",
-        "tipo": ["hielo", "psíquico"],
+        "tipo": ["hielo", "psiquico"],
         "generacion": "johto",
         "numero": 238
     },
     {
         "name": "elekid",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "johto",
         "numero": 239
     },
@@ -1461,7 +1461,7 @@
     },
     {
         "name": "raikou",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "johto",
         "numero": 243
     },
@@ -1497,7 +1497,7 @@
     },
     {
         "name": "lugia",
-        "tipo": ["psíquico", "volador"],
+        "tipo": ["psiquico", "volador"],
         "generacion": "johto",
         "numero": 249
     },
@@ -1509,7 +1509,7 @@
     },
     {
         "name": "celebi",
-        "tipo": ["psíquico", "planta"],
+        "tipo": ["psiquico", "planta"],
         "generacion": "johto",
         "numero": 251
     },
@@ -1692,19 +1692,19 @@
     },
     {
         "name": "ralts",
-        "tipo": ["psíquico", "hada"],
+        "tipo": ["psiquico", "hada"],
         "generacion": "hoenn",
         "numero": 280
     },
     {
         "name": "kirlia",
-        "tipo": ["psíquico", "hada"],
+        "tipo": ["psiquico", "hada"],
         "generacion": "hoenn",
         "numero": 281
     },
     {
         "name": "gardevoir",
-        "tipo": ["psíquico", "hada"],
+        "tipo": ["psiquico", "hada"],
         "generacion": "hoenn",
         "numero": 282
     },
@@ -1854,37 +1854,37 @@
     },
     {
         "name": "meditite",
-        "tipo": ["lucha", "psíquico"],
+        "tipo": ["lucha", "psiquico"],
         "generacion": "hoenn",
         "numero": 307
     },
     {
         "name": "medicham",
-        "tipo": ["lucha", "psíquico"],
+        "tipo": ["lucha", "psiquico"],
         "generacion": "hoenn",
         "numero": 308
     },
     {
         "name": "electrike",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "hoenn",
         "numero": 309
     },
     {
         "name": "manectric",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "hoenn",
         "numero": 310
     },
     {
         "name": "plusle",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "hoenn",
         "numero": 311
     },
     {
         "name": "minun",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "hoenn",
         "numero": 312
     },
@@ -1962,13 +1962,13 @@
     },
     {
         "name": "spoink",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "hoenn",
         "numero": 325
     },
     {
         "name": "grumpig",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "hoenn",
         "numero": 326
     },
@@ -1986,13 +1986,13 @@
     },
     {
         "name": "vibrava",
-        "tipo": ["tierra", "dragón"],
+        "tipo": ["tierra", "dragon"],
         "generacion": "hoenn",
         "numero": 329
     },
     {
         "name": "flygon",
-        "tipo": ["tierra", "dragón"],
+        "tipo": ["tierra", "dragon"],
         "generacion": "hoenn",
         "numero": 330
     },
@@ -2016,7 +2016,7 @@
     },
     {
         "name": "altaria",
-        "tipo": ["dragón", "volador"],
+        "tipo": ["dragon", "volador"],
         "generacion": "hoenn",
         "numero": 334
     },
@@ -2034,13 +2034,13 @@
     },
     {
         "name": "lunatone",
-        "tipo": ["roca", "psíquico"],
+        "tipo": ["roca", "psiquico"],
         "generacion": "hoenn",
         "numero": 337
     },
     {
         "name": "solrock",
-        "tipo": ["roca", "psíquico"],
+        "tipo": ["roca", "psiquico"],
         "generacion": "hoenn",
         "numero": 338
     },
@@ -2070,13 +2070,13 @@
     },
     {
         "name": "baltoy",
-        "tipo": ["tierra", "psíquico"],
+        "tipo": ["tierra", "psiquico"],
         "generacion": "hoenn",
         "numero": 343
     },
     {
         "name": "claydol",
-        "tipo": ["tierra", "psíquico"],
+        "tipo": ["tierra", "psiquico"],
         "generacion": "hoenn",
         "numero": 344
     },
@@ -2160,7 +2160,7 @@
     },
     {
         "name": "chimecho",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "hoenn",
         "numero": 358
     },
@@ -2172,7 +2172,7 @@
     },
     {
         "name": "wynaut",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "hoenn",
         "numero": 360
     },
@@ -2238,37 +2238,37 @@
     },
     {
         "name": "bagon",
-        "tipo": ["dragón"],
+        "tipo": ["dragon"],
         "generacion": "hoenn",
         "numero": 371
     },
     {
         "name": "shelgon",
-        "tipo": ["dragón"],
+        "tipo": ["dragon"],
         "generacion": "hoenn",
         "numero": 372
     },
     {
         "name": "salamence",
-        "tipo": ["dragón", "volador"],
+        "tipo": ["dragon", "volador"],
         "generacion": "hoenn",
         "numero": 373
     },
     {
         "name": "beldum",
-        "tipo": ["acero", "psíquico"],
+        "tipo": ["acero", "psiquico"],
         "generacion": "hoenn",
         "numero": 374
     },
     {
         "name": "metang",
-        "tipo": ["acero", "psíquico"],
+        "tipo": ["acero", "psiquico"],
         "generacion": "hoenn",
         "numero": 375
     },
     {
         "name": "metagross",
-        "tipo": ["acero", "psíquico"],
+        "tipo": ["acero", "psiquico"],
         "generacion": "hoenn",
         "numero": 376
     },
@@ -2292,13 +2292,13 @@
     },
     {
         "name": "latias",
-        "tipo": ["dragón", "psíquico"],
+        "tipo": ["dragon", "psiquico"],
         "generacion": "hoenn",
         "numero": 380
     },
     {
         "name": "latios",
-        "tipo": ["dragón", "psíquico"],
+        "tipo": ["dragon", "psiquico"],
         "generacion": "hoenn",
         "numero": 381
     },
@@ -2316,19 +2316,19 @@
     },
     {
         "name": "rayquaza",
-        "tipo": ["dragón", "volador"],
+        "tipo": ["dragon", "volador"],
         "generacion": "hoenn",
         "numero": 384
     },
     {
         "name": "jirachi",
-        "tipo": ["acero", "psíquico"],
+        "tipo": ["acero", "psiquico"],
         "generacion": "hoenn",
         "numero": 385
     },
     {
         "name": "deoxys",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "hoenn",
         "numero": 386
     },
@@ -2452,19 +2452,19 @@
     },
     {
         "name": "shinx",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "sinnoh",
         "numero": 403
     },
     {
         "name": "luxio",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "sinnoh",
         "numero": 404
     },
     {
         "name": "luxray",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "sinnoh",
         "numero": 405
     },
@@ -2536,7 +2536,7 @@
     },
     {
         "name": "pachirisu",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "sinnoh",
         "numero": 417
     },
@@ -2632,7 +2632,7 @@
     },
     {
         "name": "chingling",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "sinnoh",
         "numero": 433
     },
@@ -2650,13 +2650,13 @@
     },
     {
         "name": "bronzor",
-        "tipo": ["acero", "psíquico"],
+        "tipo": ["acero", "psiquico"],
         "generacion": "sinnoh",
         "numero": 436
     },
     {
         "name": "bronzong",
-        "tipo": ["acero", "psíquico"],
+        "tipo": ["acero", "psiquico"],
         "generacion": "sinnoh",
         "numero": 437
     },
@@ -2668,7 +2668,7 @@
     },
     {
         "name": "mime jr.",
-        "tipo": ["psíquico", "hada"],
+        "tipo": ["psiquico", "hada"],
         "generacion": "sinnoh",
         "numero": 439
     },
@@ -2692,19 +2692,19 @@
     },
     {
         "name": "gible",
-        "tipo": ["dragón", "tierra"],
+        "tipo": ["dragon", "tierra"],
         "generacion": "sinnoh",
         "numero": 443
     },
     {
         "name": "gabite",
-        "tipo": ["dragón", "tierra"],
+        "tipo": ["dragon", "tierra"],
         "generacion": "sinnoh",
         "numero": 444
     },
     {
         "name": "garchomp",
-        "tipo": ["dragón", "tierra"],
+        "tipo": ["dragon", "tierra"],
         "generacion": "sinnoh",
         "numero": 445
     },
@@ -2806,7 +2806,7 @@
     },
     {
         "name": "magnezone",
-        "tipo": ["eléctrico", "acero"],
+        "tipo": ["electrico", "acero"],
         "generacion": "sinnoh",
         "numero": 462
     },
@@ -2830,7 +2830,7 @@
     },
     {
         "name": "electivire",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "sinnoh",
         "numero": 466
     },
@@ -2884,7 +2884,7 @@
     },
     {
         "name": "gallade",
-        "tipo": ["psíquico", "lucha"],
+        "tipo": ["psiquico", "lucha"],
         "generacion": "sinnoh",
         "numero": 475
     },
@@ -2908,37 +2908,37 @@
     },
     {
         "name": "rotom",
-        "tipo": ["eléctrico", "fantasma"],
+        "tipo": ["electrico", "fantasma"],
         "generacion": "sinnoh",
         "numero": 479
     },
     {
         "name": "uxie",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "sinnoh",
         "numero": 480
     },
     {
         "name": "mesprit",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "sinnoh",
         "numero": 481
     },
     {
         "name": "azelf",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "sinnoh",
         "numero": 482
     },
     {
         "name": "dialga",
-        "tipo": ["acero", "dragón"],
+        "tipo": ["acero", "dragon"],
         "generacion": "sinnoh",
         "numero": 483
     },
     {
         "name": "palkia",
-        "tipo": ["agua", "dragón"],
+        "tipo": ["agua", "dragon"],
         "generacion": "sinnoh",
         "numero": 484
     },
@@ -2956,13 +2956,13 @@
     },
     {
         "name": "giratina",
-        "tipo": ["fantasma", "dragón"],
+        "tipo": ["fantasma", "dragon"],
         "generacion": "sinnoh",
         "numero": 487
     },
     {
         "name": "cresselia",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "sinnoh",
         "numero": 488
     },
@@ -3021,7 +3021,7 @@
 
     {
         "name": "victini",
-        "tipo": ["psíquico", "fuego"],
+        "tipo": ["psiquico", "fuego"],
         "generacion": "unova",
         "numero": 494
     },
@@ -3159,13 +3159,13 @@
     },
     {
         "name": "munna",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "unova",
         "numero": 517
     },
     {
         "name": "musharna",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "unova",
         "numero": 518
     },
@@ -3189,13 +3189,13 @@
     },
     {
         "name": "blitzle",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "unova",
         "numero": 522
     },
     {
         "name": "zebstrika",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "unova",
         "numero": 523
     },
@@ -3219,13 +3219,13 @@
     },
     {
         "name": "woobat",
-        "tipo": ["psíquico", "volador"],
+        "tipo": ["psiquico", "volador"],
         "generacion": "unova",
         "numero": 527
     },
     {
         "name": "swoobat",
-        "tipo": ["psíquico", "volador"],
+        "tipo": ["psiquico", "volador"],
         "generacion": "unova",
         "numero": 528
     },
@@ -3423,7 +3423,7 @@
     },
     {
         "name": "sigilyph",
-        "tipo": ["psíquico", "volador"],
+        "tipo": ["psiquico", "volador"],
         "generacion": "unova",
         "numero": 561
     },
@@ -3477,13 +3477,13 @@
     },
     {
         "name": "zorua",
-        "tipo": ["oscuro"],
+        "tipo": ["siniestro"],
         "generacion": "unova",
         "numero": 570
     },
     {
         "name": "zoroark",
-        "tipo": ["oscuro"],
+        "tipo": ["siniestro"],
         "generacion": "unova",
         "numero": 571
     },
@@ -3501,37 +3501,37 @@
     },
     {
         "name": "gothita",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "unova",
         "numero": 574
     },
     {
         "name": "gothorita",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "unova",
         "numero": 575
     },
     {
         "name": "gothitelle",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "unova",
         "numero": 576
     },
     {
         "name": "solosis",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "unova",
         "numero": 577
     },
     {
         "name": "duosion",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "unova",
         "numero": 578
     },
     {
         "name": "reuniclus",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "unova",
         "numero": 579
     },
@@ -3579,7 +3579,7 @@
     },
     {
         "name": "emolga",
-        "tipo": ["eléctrico", "volador"],
+        "tipo": ["electrico", "volador"],
         "generacion": "unova",
         "numero": 587
     },
@@ -3627,13 +3627,13 @@
     },
     {
         "name": "joltik",
-        "tipo": ["bicho", "eléctrico"],
+        "tipo": ["bicho", "electrico"],
         "generacion": "unova",
         "numero": 595
     },
     {
         "name": "galvantula",
-        "tipo": ["bicho", "eléctrico"],
+        "tipo": ["bicho", "electrico"],
         "generacion": "unova",
         "numero": 596
     },
@@ -3669,31 +3669,31 @@
     },
     {
         "name": "tynamo",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "unova",
         "numero": 602
     },
     {
         "name": "eelektrik",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "unova",
         "numero": 603
     },
     {
         "name": "eelektross",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "unova",
         "numero": 604
     },
     {
         "name": "elgyem",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "unova",
         "numero": 605
     },
     {
         "name": "beheeyem",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "unova",
         "numero": 606
     },
@@ -3717,19 +3717,19 @@
     },
     {
         "name": "axew",
-        "tipo": ["dragón"],
+        "tipo": ["dragon"],
         "generacion": "unova",
         "numero": 610
     },
     {
         "name": "fraxure",
-        "tipo": ["dragón"],
+        "tipo": ["dragon"],
         "generacion": "unova",
         "numero": 611
     },
     {
         "name": "haxorus",
-        "tipo": ["dragón"],
+        "tipo": ["dragon"],
         "generacion": "unova",
         "numero": 612
     },
@@ -3765,7 +3765,7 @@
     },
     {
         "name": "stunfisk",
-        "tipo": ["tierra", "eléctrico"],
+        "tipo": ["tierra", "electrico"],
         "generacion": "unova",
         "numero": 618
     },
@@ -3783,7 +3783,7 @@
     },
     {
         "name": "druddigon",
-        "tipo": ["dragón"],
+        "tipo": ["dragon"],
         "generacion": "unova",
         "numero": 621
     },
@@ -3801,13 +3801,13 @@
     },
     {
         "name": "pawniard",
-        "tipo": ["oscuro", "acero"],
+        "tipo": ["siniestro", "acero"],
         "generacion": "unova",
         "numero": 624
     },
     {
         "name": "bisharp",
-        "tipo": ["oscuro", "acero"],
+        "tipo": ["siniestro", "acero"],
         "generacion": "unova",
         "numero": 625
     },
@@ -3831,13 +3831,13 @@
     },
     {
         "name": "vullaby",
-        "tipo": ["oscuro", "volador"],
+        "tipo": ["siniestro", "volador"],
         "generacion": "unova",
         "numero": 629
     },
     {
         "name": "mandibuzz",
-        "tipo": ["oscuro", "volador"],
+        "tipo": ["siniestro", "volador"],
         "generacion": "unova",
         "numero": 630
     },
@@ -3855,19 +3855,19 @@
     },
     {
         "name": "deino",
-        "tipo": ["oscuro", "dragón"],
+        "tipo": ["siniestro", "dragon"],
         "generacion": "unova",
         "numero": 633
     },
     {
         "name": "zweilous",
-        "tipo": ["oscuro", "dragón"],
+        "tipo": ["siniestro", "dragon"],
         "generacion": "unova",
         "numero": 634
     },
     {
         "name": "hydreigon",
-        "tipo": ["oscuro", "dragón"],
+        "tipo": ["siniestro", "dragon"],
         "generacion": "unova",
         "numero": 635
     },
@@ -3909,19 +3909,19 @@
     },
     {
         "name": "thundurus",
-        "tipo": ["eléctrico", "volador"],
+        "tipo": ["electrico", "volador"],
         "generacion": "unova",
         "numero": 642
     },
     {
         "name": "reshiram",
-        "tipo": ["dragón", "fuego"],
+        "tipo": ["dragon", "fuego"],
         "generacion": "unova",
         "numero": 643
     },
     {
         "name": "zekrom",
-        "tipo": ["dragón", "eléctrico"],
+        "tipo": ["dragon", "electrico"],
         "generacion": "unova",
         "numero": 644
     },
@@ -3933,7 +3933,7 @@
     },
     {
         "name": "kyurem",
-        "tipo": ["dragón", "hielo"],
+        "tipo": ["dragon", "hielo"],
         "generacion": "unova",
         "numero": 646
     },
@@ -3945,7 +3945,7 @@
     },
     {
         "name": "meloetta",
-        "tipo": ["normal", "psíquico"],
+        "tipo": ["normal", "psiquico"],
         "generacion": "unova",
         "numero": 648
     },
@@ -4013,7 +4013,7 @@
     },
     {
         "name": "delphox",
-        "tipo": ["fuego", "psíquico"],
+        "tipo": ["fuego", "psiquico"],
         "generacion": "kalos",
         "numero": 655
     },
@@ -4031,7 +4031,7 @@
     },
     {
         "name": "greninja",
-        "tipo": ["agua", "oscuro"],
+        "tipo": ["agua", "siniestro"],
         "generacion": "kalos",
         "numero": 658
     },
@@ -4133,7 +4133,7 @@
     },
     {
         "name": "pangoro",
-        "tipo": ["lucha", "oscuro"],
+        "tipo": ["lucha", "siniestro"],
         "generacion": "kalos",
         "numero": 675
     },
@@ -4145,13 +4145,13 @@
     },
     {
         "name": "espurr",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "kalos",
         "numero": 677
     },
     {
         "name": "meowstic",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "kalos",
         "numero": 678
     },
@@ -4719,7 +4719,7 @@
     },
     {
         "name": "oranguru",
-        "tipo": ["normal","psíquico"],
+        "tipo": ["normal","psiquico"],
         "generacion": "alola",
         "numero": 765
     },
@@ -4785,7 +4785,7 @@
     },
     {
         "name": "turtonator",
-        "tipo": ["fuego","dragón"],
+        "tipo": ["fuego","dragon"],
         "generacion": "alola",
         "numero": 776
     },
@@ -5681,19 +5681,19 @@
     },
     {
         "name": "pawmi",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "paldea",
         "numero": 921
     },
     {
         "name": "pawmo",
-        "tipo": ["eléctrico", "lucha"],
+        "tipo": ["electrico", "lucha"],
         "generacion": "paldea",
         "numero": 922
     },
     {
         "name": "pawmot",
-        "tipo": ["eléctrico", "lucha"],
+        "tipo": ["electrico", "lucha"],
         "generacion": "paldea",
         "numero": 923
     },
@@ -5771,7 +5771,7 @@
     },
     {
         "name": "armarouge",
-        "tipo": ["fuego", "psíquico"],
+        "tipo": ["fuego", "psiquico"],
         "generacion": "paldea",
         "numero": 936
     },
@@ -5783,25 +5783,25 @@
     },
     {
         "name": "tadbulb",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "paldea",
         "numero": 938
     },
     {
         "name": "bellibolt",
-        "tipo": ["eléctrico"],
+        "tipo": ["electrico"],
         "generacion": "paldea",
         "numero": 939
     },
     {
         "name": "wattrel",
-        "tipo": ["eléctrico", "volador"],
+        "tipo": ["electrico", "volador"],
         "generacion": "paldea",
         "numero": 940
     },
     {
         "name": "kilowattrel",
-        "tipo": ["eléctrico", "volador"],
+        "tipo": ["electrico", "volador"],
         "generacion": "paldea",
         "numero": 941
     },
@@ -5879,19 +5879,19 @@
     },
     {
         "name": "rabsca",
-        "tipo": ["bicho", "psíquico"],
+        "tipo": ["bicho", "psiquico"],
         "generacion": "paldea",
         "numero": 954
     },
     {
         "name": "flittle",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "paldea",
         "numero": 955
     },
     {
         "name": "espathra",
-        "tipo": ["psíquico"],
+        "tipo": ["psiquico"],
         "generacion": "paldea",
         "numero": 956
     },
@@ -5957,7 +5957,7 @@
     },
     {
         "name": "cyclizar",
-        "tipo": ["dragón", "normal"],
+        "tipo": ["dragon", "normal"],
         "generacion": "paldea",
         "numero": 967
     },
@@ -6011,7 +6011,7 @@
     },
     {
         "name": "veluza",
-        "tipo": ["agua", "psíquico"],
+        "tipo": ["agua", "psiquico"],
         "generacion": "paldea",
         "numero": 976
     },
@@ -6023,7 +6023,7 @@
     },
     {
         "name": "tatsugiri",
-        "tipo": ["dragón", "agua"],
+        "tipo": ["dragon", "agua"],
         "generacion": "paldea",
         "numero": 978
     },
@@ -6041,7 +6041,7 @@
     },
     {
         "name": "farigiraf",
-        "tipo": ["normal", "psíquico"],
+        "tipo": ["normal", "psiquico"],
         "generacion": "paldea",
         "numero": 981
     },
@@ -6065,7 +6065,7 @@
     },
     {
         "name": "scream tail",
-        "tipo": ["hada", "psíquico"],
+        "tipo": ["hada", "psiquico"],
         "generacion": "paldea",
         "numero": 985
     },
@@ -6089,7 +6089,7 @@
     },
     {
         "name": "sandy shocks",
-        "tipo": ["eléctrico", "tierra"],
+        "tipo": ["electrico", "tierra"],
         "generacion": "paldea",
         "numero": 989
     },
@@ -6107,7 +6107,7 @@
     },
     {
         "name": "iron hands",
-        "tipo": ["lucha", "eléctrico"],
+        "tipo": ["lucha", "electrico"],
         "generacion": "paldea",
         "numero": 992
     },
@@ -6125,25 +6125,25 @@
     },
     {
         "name": "iron thorns",
-        "tipo": ["roca", "eléctrico"],
+        "tipo": ["roca", "electrico"],
         "generacion": "paldea",
         "numero": 995
     },
     {
         "name": "frigibax",
-        "tipo": ["dragón", "hielo"],
+        "tipo": ["dragon", "hielo"],
         "generacion": "paldea",
         "numero": 996
     },
     {
         "name": "arctibax",
-        "tipo": ["dragón", "hielo"],
+        "tipo": ["dragon", "hielo"],
         "generacion": "paldea",
         "numero": 997
     },
     {
         "name": "baxcalibur",
-        "tipo": ["dragón", "hielo"],
+        "tipo": ["dragon", "hielo"],
         "generacion": "paldea",
         "numero": 998
     },
@@ -6185,7 +6185,7 @@
     },
     {
         "name": "roaring moon",
-        "tipo": ["dragón", "siniestro"],
+        "tipo": ["dragon", "siniestro"],
         "generacion": "paldea",
         "numero": 1005
     },
@@ -6197,13 +6197,13 @@
     },
     {
         "name": "koraidon",
-        "tipo": ["dragón", "lucha"],
+        "tipo": ["dragon", "lucha"],
         "generacion": "paldea",
         "numero": 1007
     },
     {
         "name": "miraidon",
-        "tipo": ["dragón", "eléctrico"],
+        "tipo": ["dragon", "electrico"],
         "generacion": "paldea",
         "numero": 1008
     },

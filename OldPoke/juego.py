@@ -3,7 +3,7 @@ import random
 from usuario import Usuario
 from vista import Vista
 from panel import Panel
-from modo import Modo
+from modo1 import Modo
 
 class Juego:
     def __init__(self, archivo_pokemon, archivo_usuarios):

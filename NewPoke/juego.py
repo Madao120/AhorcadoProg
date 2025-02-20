@@ -15,8 +15,6 @@ class Juego:
         self.pistas = list
         self.pistas_mostrar = list
         self.intentos = int
-        self.multiplicador = float
-        self.puntuacion = float
 
     def jugar(self):
         print("¡Bienvenido a la Zona Safari!")  

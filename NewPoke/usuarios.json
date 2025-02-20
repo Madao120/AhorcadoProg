@@ -5,7 +5,7 @@
     },
     "messi": {
         "contrase\u00f1a": "renaido",
-        "puntuacion": 465
+        "puntuacion": 475
     },
     "paula": {
         "contrase\u00f1a": "renaido",
@@ -42,5 +42,13 @@
     "laura": {
         "contrase\u00f1a": "renaido",
         "puntuacion": 20
+    },
+    "Pedro": {
+        "contrase\u00f1a": "renaido",
+        "puntuacion": -70
+    },
+    "serah": {
+        "contrase\u00f1a": "renaido",
+        "puntuacion": 25
     }
 }

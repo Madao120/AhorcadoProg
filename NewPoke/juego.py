@@ -1,12 +1,12 @@
 import os
-from usuario import Usuario
+from usuarios import Usuarios
 from vista import Vista
 from modo import Modo
 import os
 
 class Juego:
     def __init__(self, archivo_pokemon, archivo_usuarios):
-        self.usuario = Usuario(archivo_usuarios)
+        self.usuario = Usuarios(archivo_usuarios)
         self.modo = Modo(archivo_pokemon)
         self.vista = Vista()
         self.pokemon = str
@@ -20,7 +20,7 @@ class Juego:
 
     def jugar(self):
         print("¡Bienvenido a la Zona Safari!")  
-        if not self.autenticar_usuario():                                                                                               # Si el usuario no se autentica, no puede jugar
+        if not self.usuario.autenticar_usuario():
             return
         
         jugar = True                                                                                                                    #Inicio del bucle para repetir partida
@@ -35,16 +35,13 @@ class Juego:
             modo = self.modo.seleccionar_modo()                                                                                         # Seleccionar el modo de juego (que son numeros del 1 al 7)
             motor_juego = self.modo.aplicar_modo(modo)                                                                                  # Aplicar el modo de juego seleccionado y devolverá el pokemon filtrado
             pokemon_info = motor_juego[0]                                                                                               # Recibimos el diccionario que tiene la información del pokemon
-            if modo == 2:                                                                                                               # Si el modo es 2 (que es el modo donde se filtra por tipos) recioberá el tipo introducido por el usuario, esto lo hice de esta manera debido a que el modo 2 es el que precisa de diferenciar del filtro a las características
-                tipo_modo = motor_juego[1]                                                                                              # Recibimos el tipo de modo introducido por el usuario
+            tipo_modo = motor_juego[1] if modo == 2 else None                                                                                            # Recibimos el tipo de modo introducido por el usuario
 
             pokemon = pokemon_info["name"]                                                                                              # Extraemos solo el nombre
             pistas = self.modo.escoger_pistas(pokemon_info, modo)                                                                       # En base a los datos del pokemon se escogerán unas pistasautomáticamente
             
             if modo == 2 or modo == 3:                                                                                                  # Si el modo es 2 o 3, se tendrán menos intentos para que esté más balanceado
                 intentos = 5
-            else:
-                pass
 
             while intentos >= 0:                                                                                                        # Bucle para iniciar una ronda
                 os.system('cls' if os.name == "nt" else "clear")
@@ -93,19 +90,3 @@ class Juego:
             if opcion != "s":
                 print("La partida ha sido guardada.")
                 jugar = False
-
-    def autenticar_usuario(self):                                                                                                       # Función para autenticar al usuario                                               
-        while True:
-            opcion = input("¿Tienes cuenta? (s/n): ").lower()                                                                           # Preguntar si el usuario tiene cuenta
-            if opcion == "s":
-                usuario = input("Usuario: ")                                                                                            # Si el usuario tiene cuenta, se le pedirá que introduzca su usuario y contraseña
-                contraseña = input("Contraseña: ")
-                if self.usuario.iniciar_sesion(usuario, contraseña):                                                                    # Si el usuario y la contraseña son correctos se le dará acceso al juego                                                       
-                    return True
-            elif opcion == "n":
-                usuario = input("Elige un nombre de usuario: ")                                                                         # Si el usuario no tiene cuenta, se le pedirá que introduzca un usuario y contraseña para registrarse
-                contraseña = input("Elige una contraseña: ")
-                if self.usuario.registrar_usuario(usuario, contraseña):                                                                 # Si el usuario y la contraseña son correctos se le dará acceso al juego                                             
-                    return True
-            else:
-                print("Opción no válida.")

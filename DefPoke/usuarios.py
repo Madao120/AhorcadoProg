@@ -1,7 +1,10 @@
 import json
 import os
 
-class Usuario:
+class Usuarios:
+    archivo_usuarios = {}
+    usuario_actual = None
+    puntuaciones = {}
     def __init__(self, archivo_usuarios):
         self.archivo_usuarios = archivo_usuarios
         self.usuario_actual = None
@@ -70,5 +73,22 @@ class Usuario:
         print("-" * 30)
     
     def ranking_usuarios(self):
-        usuario = Usuario("NewPoke/usuarios.json")  # Cargar datos
-        usuario.mostrar_top_10()  # Mostrar el ranking
+        usuario = Usuarios("NewPoke/usuarios.json")  # Cargar datos
+        usuario.mostrar_top_10()  # Mostrar el ranking de usuarios
+
+    def autenticar_usuario(self):                                                                                                       # Función para autenticar al usuario                                               
+        while True:
+            opcion = input("¿Tienes cuenta? (s/n): ").lower()                                                                           # Preguntar si el usuario tiene cuenta
+            if opcion == "s":
+                usuario = input("Usuario: ")                                                                                            # Si el usuario tiene cuenta, se le pedirá que introduzca su usuario y contraseña
+                contraseña = input("Contraseña: ")
+                if self.iniciar_sesion(usuario, contraseña):                                                                    # Si el usuario y la contraseña son correctos se le dará acceso al juego                                                       
+                    return True
+            elif opcion == "n":
+                usuario = input("Elige un nombre de usuario: ")                                                                         # Si el usuario no tiene cuenta, se le pedirá que introduzca un usuario y contraseña para registrarse
+                contraseña = input("Elige una contraseña: ")
+                if self.registrar_usuario(usuario, contraseña):                                                                 # Si el usuario y la contraseña son correctos se le dará acceso al juego                                             
+                    return True
+            else:
+                print("Opción no válida.")
+    

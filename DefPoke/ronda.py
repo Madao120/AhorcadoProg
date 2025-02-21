@@ -51,8 +51,8 @@ class Ronda:
 
             if all(letra in self.letras_usuario for letra in self.pokemon):         # Si todas las letras del nombre del pokemon están en la lista de letras introducidas por el usuario, se dará como que ha adivinado el pokemon
                 print(f"¡Ya está! ¡{self.pokemon.capitalize()} atrapado! Has ganado {self.intentos * (10 if self.modo == 7 else 5)} puntos.")
-                self.usuario.actualizar_puntuacion(self.intentos * (10 if self.modo == 7 else 5))
+                self.usuario.actualizar_puntuacion(self.intentos * (8 if self.modo == 7 else 5))
                 break
         else:                                                                       # Si no se han adivinado todas las letras del nombre del pokemon se perderá la ronda
             print(f"¡Oh no!. ¡El {self.pokemon} ha escapado! Has perdido 10 puntos.")
-            self.usuario.actualizar_puntuacion(-10)
+            self.usuario.actualizar_puntuacion(-20 if self.modo == 7 else -10)

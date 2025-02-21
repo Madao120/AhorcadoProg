@@ -58,24 +58,6 @@ class Usuarios:
         with open(self.archivo_usuarios, "w") as file:
             json.dump(self.puntuaciones, file, indent=4)
 
-    def mostrar_top_10(self):
-        if not self.puntuaciones:
-            print("No hay usuarios registrados aún.")
-            return
-
-        # Ordenar usuarios por puntuación en orden descendente
-        ranking = sorted(self.puntuaciones.items(), key=lambda x: x[1]["puntuacion"], reverse=True)
-
-        print("\n🏆 TOP 10 USUARIOS 🏆")
-        print("-" * 30)
-        for i, (usuario, datos) in enumerate(ranking[:10], start=1):
-            print(f"{i}. {usuario} - {datos['puntuacion']} puntos")
-        print("-" * 30)
-    
-    def ranking_usuarios(self):
-        usuario = Usuarios("NewPoke/usuarios.json")  # Cargar datos
-        usuario.mostrar_top_10()  # Mostrar el ranking de usuarios
-
     def autenticar_usuario(self):                                                                                                       # Función para autenticar al usuario                                               
         while True:
             opcion = input("¿Tienes cuenta? (s/n): ").lower()                                                                           # Preguntar si el usuario tiene cuenta
@@ -91,4 +73,24 @@ class Usuarios:
                     return True
             else:
                 print("Opción no válida.")
+
+# Lo que tiene que ver con los usuarios en conjunto:
+
+    def mostrar_top_10(self):
+        if not self.puntuaciones:
+            print("No hay usuarios registrados aún.")
+            return
+
+        # Ordenar usuarios por puntuación en orden descendente
+        ranking = sorted(self.puntuaciones.items(), key=lambda x: x[1]["puntuacion"], reverse=True) #Lo encontré por internet, no sabía como hacerlo
+
+        print("\n🏆 TOP 10 USUARIOS 🏆")
+        print("-" * 30)
+        for i, (usuario, datos) in enumerate(ranking[:10], start=1):
+            print(f"{i}. {usuario} - {datos['puntuacion']} puntos")
+        print("-" * 30)
+    
+    def ranking_usuarios(self):
+        usuario = Usuarios("NewPoke/usuarios.json")  # Cargar datos
+        usuario.mostrar_top_10()  # Mostrar el ranking de usuarios
     

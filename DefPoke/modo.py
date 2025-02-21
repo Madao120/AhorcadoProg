@@ -24,7 +24,7 @@ class Modo:
         if modo == 1:  # Modo clásico
             return [random.choice(self.pokedex)]
         elif modo == 2:  # Modo por tipo
-            tipo = input("Escoge un tipo de Pokémon: ").lower()
+            tipo = input("Escoge un tipo de Pokémon (sin tildes): ").lower()
             return [random.choice([p for p in self.pokedex if tipo in p["tipo"]]), tipo]    # Se devuelve el pokemon según el tipo escogido y se deuvuelve el tipo para que posteriormente en las pistas no haya redundancias, ya que aquí se escoje el tipo independientemente de que sea le principal o no, por lo que en las pistas a mostrar es conveniente tener tipo como variable
         elif modo == 3:  # Modo por generación
             generacion = input("Escoge la generación del Pokémon: ").lower()                

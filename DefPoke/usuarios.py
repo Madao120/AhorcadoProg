@@ -91,6 +91,6 @@ class Usuarios:
         print("-" * 30)
     
     def ranking_usuarios(self):
-        usuario = Usuarios("NewPoke/usuarios.json")  # Cargar datos
+        usuario = Usuarios("DefPoke/usuarios.json")  # Cargar datos
         usuario.mostrar_top_10()  # Mostrar el ranking de usuarios
     

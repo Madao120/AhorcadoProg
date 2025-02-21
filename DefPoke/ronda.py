@@ -9,7 +9,7 @@ class Ronda:
         self.modo = modo
         self.tipo_modo = tipo_modo
         self.intentos = 5 if modo in [2, 3] else 6  # Modos 2 y 3 tienen menos intentos
-        self.letras_usuario = [" ", "-"]            # Meto automáticamente el espacio y - ya que no quiero que el usuario tenga que meter estos caracteres ya que no son letras
+        self.letras_usuario = [" ", "-", "."]            # Meto automáticamente el espacio y - ya que no quiero que el usuario tenga que meter estos caracteres ya que no son letras
         self.letras_incorrectas = []                # Letras incorrectas que ha introducido el usuario
 
     def ronda(self):
@@ -50,7 +50,7 @@ class Ronda:
                 self.intentos -= 1
 
             if all(letra in self.letras_usuario for letra in self.pokemon):         # Si todas las letras del nombre del pokemon están en la lista de letras introducidas por el usuario, se dará como que ha adivinado el pokemon
-                print(f"¡Ya está! ¡{self.pokemon.capitalize()} atrapado! Has ganado {self.intentos * (10 if self.modo == 7 else 5)} puntos.")
+                print(f"¡Ya está! ¡{self.pokemon.capitalize()} atrapado! Has ganado {self.intentos * (8 if self.modo == 7 else 5)} puntos.")
                 self.usuario.actualizar_puntuacion(self.intentos * (8 if self.modo == 7 else 5))
                 break
         else:                                                                       # Si no se han adivinado todas las letras del nombre del pokemon se perderá la ronda

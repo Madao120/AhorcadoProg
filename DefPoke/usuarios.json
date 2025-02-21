@@ -1,7 +1,7 @@
 {
     "Deiko120": {
         "contrase\u00f1a": "renaido",
-        "puntuacion": 515
+        "puntuacion": 505
     },
     "messi": {
         "contrase\u00f1a": "renaido",
@@ -9,7 +9,7 @@
     },
     "paula": {
         "contrase\u00f1a": "renaido",
-        "puntuacion": 285
+        "puntuacion": 475
     },
     "Non\u00e9op": {
         "contrase\u00f1a": "renaido",
@@ -42,5 +42,9 @@
     "laura": {
         "contrase\u00f1a": "renaido",
         "puntuacion": 20
+    },
+    "balado": {
+        "contrase\u00f1a": "renaido",
+        "puntuacion": 14
     }
 }
